@@ -259,7 +259,10 @@
         "publish-success-info": "You have published a new version of this process. Make sure all calls to this process are updated.",
         "publish-success": "You have published your process",
         "available-to": "Available to users and roles",
-        "file-upload": "Drag & Drop files or click to upload."
+        "file-upload": "Drag & Drop files or click to upload.",
+        "add-role": "Add Role",
+        "edit-role": "Edit Role",
+        "role-colour": "Role colour"
     },
     "links": {
         "contact-us": "Contact us",
@@ -435,7 +438,9 @@
         "copied-to-clipboard": "Copied to clipboard.",
         "roles-changed": "You are about to make changes to edit permissions, if your access is removed the diagram will close automatically. \n\nWould you like to continue?",
         "reassign-process": "Success! The process has been reassigned to a new owner.",
-        "hide-workflow-Template": "Success! Your process has been deleted."
+        "hide-workflow-template": "Success! Your process has been deleted.",
+        "role-created": "Success! The role has been created.",
+        "role-updated": "Success! The role has been edited."
     },
     "feature": {
         "monitor": "Monitor",

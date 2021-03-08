@@ -259,7 +259,10 @@
         "publish-success-info": "Sie haben eine neue Version dieses Prozesses veroeffentlicht. Stellen Sie sicher, dass alle Aufrufe dieses Prozesses aktualisiert werden.",
         "publish-success": "Sie haben Ihren Prozess veroeffentlicht",
         "available-to": "Verfuegbar für Benutzer und Rollen",
-        "file-upload": "Drag & Drop files or click to upload."
+        "file-upload": "Drag & Drop files or click to upload.",
+        "add-role": "Rolle hinzufügen",
+        "edit-role": "Rolle bearbeiten",
+        "role-colour": "Rollenfarbe"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
@@ -435,7 +438,9 @@
         "copied-to-clipboard": "Kopiert ins Clipboard.",
         "roles-changed": "ie werden Aenderungen an den Bearbeitungsberechtigungen vornehmen. Wenn Ihr Zugriff entfernt wird, wird das Diagramm automatisch geschlossen.\n\nWollen Sie fortfahren?",
         "reassign-process": "Erfolgreich! Der Prozess wurde einem neuen Eigner zugewiesen.",
-        "hide-workflow-Template": "Erfolgreich! Ihr rozess wurde geloescht."
+        "hide-workflow-template": "Erfolgreich! Ihr rozess wurde geloescht.",
+        "role-created": "Erfolg! Die Rolle wurde erstellt.",
+        "role-updated": "Erfolg! Die Rolle wurde bearbeitet."
     },
     "feature": {
         "monitor": "Monitor",
