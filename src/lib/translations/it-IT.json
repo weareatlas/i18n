@@ -438,7 +438,7 @@
         "copied-to-clipboard": "Copiato negli appunti.",
         "roles-changed": "Stai per apportare una modifica che influirà sulle autorizzazioni per i seguenti ruoli:-\n{{roles}}\n\nIl salvataggio chiuderà la visualizzazione corrente, vuoi continuare?",
         "reassign-process": "Successo! Il processo è stato riassegnato a un nuovo proprietario.",
-        "hide-workflow-Ttmplate": "Successo! Il tuo processo è stato cancellato.",
+        "hide-workflow-template": "Successo! Il tuo processo è stato cancellato.",
         "role-created": "Successo! Il ruolo è stato creato.",
         "role-updated": "Successo! Il ruolo è stato modificato."
     },

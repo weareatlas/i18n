@@ -438,7 +438,7 @@
         "copied-to-clipboard": "Panoya kopyalandı.",
         "roles-changed": "İzinleri düzenlemek için değişiklik yapmak üzeresiniz, erişiminiz kaldırılırsa diyagram otomatik olarak kapanacaktır. \n\nDevam etmek istiyor musunuz?",
         "reassign-process": "Başarılı! İşlem, yeni bir sahibe yeniden atandı.",
-        "hide-workflow-Forgot to mention in the stand-up, I am on leave tomorrow.": "Başarılı! İşleminiz silindi.",
+        "hide-workflow-template.": "Başarılı! İşleminiz silindi.",
         "role-created": "Başarılı! Rol oluşturuldu.",
         "role-updated": "Başarılı! Rol düzenlendi."
     },
