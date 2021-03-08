@@ -438,7 +438,7 @@
         "copied-to-clipboard": "Kopiert ins Clipboard.",
         "roles-changed": "ie werden Aenderungen an den Bearbeitungsberechtigungen vornehmen. Wenn Ihr Zugriff entfernt wird, wird das Diagramm automatisch geschlossen.\n\nWollen Sie fortfahren?",
         "reassign-process": "Erfolgreich! Der Prozess wurde einem neuen Eigner zugewiesen.",
-        "hide-workflow-Template": "Erfolgreich! Ihr rozess wurde geloescht.",
+        "hide-workflow-template": "Erfolgreich! Ihr rozess wurde geloescht.",
         "role-created": "Erfolg! Die Rolle wurde erstellt.",
         "role-updated": "Erfolg! Die Rolle wurde bearbeitet."
     },
