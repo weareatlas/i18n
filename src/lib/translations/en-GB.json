@@ -8,7 +8,8 @@
     "login": {
         "login": "Login",
         "sign-in": "Add an account to get started",
-        "unsupported-browser": "Unsupported browser",
+        "unsupported-browser": "Oops! Your browser is not supported.",
+        "supported-browser": "We want you to have the best experience with Atlas and that means using the most up to date browser. Please update your browser to the latest version or download one of the following browsers.",
         "continue-anyway": "Continue anyway",
         "add-account": "Add account",
         "select-account": "Select an account",
@@ -17,7 +18,10 @@
         "error-title": "Something went wrong",
         "error-message": "We couldn't process your action and we are now redirecting you to the login page...",
         "redirect-warn": "If you haven't been redirected in 20 seconds, click the button below.",
-        "page-not-found": "Page not found"
+        "page-not-found": "Page not found",
+        "browser-compatibility": "Already updated but still having issues?",
+        "support": "Get in touch now",
+        "version": "Version"
     },
     "message": {
         "input-actions": "Input Actions",

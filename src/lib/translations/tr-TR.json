@@ -8,7 +8,8 @@
     "login": {
         "login": "Login",
         "sign-in": "Add an account to get started",
-        "unsupported-browser": "Unsupported browser",
+        "unsupported-browser": "Oops! Tarayıcınız desteklenmiyor.",
+        "supported-browser": "Atlas ile en iyi deneyimi yaşamanızı istiyoruz ve bu, en güncel tarayıcıyı kullanmak anlamına geliyor. Lütfen tarayıcınızı en son sürüme güncelleyin veya aşağıdaki tarayıcılardan birini indirin.",
         "continue-anyway": "Continue anyway",
         "add-account": "Add account",
         "select-account": "Select an account",
@@ -17,7 +18,10 @@
         "error-title": "Something went wrong",
         "error-message": "We couldn't process your action and we are now redirecting you to the login page...",
         "redirect-warn": "If you haven't been redirected in 20 seconds, click the button below.",
-        "page-not-found": "Page not found"
+        "page-not-found": "Page not found",
+        "browser-compatibility": "Zaten güncellediğiniz halde hala sorun mu yaşıyorsunuz?",
+        "support": "Şimdi iletişime geçin",
+        "version": "versiyon"
     },
     "message": {
         "input-actions": "Girdi Eylemleri",
