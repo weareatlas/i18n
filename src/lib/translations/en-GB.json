@@ -475,7 +475,8 @@
         "english": "English",
         "chinese": "Chinese (中国人)",
         "italian": "Italian (Italiano)",
-        "german": "German (Deutsche)"
+        "german": "German (Deutsche)",
+        "turkish": "Turkish (Türk)"
     },
     "error": {
         "server-error": "An unexpected server error has occurred",
