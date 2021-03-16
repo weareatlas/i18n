@@ -475,7 +475,8 @@
         "english": "İngilizce",
         "chinese": "Çince (中国人)",
         "italian": "Italyanca (Italiano)",
-        "german": "Almanca (Deutsche)"
+        "german": "Almanca (Deutsche)",
+        "turkish": "Türk"
     },
     "error": {
         "server-error": "Beklenmeyen bir sunucu hatası oluştu",

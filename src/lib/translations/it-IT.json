@@ -475,7 +475,8 @@
         "english": "Inglese (English)",
         "chinese": "Cinese (中国人)",
         "italian": "Italiano",
-        "german": "Tedesco (Deutsche)"
+        "german": "Tedesco (Deutsche)",
+        "turkish": "Turca (Türk)"
     },
     "error": {
         "server-error": "Si è verificato un errore imprevisto del server.",
