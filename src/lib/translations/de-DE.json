@@ -272,7 +272,9 @@
         "process-card-view": "Siehe Prozess in der Kartenansicht",
         "process-table-view": "Siehe Prozess in der Tabellenansicht",
         "role-card-view": "Siehe Rolle in der Kartenansicht",
-        "role-table-view": "Siehe Rolle in der Tabellenansicht"
+        "role-table-view": "Siehe Rolle in der Tabellenansicht",
+        "call-activity-info": "Sie können den gesuchten Prozess nicht sehen? Stellen Sie sicher, dass es veröffentlicht wurde, und versuchen Sie es erneut.",
+        "select-process-info": "Wenn Sie den gesuchten Prozess nicht sehen können, stellen Sie sicher, dass er veröffentlicht wurde, und versuchen Sie es erneut."
     },
     "links": {
         "contact-us": "Kontaktiere uns",

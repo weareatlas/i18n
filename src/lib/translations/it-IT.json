@@ -272,7 +272,9 @@
         "process-card-view": "Visualizza il processo nella visualizzazione schede",
         "process-table-view": "Vedi il processo nella vista tabella",
         "role-card-view": "Guarda il ruolo nella visualizzazione schede",
-        "role-table-view": "Vedi ruolo nella visualizzazione tabella"
+        "role-table-view": "Vedi ruolo nella visualizzazione tabella",
+        "call-activity-info": "Non riesci a vedere il processo che stai cercando? Assicurati che sia stato pubblicato e riprova.",
+        "select-process-info": "Se non riesci a visualizzare il processo che stai cercando, assicurati che sia stato pubblicato e riprova."
     },
     "links": {
         "contact-us": "Contattaci",
