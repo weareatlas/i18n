@@ -266,7 +266,13 @@
         "file-upload": "Drag & Drop files or click to upload.",
         "add-role": "Rolle hinzufügen",
         "edit-role": "Rolle bearbeiten",
-        "role-colour": "Rollenfarbe"
+        "role-colour": "Rollenfarbe",
+        "task-card-view": "Siehe Aufgaben in der Kartenansicht",
+        "task-table-view": "Siehe Aufgaben in der Tabellenansicht",
+        "process-card-view": "Siehe Prozess in der Kartenansicht",
+        "process-table-view": "Siehe Prozess in der Tabellenansicht",
+        "role-card-view": "Siehe Rolle in der Kartenansicht",
+        "role-table-view": "Siehe Rolle in der Tabellenansicht"
     },
     "links": {
         "contact-us": "Kontaktiere uns",

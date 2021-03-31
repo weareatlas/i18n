@@ -266,7 +266,13 @@
         "file-upload": "Trascina e rilascia i file o fai clic per caricarli",
         "add-role": "Aggiungi ruolo",
         "edit-role": "Modifica ruolo",
-        "role-colour": "Colore del ruolo"
+        "role-colour": "Colore del ruolo",
+        "task-card-view": "Visualizza le attività nella visualizzazione schede",
+        "task-table-view": "Visualizza le attività nella visualizzazione tabella",
+        "process-card-view": "Visualizza il processo nella visualizzazione schede",
+        "process-table-view": "Vedi il processo nella vista tabella",
+        "role-card-view": "Guarda il ruolo nella visualizzazione schede",
+        "role-table-view": "Vedi ruolo nella visualizzazione tabella"
     },
     "links": {
         "contact-us": "Contattaci",

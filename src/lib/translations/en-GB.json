@@ -266,7 +266,13 @@
         "file-upload": "Drag & Drop files or click to upload.",
         "add-role": "Add Role",
         "edit-role": "Edit Role",
-        "role-colour": "Role colour"
+        "role-colour": "Role colour",
+        "task-card-view": "See tasks in card view",
+        "task-table-view": "See tasks in table view",
+        "process-card-view": "See process in card view",
+        "process-table-view": "See process in table view",
+        "role-card-view": "See role in card view",
+        "role-table-view": "See role in table view"
     },
     "links": {
         "contact-us": "Contact us",
