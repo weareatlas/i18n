@@ -266,7 +266,13 @@
         "file-upload": "Dosyaları sürükleyip bırakın veya yüklemek için tıklayın.",
         "add-role": "Rol Ekle",
         "edit-role": "Rolü Düzenle",
-        "role-colour": "Rol rengi"
+        "role-colour": "Rol rengi",
+        "task-card-view": "Görevleri kart görünümünde görün",
+        "task-table-view": "Tablo görünümünde görevleri görün",
+        "process-card-view": "İşlemi kart görünümünde görün",
+        "process-table-view": "Süreci tablo görünümünde görün",
+        "role-card-view": "Kart görünümündeki rolü görün",
+        "role-table-view": "Tablo görünümündeki rolü görün"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",
