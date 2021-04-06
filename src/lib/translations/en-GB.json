@@ -315,7 +315,10 @@
         "due-on": "Due",
         "no-due-date": "Set Due Date",
         "due-date": "Due Date",
-        "depends-on": "Depends On"
+        "depends-on": "Depends On",
+        "custom-range": "Select custom range",
+        "from": "From",
+        "to": "To"
     },
     "status": {
         "created": "Created",
@@ -422,7 +425,8 @@
         "assign": "Assign",
         "view-process": "View Process",
         "delete": "Delete",
-        "remap-delete": "Delete and Remap"
+        "remap-delete": "Delete and Remap",
+        "custom": "custom"
     },
     "action": {
         "priority-success": "Priority changed successfully.",
