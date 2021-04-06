@@ -315,7 +315,10 @@
         "due-on": "Faellig",
         "no-due-date": "Prioritaetsdatum einstellen",
         "due-date": "Faelligkeitsdtum",
-        "depends-on": "Kommt drauf an"
+        "depends-on": "Kommt drauf an",
+        "custom-range": "Wählen Sie einen benutzerdefinierten Bereich",
+        "from": "Von",
+        "to": "Zu"
     },
     "status": {
         "created": "erstellt",
@@ -422,7 +425,8 @@
         "assign": "Zuweisen",
         "view-process": "Zeige Prozess",
         "delete": "Loeschen",
-        "remap-delete": "Loeschen und neu zuweisen"
+        "remap-delete": "Loeschen und neu zuweisen",
+        "custom": "Benutzerdefiniert"
     },
     "action": {
         "priority-success": "Prioritaet erfolgreich geaendert.",

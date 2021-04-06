@@ -315,7 +315,10 @@
         "due-on": "Tarihine Kadar",
         "no-due-date": "Bitiş Tarihi Ayarla",
         "due-date": "Bitiş Tarihi",
-        "depends-on": "Bağlıdır"
+        "depends-on": "Bağlıdır",
+        "custom-range": "özel aralığı seçin",
+        "from": "Nereden",
+        "to": "İçin"
     },
     "status": {
         "created": "Oluşturuldu",
@@ -422,7 +425,8 @@
         "assign": "Atamak",
         "view-process": "İşlemi Görüntüle",
         "delete": "Sil",
-        "remap-delete": "Sil ve Tekrardan Haritala"
+        "remap-delete": "Sil ve Tekrardan Haritala",
+        "custom": "özel"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",

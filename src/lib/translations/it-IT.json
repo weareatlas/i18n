@@ -315,7 +315,10 @@
         "due-on": "Scadenza il",
         "no-due-date": "Imposta data di scadenza",
         "due-date": "Scadenza",
-        "depends-on": "Dipende da"
+        "depends-on": "Dipende da",
+        "custom-range": "Seleziona intervallo personalizzato",
+        "from": "A partire dal",
+        "to": "Per"
     },
     "status": {
         "created": "Creato",
@@ -422,7 +425,8 @@
         "assign": "Assegnare",
         "view-process": "Visualizza processo",
         "delete": "Elimina",
-        "remap-delete": "Ripianifica e Elimina"
+        "remap-delete": "Ripianifica e Elimina",
+        "custom": "personalizzata"
     },
     "action": {
         "priority-success": "Priorità cambiata con successo.",
