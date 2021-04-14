@@ -105,7 +105,7 @@
         "pipeline-headers": "Pipeline Überschriften",
         "pipeline-header": "Pipeline Überschrift",
         "pipeline-header-key": "Pipeline Überschrift Key",
-        "recent-tasks": "Aktuelle Tasks",
+        "recent-tasks": "Neue Aufgaben",
         "waiting-for-server": "Auf Server warten...",
         "headers": "Überschriften",
         "value": "Value",
@@ -274,7 +274,8 @@
         "role-card-view": "Siehe Rolle in der Kartenansicht",
         "role-table-view": "Siehe Rolle in der Tabellenansicht",
         "call-activity-info": "Sie können den gesuchten Prozess nicht sehen? Stellen Sie sicher, dass es veröffentlicht wurde, und versuchen Sie es erneut.",
-        "select-process-info": "Wenn Sie den gesuchten Prozess nicht sehen können, stellen Sie sicher, dass er veröffentlicht wurde, und versuchen Sie es erneut."
+        "select-process-info": "Wenn Sie den gesuchten Prozess nicht sehen können, stellen Sie sicher, dass er veröffentlicht wurde, und versuchen Sie es erneut.",
+        "no-recent-task": "Hier sehen Sie alle Ihre neuen Aufgaben. Warten Sie, bis Ihnen neue Aufgaben zugewiesen wurden, oder starten Sie einen Prozess über die Freigabe."
     },
     "links": {
         "contact-us": "Kontaktiere uns",

@@ -105,7 +105,7 @@
         "pipeline-headers": "Intestazioni della pipeline",
         "pipeline-header": "Intestazione della pipeline",
         "pipeline-header-key": "Chiave di intestazione della pipeline",
-        "recent-tasks": "Nuove attività",
+        "recent-tasks": "Nuovi compiti",
         "waiting-for-server": "In attesa di server...",
         "headers": "Header",
         "value": "Valore",
@@ -274,7 +274,8 @@
         "role-card-view": "Guarda il ruolo nella visualizzazione schede",
         "role-table-view": "Vedi ruolo nella visualizzazione tabella",
         "call-activity-info": "Non riesci a vedere il processo che stai cercando? Assicurati che sia stato pubblicato e riprova.",
-        "select-process-info": "Se non riesci a visualizzare il processo che stai cercando, assicurati che sia stato pubblicato e riprova."
+        "select-process-info": "Se non riesci a visualizzare il processo che stai cercando, assicurati che sia stato pubblicato e riprova.",
+        "no-recent-task": "Vedrai tutte le tue nuove attività qui. Attendi che ti vengano assegnate nuove attività o avvia un processo da Condivi"
     },
     "links": {
         "contact-us": "Contattaci",
