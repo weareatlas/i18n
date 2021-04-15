@@ -337,6 +337,7 @@
         "suspended-reserved": "Beklemede",
         "draft": "Taslak",
         "published": "Yayınlandı",
+        "published-active": "Yayınlandı*",
         "hidden": "Gizli"
     },
     "button": {

@@ -337,6 +337,7 @@
         "suspended-reserved": "verschoben",
         "draft": "Entwurf",
         "published": "veroeffentlicht",
+        "published-active": "veroeffentlicht*",
         "hidden": "versteckt"
     },
     "button": {
