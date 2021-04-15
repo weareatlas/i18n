@@ -337,6 +337,7 @@
         "suspended-reserved": "Suspended",
         "draft": "Draft",
         "published": "Published",
+        "published-active": "Published*",
         "hidden": "Hidden"
     },
     "button": {

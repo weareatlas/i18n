@@ -337,6 +337,7 @@
         "suspended-reserved": "Sospeso",
         "draft": "Bozza",
         "published": "Pubblicato",
+        "published-active": "Pubblicato*",
         "hidden": "Nascosto"
     },
     "button": {
