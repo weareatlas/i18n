@@ -3,7 +3,8 @@
         "good-morning": "Good Morning",
         "good-afternoon": "Good Afternoon",
         "good-evening": "Good Evening",
-        "read-guides": "Read Guides"
+        "read-guides": "Read Guides",
+        "start-tutorial": "Start Tutorial"
     },
     "login": {
         "login": "Login",

@@ -1,9 +1,10 @@
 {
     "home": {
-        "good-morning": "Good Morning",
-        "good-afternoon": "Good Afternoon",
-        "good-evening": "Good Evening",
-        "read-guides": "Read Guides"
+        "good-morning": "Günaydın",
+        "good-afternoon": "Tünaydın",
+        "good-evening": "İyi akşamlar",
+        "read-guides": "Kılavuzları Okuyun",
+        "start-tutorial": "Eğiticiyi Başlat"
     },
     "login": {
         "login": "Login",

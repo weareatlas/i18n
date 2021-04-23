@@ -3,7 +3,8 @@
         "good-morning": "Buongiorno",
         "good-afternoon": "Buon pomeriggio",
         "good-evening": "Buona serata",
-        "read-guides": "Leggi le guide"
+        "read-guides": "Leggi le guide",
+        "start-tutorial": "Inizia tutorial"
     },
     "login": {
         "login": "Accesso",
