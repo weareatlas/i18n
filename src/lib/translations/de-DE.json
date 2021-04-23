@@ -1,9 +1,10 @@
 {
     "home": {
-        "good-morning": "Good Morning",
-        "good-afternoon": "Good Afternoon",
-        "good-evening": "Good Evening",
-        "read-guides": "Read Guides"
+        "good-morning": "Guten Morgen",
+        "good-afternoon": "Guten Nachmittag",
+        "good-evening": "Guten Abend",
+        "read-guides": "Anleitungen lesen",
+        "start-tutorial": "Tutorial starten"
     },
     "login": {
         "login": "Login",
