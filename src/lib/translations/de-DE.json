@@ -560,5 +560,26 @@
         "sequential-mi": "Sequentielle Multi-Instanz Aufgabe",
         "loop": "Loop Aufgabe",
         "ad-hoc": "Ad-hoc Unterprozess"
+    },
+    "dashboard": {
+        "reference": "Dashboard-Referenz",
+        "roles": "Rollen mit Zugriff auf das Dashboard",
+        "colour": "Dashboard-Farbe",
+        "icon": "Dashboard-Symbol",
+        "name-helper-text": "Name ist erforderlich",
+        "reference-helper-text": "Dashboard-Referenz ist erforderlich",
+        "save": "Speichern",
+        "add": "Hinzufügen",
+        "edit": "Bearbeiten",
+        "remove": "Entfernen",
+        "view": "Aussicht",
+        "search": "Suche",
+        "search-text": "Suche nach Dashboard-Namen ...",
+        "title": "Dashboards",
+        "roles-tooltip": "Zugewiesene Rollen haben Anzeigezugriff auf das Dashboard.",
+        "success-message": "Ihr neues Dashboard wurde erstellt.",
+        "deleted-message": "Ihr Dashboard wurde entfernt.",
+        "edit-confirmation-title": "Möchten Sie dieses Dashboard wirklich bearbeiten?",
+        "edit-confirmation-body": "Dies ist für kleine Änderungen im Dashboard vorgesehen und wirkt sich auf alle Benutzer aus, die dieser Rolle zugewiesen sind. Wenn Sie den Zweck des Dashboards ändern möchten, erstellen Sie stattdessen ein neues."
     }
 }

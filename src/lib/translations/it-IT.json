@@ -560,5 +560,26 @@
         "sequential-mi": "Attività sequenziali multiistanzak",
         "loop": "Attività in loop",
         "ad-hoc": "Sottoprocesso ad hoc"
+    },
+    "dashboard": {
+        "reference": "Riferimento dashboard",
+        "roles": "Ruoli con accesso alla dashboard",
+        "colour": "Colore cruscotto",
+        "icon": "Icona del cruscotto",
+        "name-helper-text": "Il nome è obbligatorio",
+        "reference-helper-text": "È richiesto il riferimento al dashboar",
+        "save": "Salva",
+        "add": "Inserisci",
+        "edit": "Modificare",
+        "remove": "Rimuovere",
+        "view": "Visualizza",
+        "search": "Ricerca",
+        "search-text": "Cerca per nome dashboard ...",
+        "title": "Dashboards",
+        "roles-tooltip": "I ruoli assegnati avranno accesso in visualizzazione alla dashboard.",
+        "success-message": "La tua nuova dashboard è stata creata.",
+        "deleted-message": "La tua dashboard è stata rimossa.",
+        "edit-confirmation-title": "Sei sicuro di voler modificare questa dashboard?",
+        "edit-confirmation-body": "Questo è inteso per piccole modifiche all'interno della dashboard e interesserà tutti gli utenti assegnati a questo ruolo. Se desideri modificare lo scopo del dashboard, creane uno nuovo."
     }
 }

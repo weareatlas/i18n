@@ -560,5 +560,26 @@
         "sequential-mi": "Ardışık birden çok örnekli task",
         "loop": "Döngü Görevi",
         "ad-hoc": "Geçici Alt İşlem"
+    },
+    "dashboard": {
+        "reference": "Gösterge Tablosu Referansı",
+        "roles": "Kontrol paneline erişimi olan roller",
+        "colour": "Gösterge tablosu rengi",
+        "icon": "Kontrol paneli simgesi",
+        "name-helper-text": "İsim gerekli",
+        "reference-helper-text": "Gösterge Tablosu Referansı gerekli",
+        "save": "Kayıt etmek",
+        "add": "Ekle",
+        "edit": "Düzenle",
+        "remove": "Kaldırmak",
+        "view": "Görünüm",
+        "search": "Arama",
+        "search-text": "Gösterge Tablosu Adına Göre Ara ...",
+        "title": "Gösterge tabloları",
+        "roles-tooltip": "Atanan rollerin kontrol paneline görüntüleme erişimi olacaktır.",
+        "success-message": "Yeni kontrol paneliniz oluşturuldu.",
+        "deleted-message": "Gösterge tablonuz kaldırıldı.",
+        "edit-confirmation-title": "Bu kontrol panelini düzenlemek istediğinizden emin misiniz?",
+        "edit-confirmation-body": "Bu, kontrol panelindeki küçük düzenlemeler içindir ve bu role atanan tüm kullanıcıları etkiler. Kontrol panelinin amacını değiştirmek istiyorsanız bunun yerine yeni bir tane oluşturun."
     }
 }

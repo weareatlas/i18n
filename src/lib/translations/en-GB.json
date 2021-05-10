@@ -560,5 +560,26 @@
         "sequential-mi": "Sequential Multi-Instance Task",
         "loop": "Loop Task",
         "ad-hoc": "Ad-hoc Sub Process"
+    },
+    "dashboard": {
+        "reference": "Dashboard Reference",
+        "roles": "Roles with access to dashboard",
+        "colour": "'Dashboard colour",
+        "icon": "Dashboard icon",
+        "name-helper-text": "Name is required",
+        "reference-helper-text": "Dashboard Reference is required",
+        "add": "Add",
+        "save": "Save",
+        "edit": "Edit",
+        "remove": "Remove",
+        "view": "View",
+        "search": "Search",
+        "search-text": "Search by Dashboard Name...",
+        "title": "Dashboards",
+        "roles-tooltip": "Assigned roles will have viewing access to the dashboard.",
+        "success-message": "Your new dashboard has been created.",
+        "deleted-message": "Your dashboard has been removed.",
+        "edit-confirmation-title": "Are you sure you want to edit this dashboard?",
+        "edit-confirmation-body": "This is intended for small edits within the dashboard and it will affect all users assigned to this role. If you want to change the purpose of the dashboard, create a new one instead."
     }
 }
