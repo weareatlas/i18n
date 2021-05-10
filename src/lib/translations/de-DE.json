@@ -25,6 +25,8 @@
         "version": "Ausführung"
     },
     "message": {
+        "dashboards": "Dashboards",
+        "edit-dashboard": "Dashboard Bearbeiten",
         "input-actions": "Eingabe Aktionen",
         "output-actions": "Ausgabe Aktionen",
         "input-values": "Eingabe Werte",

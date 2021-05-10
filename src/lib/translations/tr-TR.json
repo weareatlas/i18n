@@ -25,6 +25,8 @@
         "version": "versiyon"
     },
     "message": {
+        "dashboards": "Gösterge tabloları",
+        "edit-dashboard": "Gösterge Tablosunu Düzenle",
         "input-actions": "Girdi Eylemleri",
         "output-actions": "Çıktı Eylemleri",
         "input-values": "Girdi Değerleri",

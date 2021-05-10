@@ -25,6 +25,8 @@
         "version": "versione"
     },
     "message": {
+        "dashboards": "Dashboards",
+        "edit-dashboard": "Modifica dashboard",
         "input-actions": "Azioni di input",
         "output-actions": "Azioni di output",
         "input-values": "Valori di input",
