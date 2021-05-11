@@ -580,6 +580,11 @@
         "success-message": "Your new dashboard has been created.",
         "deleted-message": "Your dashboard has been removed.",
         "edit-confirmation-title": "Are you sure you want to edit this dashboard?",
-        "edit-confirmation-body": "This is intended for small edits within the dashboard and it will affect all users assigned to this role. If you want to change the purpose of the dashboard, create a new one instead."
+        "edit-confirmation-body": "This is intended for small edits within the dashboard and it will affect all users assigned to this role. If you want to change the purpose of the dashboard, create a new one instead.",
+        "delete-confirmation": "Are you sure you want to remove this dashboard?",
+        "no-records": "No dashboard found",
+        "edit-title": "Edit Dashboard",
+        "add-title": "Add Dashboard",
+        "edit-message": "Your dashboard has been saved."
     }
 }

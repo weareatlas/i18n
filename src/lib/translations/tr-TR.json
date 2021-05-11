@@ -580,6 +580,11 @@
         "success-message": "Yeni kontrol paneliniz oluşturuldu.",
         "deleted-message": "Gösterge tablonuz kaldırıldı.",
         "edit-confirmation-title": "Bu kontrol panelini düzenlemek istediğinizden emin misiniz?",
-        "edit-confirmation-body": "Bu, kontrol panelindeki küçük düzenlemeler içindir ve bu role atanan tüm kullanıcıları etkiler. Kontrol panelinin amacını değiştirmek istiyorsanız bunun yerine yeni bir tane oluşturun."
+        "edit-confirmation-body": "Bu, kontrol panelindeki küçük düzenlemeler içindir ve bu role atanan tüm kullanıcıları etkiler. Kontrol panelinin amacını değiştirmek istiyorsanız bunun yerine yeni bir tane oluşturun.",
+        "delete-confirmation": "Bu kontrol panelini kaldırmak istediğinizden emin misiniz?",
+        "no-records": "Gösterge tablosu bulunamadı",
+        "edit-title": "Gösterge Tablosunu Düzenle",
+        "add-title": "Gösterge Tablosu Ekle",
+        "edit-message": "Gösterge tablonuz kaydedildi."
     }
 }
