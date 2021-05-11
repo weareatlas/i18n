@@ -580,6 +580,11 @@
         "success-message": "Ihr neues Dashboard wurde erstellt.",
         "deleted-message": "Ihr Dashboard wurde entfernt.",
         "edit-confirmation-title": "Möchten Sie dieses Dashboard wirklich bearbeiten?",
-        "edit-confirmation-body": "Dies ist für kleine Änderungen im Dashboard vorgesehen und wirkt sich auf alle Benutzer aus, die dieser Rolle zugewiesen sind. Wenn Sie den Zweck des Dashboards ändern möchten, erstellen Sie stattdessen ein neues."
+        "edit-confirmation-body": "Dies ist für kleine Änderungen im Dashboard vorgesehen und wirkt sich auf alle Benutzer aus, die dieser Rolle zugewiesen sind. Wenn Sie den Zweck des Dashboards ändern möchten, erstellen Sie stattdessen ein neues.",
+        "delete-confirmation": "Möchten Sie dieses Dashboard wirklich entfernen?",
+        "no-records": "Kein Dashboard gefunden",
+        "edit-title": "Dashboard bearbeiten",
+        "add-title": "Dashboard hinzufügen",
+        "edit-message": "Ihr Dashboard wurde gespeichert."
     }
 }
