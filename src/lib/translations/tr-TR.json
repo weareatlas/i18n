@@ -484,7 +484,8 @@
         "payment": "Ödeme",
         "key-builder": "Anahtar Oluşturucu",
         "map-permissions": "Harita İzinleri",
-        "workflow-delete": "İş Akışını Sil"
+        "workflow-delete": "İş Akışını Sil",
+        "register": "Kayıt ol"
     },
     "language": {
         "english": "İngilizce",

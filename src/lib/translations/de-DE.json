@@ -484,7 +484,8 @@
         "payment": "Zahlung",
         "key-builder": "Schluessel Builder",
         "map-permissions": "Berechtigungen zuweisen",
-        "workflow-delete": "Loesche Workflow"
+        "workflow-delete": "Loesche Workflow",
+        "register": "Registrieren"
     },
     "language": {
         "english": "Englisch (English)",

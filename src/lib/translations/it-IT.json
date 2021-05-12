@@ -484,7 +484,8 @@
         "payment": "Pagamento",
         "key-builder": "Key builder",
         "map-permissions": "Autorizzazioni pianificazione",
-        "workflow-delete": "Delete Workflow"
+        "workflow-delete": "Delete Workflow",
+        "register": "Registrati"
     },
     "language": {
         "english": "Inglese (English)",
