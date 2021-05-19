@@ -4,7 +4,13 @@
         "good-afternoon": "Guten Nachmittag",
         "good-evening": "Guten Abend",
         "read-guides": "Anleitungen lesen",
-        "start-tutorial": "Tutorial starten"
+        "start-tutorial": "Tutorial starten",
+        "unlock-tutorial": "Tutorial entsperren",
+        "tutorial-completed": "Tutorial abgeschlossen",
+        "tutorial-in-progress": "Tutorial in Bearbeitung",
+        "tutorial-complete-help": "Sie haben Ihr <action> -Tutorial abgeschlossen.",
+        "tutorial-in-progress-help": "Ihr <action> -Tutorial wird ausgeführt. Setzen Sie es in Ihren Aufgaben fort.",
+        "unlock-tutorial-help": "Sie müssen ein bestimmtes <before> Tutorial absolvieren, um das <after> Training freizuschalten"
     },
     "login": {
         "login": "Login",

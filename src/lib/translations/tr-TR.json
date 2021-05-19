@@ -4,7 +4,13 @@
         "good-afternoon": "Tünaydın",
         "good-evening": "İyi akşamlar",
         "read-guides": "Kılavuzları Okuyun",
-        "start-tutorial": "Eğiticiyi Başlat"
+        "start-tutorial": "Eğiticiyi Başlat",
+        "unlock-tutorial": "Eğiticinin Kilidini Aç",
+        "tutorial-completed": "Eğitici Tamamlandı",
+        "tutorial-in-progress": "Eğitim devam ediyor",
+        "tutorial-complete-help": "<action> öğreticinizi tamamladınız, gidilecek yer!",
+        "tutorial-in-progress-help": "<action> eğiticiniz devam ediyor. Görevlerinize devam edin.",
+        "unlock-tutorial-help": "<after> eğitimin kilidini açmak için belirli <before> eğitimini tamamlamanız gerekiyor"
     },
     "login": {
         "login": "Login",
