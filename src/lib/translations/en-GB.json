@@ -4,7 +4,13 @@
         "good-afternoon": "Good Afternoon",
         "good-evening": "Good Evening",
         "read-guides": "Read Guides",
-        "start-tutorial": "Start Tutorial"
+        "start-tutorial": "Start Tutorial",
+        "unlock-tutorial": "unlock Tutorial",
+        "tutorial-completed": "Tutorial Completed",
+        "tutorial-in-progress": "Tutorial in progress",
+        "tutorial-complete-help": "You have completed your <action> tutorial, way to go!",
+        "tutorial-in-progress-help": "Your <action> tutorial is in progress. Continue it in your tasks.",
+        "unlock-tutorial-help": "You need to complete specific  <before> tutorial to unlock <after> training"
     },
     "login": {
         "login": "Login",
