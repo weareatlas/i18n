@@ -270,7 +270,7 @@
         "publish-success-info": "Hai pubblicato una nuova versione di questo processo. Assicurati che tutte le chiamate a questo processo siano aggiornate.",
         "publish-success": "Hai pubblicato il tuo processo",
         "available-to": "Disponibile per utenti e ruoli",
-        "file-upload": "Trascina e rilascia i file o fai clic per caricarli",
+        "file-upload": "Trascina e rilascia un file o fai clic per caricarlo",
         "add-role": "Aggiungi ruolo",
         "edit-role": "Modifica ruolo",
         "role-colour": "Colore del ruolo",
