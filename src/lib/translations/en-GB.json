@@ -270,7 +270,7 @@
         "publish-success-info": "You have published a new version of this process. Make sure all calls to this process are updated.",
         "publish-success": "You have published your process",
         "available-to": "Available to users and roles",
-        "file-upload": "Drag & Drop files or click to upload.",
+        "file-upload": "Drag & Drop a file or click to upload",
         "add-role": "Add Role",
         "edit-role": "Edit Role",
         "role-colour": "Role colour",
