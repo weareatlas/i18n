@@ -28,7 +28,8 @@
         "page-not-found": "Page not found",
         "browser-compatibility": "Zaten güncellediğiniz halde hala sorun mu yaşıyorsunuz?",
         "support": "Şimdi iletişime geçin",
-        "version": "versiyon"
+        "version": "versiyon",
+        "issues-text": "Hala sorun mu yaşıyorsunuz?"
     },
     "message": {
         "input-actions": "Girdi Eylemleri",
@@ -291,7 +292,8 @@
         "support": "Destek",
         "products": "Ürünler",
         "dashboard": "Gösterge Paneli",
-        "news": "Haberler"
+        "news": "Haberler",
+        "troubleshoot": "Sorun gidermek için burayı tıklayın"
     },
     "fields": {
         "text-input": "Metin Giriş Alanı",

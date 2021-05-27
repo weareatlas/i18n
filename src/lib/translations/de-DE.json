@@ -28,7 +28,8 @@
         "page-not-found": "Page not found",
         "browser-compatibility": "Bereits aktualisiert, aber immer noch Probleme?",
         "support": "Kontaktieren Sie uns jetzt",
-        "version": "Ausführung"
+        "version": "Ausführung",
+        "issues-text": "Haben Sie immer noch Probleme?"
     },
     "message": {
         "input-actions": "Eingabe Aktionen",
@@ -291,7 +292,8 @@
         "support": "Support",
         "products": "Produkte",
         "dashboard": "Dashboard",
-        "news": "Neuigkeiten"
+        "news": "Neuigkeiten",
+        "troubleshoot": "Klicken Sie hier, um Fehler zu beheben"
     },
     "fields": {
         "text-input": "Text Eingabe Feld",
