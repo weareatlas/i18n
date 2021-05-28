@@ -437,7 +437,8 @@
         "view-process": "Visualizza processo",
         "delete": "Elimina",
         "remap-delete": "Ripianifica e Elimina",
-        "custom": "personalizzata"
+        "custom": "personalizzata",
+        "refresh-diagram": "Aggiorna diagramma"
     },
     "action": {
         "priority-success": "Priorità cambiata con successo.",

@@ -437,7 +437,8 @@
         "view-process": "Zeige Prozess",
         "delete": "Loeschen",
         "remap-delete": "Loeschen und neu zuweisen",
-        "custom": "Benutzerdefiniert"
+        "custom": "Benutzerdefiniert",
+        "refresh-diagram": "Diagramm aktualisieren"
     },
     "action": {
         "priority-success": "Prioritaet erfolgreich geaendert.",
