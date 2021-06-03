@@ -1,4 +1,9 @@
 {
+    "learning-hub": {
+        "banner-title": "Atlas Training",
+        "banner-description": "The Atlas training takes you through Run & Map, with 3 Maturity Levels each: explore these features and avance your knowledge to accelerate your digital transformation.",
+        "start": "Start Training"
+    },
     "home": {
         "good-morning": "Good Morning",
         "good-afternoon": "Good Afternoon",
