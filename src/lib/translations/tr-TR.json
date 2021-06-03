@@ -1,4 +1,9 @@
 {
+    "learning-hub": {
+        "banner-title": "Atlas Eğitimi",
+        "banner-description": "Atlas eğitimi, her biri 3 Olgunluk Düzeyine sahip Run & Map ile sizi yönlendirir: bu özellikleri keşfedin ve dijital dönüşümünüzü hızlandırmak için bilginizi artırın.",
+        "start": "Antrenmana başla"
+    },
     "home": {
         "good-morning": "Günaydın",
         "good-afternoon": "Tünaydın",

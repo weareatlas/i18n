@@ -1,4 +1,9 @@
 {
+    "learning-hub": {
+        "banner-title": "Atlas-Schulung",
+        "banner-description": "Das Atlas-Training führt Sie durch Run & Map mit jeweils 3 Reifegraden: Entdecken Sie diese Funktionen und erweitern Sie Ihr Wissen, um Ihre digitale Transformation zu beschleunigen.",
+        "start": "Beginne zu üben"
+    },
     "home": {
         "good-morning": "Guten Morgen",
         "good-afternoon": "Guten Nachmittag",
