@@ -442,7 +442,8 @@
         "view-process": "View Process",
         "delete": "Delete",
         "remap-delete": "Delete and Remap",
-        "custom": "custom"
+        "custom": "custom",
+        "refresh-diagram": "Refresh Diagram"
     },
     "action": {
         "priority-success": "Priority changed successfully.",

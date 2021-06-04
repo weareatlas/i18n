@@ -442,7 +442,8 @@
         "view-process": "İşlemi Görüntüle",
         "delete": "Sil",
         "remap-delete": "Sil ve Tekrardan Haritala",
-        "custom": "özel"
+        "custom": "özel",
+        "refresh-diagram": "Diyagramı Yenile"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",
