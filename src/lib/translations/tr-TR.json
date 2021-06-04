@@ -2,7 +2,32 @@
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",
         "banner-description": "Atlas eğitimi, her biri 3 Olgunluk Düzeyine sahip Run & Map ile sizi yönlendirir: bu özellikleri keşfedin ve dijital dönüşümünüzü hızlandırmak için bilginizi artırın.",
-        "start": "Antrenmana başla"
+        "start": "Antrenmana başla",
+        "title": "Öğrenme Merkezi",
+        "subtitle": "Atlas Play hakkında daha fazla bilgi edinin. Eğitimlerimize, öğrenme kılavuzlarımıza ve SSS'lerimize göz atın.",
+        "play-guides": "Atlas Play Nasıl Yapılır Kılavuzları",
+        "play-resources": "Atlas Play Kaynakları",
+        "guide-text": "Başka bir şey mi arıyorsunuz?",
+        "guide-link": "Yardım Merkezimizi keşfedin",
+        "guides-button": "Kılavuzları Okuyun",
+        "getting-started-title": "Atlas Play'e Başlarken",
+        "getting-started-desc": "Başlayın ve arayüzlerinizi tanıyın.",
+        "mapping-title": "İlk Sürecinizi Haritalama",
+        "mapping-desc": "Atlas'taki ilk sürecinizi haritalayın.",
+        "processes-title": "Atlas Play'deki Süreçler",
+        "processes-desc": "Atlas Play'deki süreçler hakkında daha fazla bilgi edinin.",
+        "tasks-title": "Atlas Play'deki Görevler",
+        "tasks-desc": "Atlas Play'deki görevler hakkında daha fazla bilgi edinin.",
+        "features-title": "Atlas Oyun Özellikleri",
+        "features-desc": "Özellikleri ve yeni ürün sürümlerini keşfedin.",
+        "bpmn-title": "BPMN hakkında her şey",
+        "bpmn-desc": "BPMN hakkında daha fazlasını keşfedin.",
+        "digital-transformation-title": "Dijital Dönüşüm Adımları",
+        "digital-transformation-desc": "Gerçekleşmeden dönüşüme yolculuk.",
+        "methodology-title": "Atlas Play Metodolojisi",
+        "methodology-desc": "Atlas Play'in arkasındaki düşünceyi öğrenin.",
+        "troubleshooting-title": "Sorun giderme",
+        "troubleshooting-desc": "Atlas Play ile ilgili sorun mu yaşıyorsunuz? Buradan başlayın."
     },
     "home": {
         "good-morning": "Günaydın",
@@ -499,7 +524,8 @@
         "key-builder": "Anahtar Oluşturucu",
         "map-permissions": "Harita İzinleri",
         "workflow-delete": "İş Akışını Sil",
-        "register": "Kayıt ol"
+        "register": "Kayıt ol",
+        "learning": "Öğrenme"
     },
     "language": {
         "english": "İngilizce",
