@@ -523,7 +523,8 @@
         "key-builder": "Key builder",
         "map-permissions": "Map Permissions",
         "workflow-delete": "Delete Workflow",
-        "register": "Register"
+        "register": "Register",
+        "learning": "Learning"
     },
     "language": {
         "english": "English",

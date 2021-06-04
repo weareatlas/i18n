@@ -523,7 +523,8 @@
         "key-builder": "Schluessel Builder",
         "map-permissions": "Berechtigungen zuweisen",
         "workflow-delete": "Loesche Workflow",
-        "register": "Registrieren"
+        "register": "Registrieren",
+        "learning": "Lernen"
     },
     "language": {
         "english": "Englisch (English)",
