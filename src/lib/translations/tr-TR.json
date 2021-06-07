@@ -313,7 +313,9 @@
         "role-table-view": "Tablo görünümündeki rolü görün",
         "call-activity-info": "Aradığınız süreci göremiyor musunuz? Yayınlandığından emin olun ve tekrar deneyin.",
         "select-process-info": "Aradığınız işlemi göremiyorsanız, yayınlandığından emin olun ve tekrar deneyin.",
-        "no-recent-task": "Tüm yeni görevlerinizi burada göreceksiniz. Size yeni görevlerin atanmasını bekleyin veya Paylaşımdan bir işlem başlatın."
+        "no-recent-task": "Tüm yeni görevlerinizi burada göreceksiniz. Size yeni görevlerin atanmasını bekleyin veya Paylaşımdan bir işlem başlatın.",
+        "empty-section": "Bu bölüm boş",
+        "empty-section-description": "Verileri yakalamaya başlamak için bu göreve bir alan eklenmesi gerekir – süreci yeniden eşleyin veya ekibinizdeki ilgili kişilerden bunu yapmasını isteyin."
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",

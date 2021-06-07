@@ -313,7 +313,9 @@
         "role-table-view": "See role in table view",
         "call-activity-info": "Can't see the process you are looking for? Make sure it has been published and try again.",
         "select-process-info": "If you can't see the process you are looking for, make sure it has been published and try again.",
-        "no-recent-task": "You will see all your new tasks here. Wait for new tasks to be assigned to you or start a process from Share."
+        "no-recent-task": "You will see all your new tasks here. Wait for new tasks to be assigned to you or start a process from Share.",
+        "empty-section": "This section is empty",
+        "empty-section-description": "A field needs to be added to this task to start capturing data – remap the process or ask the relevant people in your team to do it."
     },
     "links": {
         "contact-us": "Contact us",

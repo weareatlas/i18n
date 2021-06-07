@@ -313,7 +313,9 @@
         "role-table-view": "Vedi ruolo nella visualizzazione tabella",
         "call-activity-info": "Non riesci a vedere il processo che stai cercando? Assicurati che sia stato pubblicato e riprova.",
         "select-process-info": "Se non riesci a visualizzare il processo che stai cercando, assicurati che sia stato pubblicato e riprova.",
-        "no-recent-task": "Vedrai tutte le tue nuove attività qui. Attendi che ti vengano assegnate nuove attività o avvia un processo da Condivi"
+        "no-recent-task": "Vedrai tutte le tue nuove attività qui. Attendi che ti vengano assegnate nuove attività o avvia un processo da Condivi",
+        "empty-section": "Questa sezione è vuota",
+        "empty-section-description": "È necessario aggiungere un campo a questa attività per avviare l'acquisizione dei dati: rimappare il processo o chiedere alle persone pertinenti del tuo team di farlo."
     },
     "links": {
         "contact-us": "Contattaci",
