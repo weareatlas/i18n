@@ -57,9 +57,13 @@
         "redirect-warn": "If you haven't been redirected in 20 seconds, click the button below.",
         "page-not-found": "Page not found",
         "browser-compatibility": "Already updated but still having issues?",
-        "support": "Get in touch now",
+        "get-in-touch": "Get in touch now",
         "version": "Version",
-        "issues-text": "Still having issues?"
+        "issues-text": "Still having issues?",
+        "something-went-wrong": "Oops! Something went wrong",
+        "invalid-workspace": "Looks like this workspace doesn't exist or you don’t have permissions to access.",
+        "go-back": "Go Back",
+        "persistent-issue": "Is this a persistent issue?"
     },
     "message": {
         "input-actions": "Input Actions",

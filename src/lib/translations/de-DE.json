@@ -57,9 +57,13 @@
         "redirect-warn": "If you haven't been redirected in 20 seconds, click the button below.",
         "page-not-found": "Page not found",
         "browser-compatibility": "Bereits aktualisiert, aber immer noch Probleme?",
-        "support": "Kontaktieren Sie uns jetzt",
+        "get-in-touch": "Kontaktieren Sie uns jetzt",
         "version": "Ausführung",
-        "issues-text": "Haben Sie immer noch Probleme?"
+        "issues-text": "Haben Sie immer noch Probleme?",
+        "something-went-wrong": "Hoppla! Etwas ist schief gelaufen",
+        "invalid-workspace": "Anscheinend existiert dieser Arbeitsbereich nicht oder Sie haben keine Zugriffsberechtigung.",
+        "go-back": "Geh zurück",
+        "persistent-issue": "Ist das ein anhaltendes Problem?"
     },
     "message": {
         "input-actions": "Eingabe Aktionen",

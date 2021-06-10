@@ -57,9 +57,13 @@
         "redirect-warn": "If you haven't been redirected in 20 seconds, click the button below.",
         "page-not-found": "Page not found",
         "browser-compatibility": "Zaten güncellediğiniz halde hala sorun mu yaşıyorsunuz?",
-        "support": "Şimdi iletişime geçin",
+        "get-in-touch": "Şimdi iletişime geçin",
         "version": "versiyon",
-        "issues-text": "Hala sorun mu yaşıyorsunuz?"
+        "issues-text": "Hala sorun mu yaşıyorsunuz?",
+        "something-went-wrong": "Hata! Bir şeyler yanlış gitti",
+        "invalid-workspace": "Görünüşe göre bu çalışma alanı mevcut değil veya erişim izniniz yok.",
+        "go-back": "Geri gitmek",
+        "persistent-issue": "Bu kalıcı bir sorun mu?"
     },
     "message": {
         "input-actions": "Girdi Eylemleri",

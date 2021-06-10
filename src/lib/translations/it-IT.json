@@ -57,9 +57,13 @@
         "redirect-warn": "Se non sei stato reindirizzato da 20 secondi, fai clic sul pulsante in basso.",
         "page-not-found": "Pagina non trovata",
         "browser-compatibility": "Già aggiornato ma riscontri ancora problemi?",
-        "support": "Mettiti in contatto ora",
+        "get-in-touch": "Mettiti in contatto ora",
         "version": "versione",
-        "issues-text": "Hai ancora problemi?"
+        "issues-text": "Hai ancora problemi?",
+        "something-went-wrong": "Ops! Qualcosa è andato storto",
+        "invalid-workspace": "Sembra che questo spazio di lavoro non esista o che tu non disponga delle autorizzazioni per l'accesso.",
+        "go-back": "Torna indietro",
+        "persistent-issue": "È un problema persistente?"
     },
     "message": {
         "input-actions": "Azioni di input",
