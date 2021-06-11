@@ -64,7 +64,8 @@
         "something-went-wrong": "Oops! Something went wrong",
         "invalid-workspace": "Looks like this workspace doesn't exist or you don’t have permissions to access.",
         "go-back": "Go Back",
-        "persistent-issue": "Is this a persistent issue?"
+        "persistent-issue": "Is this a persistent issue?",
+        "unavailable": "Atlas appears to be unavailable right now. Please try again later."
     },
     "message": {
         "input-actions": "Input Actions",
@@ -633,6 +634,8 @@
         "no-records": "No dashboard found",
         "edit-title": "Edit Dashboard",
         "add-title": "Add Dashboard",
-        "edit-message": "Your dashboard has been saved."
+        "edit-message": "Your dashboard has been saved.",
+        "atlas-boost": "Welcome to Atlas Boost",
+        "atlas-boost-desc": "With Atlas Boost, your company has access to incredible data analytics. Dashboards can be generated that fit your specific requirements and data can be handled how you need it to be."
     }
 }
