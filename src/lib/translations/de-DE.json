@@ -40,7 +40,8 @@
         "tutorial-in-progress": "Tutorial in Bearbeitung",
         "tutorial-complete-help": "Sie haben Ihr <action> -Tutorial abgeschlossen.",
         "tutorial-in-progress-help": "Ihr <action> -Tutorial wird ausgeführt. Setzen Sie es in Ihren Aufgaben fort.",
-        "unlock-tutorial-help": "Sie müssen ein bestimmtes <before> Tutorial absolvieren, um das <after> Training freizuschalten"
+        "unlock-tutorial-help": "Sie müssen ein bestimmtes <before> Tutorial absolvieren, um das <after> Training freizuschalten",
+        "play-video": "Video abspielen"
     },
     "login": {
         "login": "Login",
