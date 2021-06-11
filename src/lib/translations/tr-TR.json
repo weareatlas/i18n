@@ -611,6 +611,7 @@
         "ad-hoc": "Geçici Alt İşlem"
     },
     "dashboard": {
+        "all-dashboards": "Tüm Gösterge Tablolar",
         "reference": "Gösterge Tablosu Referansı",
         "roles": "Kontrol paneline erişimi olan roller",
         "colour": "Gösterge tablosu rengi",

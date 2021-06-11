@@ -611,6 +611,7 @@
         "ad-hoc": "Ad-hoc Sub Process"
     },
     "dashboard": {
+        "all-dashboards": "All Dashboards",
         "reference": "Dashboard Reference",
         "roles": "Roles with access to dashboard",
         "colour": "Dashboard colour",
