@@ -40,7 +40,8 @@
         "tutorial-in-progress": "Eğitim devam ediyor",
         "tutorial-complete-help": "<action> öğreticinizi tamamladınız, gidilecek yer!",
         "tutorial-in-progress-help": "<action> eğiticiniz devam ediyor. Görevlerinize devam edin.",
-        "unlock-tutorial-help": "<after> eğitimin kilidini açmak için belirli <before> eğitimini tamamlamanız gerekiyor"
+        "unlock-tutorial-help": "<after> eğitimin kilidini açmak için belirli <before> eğitimini tamamlamanız gerekiyor",
+        "play-video": "Video oynatmak"
     },
     "login": {
         "login": "Login",
