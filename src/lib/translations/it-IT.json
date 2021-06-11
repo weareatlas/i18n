@@ -611,6 +611,7 @@
         "ad-hoc": "Sottoprocesso ad hoc"
     },
     "dashboard": {
+        "all-dashboards": "Tutti i dashboard",
         "reference": "Riferimento dashboard",
         "roles": "Ruoli con accesso alla dashboard",
         "colour": "Colore cruscotto",

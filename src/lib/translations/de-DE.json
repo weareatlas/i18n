@@ -611,6 +611,7 @@
         "ad-hoc": "Ad-hoc Unterprozess"
     },
     "dashboard": {
+        "all-dashboards": "Alle Dashboards",
         "reference": "Dashboard-Referenz",
         "roles": "Rollen mit Zugriff auf das Dashboard",
         "colour": "Dashboard-Farbe",
