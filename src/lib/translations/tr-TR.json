@@ -63,7 +63,8 @@
         "something-went-wrong": "Hata! Bir şeyler yanlış gitti",
         "invalid-workspace": "Görünüşe göre bu çalışma alanı mevcut değil veya erişim izniniz yok.",
         "go-back": "Geri gitmek",
-        "persistent-issue": "Bu kalıcı bir sorun mu?"
+        "persistent-issue": "Bu kalıcı bir sorun mu?",
+        "unavailable": "Atlas şu anda kullanılamıyor gibi görünüyor. Lütfen daha sonra tekrar deneyiniz."
     },
     "message": {
         "input-actions": "Girdi Eylemleri",
@@ -632,6 +633,8 @@
         "no-records": "Gösterge tablosu bulunamadı",
         "edit-title": "Gösterge Tablosunu Düzenle",
         "add-title": "Gösterge Tablosu Ekle",
-        "edit-message": "Gösterge tablonuz kaydedildi."
+        "edit-message": "Gösterge tablonuz kaydedildi.",
+        "atlas-boost": "Atlas Boost'a hoş geldiniz",
+        "atlas-boost-desc": "Atlas Boost ile şirketiniz inanılmaz veri analitiğine erişebilir. Özel gereksinimlerinize uyan panolar oluşturulabilir ve veriler, olması gerektiği gibi işlenebilir."
     }
 }
