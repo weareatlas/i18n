@@ -533,7 +533,8 @@
         "map-permissions": "Berechtigungen zuweisen",
         "workflow-delete": "Loesche Workflow",
         "register": "Registrieren",
-        "learning": "Lernen"
+        "learning": "Lernen",
+        "template-id": "Vorlagen-ID"
     },
     "language": {
         "english": "Englisch (English)",

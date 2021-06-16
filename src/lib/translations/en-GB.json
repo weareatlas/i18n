@@ -533,7 +533,8 @@
         "map-permissions": "Map Permissions",
         "workflow-delete": "Delete Workflow",
         "register": "Register",
-        "learning": "Learning"
+        "learning": "Learning",
+        "template-id": "Template Id"
     },
     "language": {
         "english": "English",
