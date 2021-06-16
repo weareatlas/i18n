@@ -533,7 +533,8 @@
         "map-permissions": "Autorizzazioni pianificazione",
         "workflow-delete": "Delete Workflow",
         "register": "Registrati",
-        "learning": "Apprendimento"
+        "learning": "Apprendimento",
+        "template-id": "ID modello"
     },
     "language": {
         "english": "Inglese (English)",

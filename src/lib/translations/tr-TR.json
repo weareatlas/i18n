@@ -533,7 +533,8 @@
         "map-permissions": "Harita İzinleri",
         "workflow-delete": "İş Akışını Sil",
         "register": "Kayıt ol",
-        "learning": "Öğrenme"
+        "learning": "Öğrenme",
+        "template-id": "Şablon Kimliği"
     },
     "language": {
         "english": "İngilizce",
