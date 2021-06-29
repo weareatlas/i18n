@@ -511,7 +511,9 @@
         "delete": "Loeschen",
         "remap-delete": "Loeschen und neu zuweisen",
         "custom": "Benutzerdefiniert",
-        "refresh-diagram": "Diagramm aktualisieren"
+        "refresh-diagram": "Diagramm aktualisieren",
+        "favourites": "Favoriten",
+        "add-favourite": "Favorit hinzufügen"
     },
     "action": {
         "priority-success": "Prioritaet erfolgreich geaendert.",

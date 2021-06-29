@@ -511,7 +511,9 @@
         "delete": "Sil",
         "remap-delete": "Sil ve Tekrardan Haritala",
         "custom": "özel",
-        "refresh-diagram": "Diyagramı Yenile"
+        "refresh-diagram": "Diyagramı Yenile",
+        "favourites": "Favoriler",
+        "add-favourite": "Favori Ekle"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",

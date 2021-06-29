@@ -511,7 +511,9 @@
         "delete": "Delete",
         "remap-delete": "Delete and Remap",
         "custom": "custom",
-        "refresh-diagram": "Refresh Diagram"
+        "refresh-diagram": "Refresh Diagram",
+        "favourites": "Favourites",
+        "add-favourite": "Add Favourite"
     },
     "action": {
         "priority-success": "Priority changed successfully.",
