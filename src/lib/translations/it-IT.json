@@ -511,7 +511,9 @@
         "delete": "Elimina",
         "remap-delete": "Ripianifica e Elimina",
         "custom": "personalizzata",
-        "refresh-diagram": "Aggiorna diagramma"
+        "refresh-diagram": "Aggiorna diagramma",
+        "favourites": "Preferiti",
+        "add-favourite": "Aggiungi preferito"
     },
     "action": {
         "priority-success": "Priorità cambiata con successo.",
