@@ -571,7 +571,8 @@
         "workflow-delete": "İş Akışını Sil",
         "register": "Kayıt ol",
         "learning": "Öğrenme",
-        "template-id": "Şablon Kimliği"
+        "template-id": "Şablon Kimliği",
+        "favourites-bar": "Favoriler çubuğu"
     },
     "language": {
         "english": "İngilizce",

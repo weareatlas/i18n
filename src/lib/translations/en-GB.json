@@ -571,7 +571,8 @@
         "workflow-delete": "Delete Workflow",
         "register": "Register",
         "learning": "Learning",
-        "template-id": "Template Id"
+        "template-id": "Template Id",
+        "favourites-bar": "Favourites bar"
     },
     "language": {
         "english": "English",

@@ -571,7 +571,8 @@
         "workflow-delete": "Loesche Workflow",
         "register": "Registrieren",
         "learning": "Lernen",
-        "template-id": "Vorlagen-ID"
+        "template-id": "Vorlagen-ID",
+        "favourites-bar": "Favoritenleiste"
     },
     "language": {
         "english": "Englisch (English)",
