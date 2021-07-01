@@ -571,7 +571,8 @@
         "workflow-delete": "Delete Workflow",
         "register": "Registrati",
         "learning": "Apprendimento",
-        "template-id": "ID modello"
+        "template-id": "ID modello",
+        "favourites-bar": "Barra dei preferiti"
     },
     "language": {
         "english": "Inglese (English)",
