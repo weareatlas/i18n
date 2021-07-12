@@ -356,7 +356,8 @@
         "select-process-info": "If you can't see the process you are looking for, make sure it has been published and try again.",
         "no-recent-task": "You will see all your new tasks here. Wait for new tasks to be assigned to you or start a process from Share.",
         "empty-section": "This section is empty",
-        "empty-section-description": "A field needs to be added to this task to start capturing data – remap the process or ask the relevant people in your team to do it."
+        "empty-section-description": "A field needs to be added to this task to start capturing data – remap the process or ask the relevant people in your team to do it.",
+        "notify-user-info":"Sends all users in the selected roles an email when the task is ready to claim."
     },
     "links": {
         "contact-us": "Contact us",
@@ -401,7 +402,8 @@
         "depends-on": "Depends On",
         "custom-range": "Select custom range",
         "from": "From",
-        "to": "To"
+        "to": "To",
+        "notify-user":"Send email on Ready"
     },
     "status": {
         "created": "Created",
@@ -572,7 +574,8 @@
         "register": "Register",
         "learning": "Learning",
         "template-id": "Template Id",
-        "favourites-bar": "Favourites bar"
+        "favourites-bar": "Favourites bar",
+        "notify-user": "Notify User"
     },
     "language": {
         "english": "English",

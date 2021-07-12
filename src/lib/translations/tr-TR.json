@@ -356,7 +356,8 @@
         "select-process-info": "Aradığınız işlemi göremiyorsanız, yayınlandığından emin olun ve tekrar deneyin.",
         "no-recent-task": "Tüm yeni görevlerinizi burada göreceksiniz. Size yeni görevlerin atanmasını bekleyin veya Paylaşımdan bir işlem başlatın.",
         "empty-section": "Bu bölüm boş",
-        "empty-section-description": "Verileri yakalamaya başlamak için bu göreve bir alan eklenmesi gerekir – süreci yeniden eşleyin veya ekibinizdeki ilgili kişilerden bunu yapmasını isteyin."
+        "empty-section-description": "Verileri yakalamaya başlamak için bu göreve bir alan eklenmesi gerekir – süreci yeniden eşleyin veya ekibinizdeki ilgili kişilerden bunu yapmasını isteyin.",
+        "notify-user-info":"Görev talep etmeye hazır olduğunda, seçilen rollerdeki tüm kullanıcılara bir e-posta gönderir."
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",
@@ -401,7 +402,8 @@
         "depends-on": "Bağlıdır",
         "custom-range": "özel aralığı seçin",
         "from": "Nereden",
-        "to": "İçin"
+        "to": "İçin",
+        "notify-user":"Hazır'da e-posta gönder"
     },
     "status": {
         "created": "Oluşturuldu",
@@ -572,7 +574,8 @@
         "register": "Kayıt ol",
         "learning": "Öğrenme",
         "template-id": "Şablon Kimliği",
-        "favourites-bar": "Favoriler çubuğu"
+        "favourites-bar": "Favoriler çubuğu",
+        "notify-user": "Kullanıcıya Bildir"
     },
     "language": {
         "english": "İngilizce",
