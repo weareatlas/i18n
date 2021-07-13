@@ -357,7 +357,8 @@
         "no-recent-task": "Vedrai tutte le tue nuove attività qui. Attendi che ti vengano assegnate nuove attività o avvia un processo da Condivi",
         "empty-section": "Questa sezione è vuota",
         "empty-section-description": "È necessario aggiungere un campo a questa attività per avviare l'acquisizione dei dati: rimappare il processo o chiedere alle persone pertinenti del tuo team di farlo.",
-        "notify-user-info":"Invia un'e-mail a tutti gli utenti nei ruoli selezionati quando l'attività è pronta per la richiesta."
+        "notify-on-ready": "Invia e-mail su Pronto",
+        "notify-on-ready-info": "Invia un'e-mail a tutti gli utenti nei ruoli selezionati quando l'attività è pronta per la richiesta."
     },
     "links": {
         "contact-us": "Contattaci",
@@ -402,8 +403,7 @@
         "depends-on": "Dipende da",
         "custom-range": "Seleziona intervallo personalizzato",
         "from": "A partire dal",
-        "to": "Per",
-        "notify-user":"Invia e-mail su Pronto"
+        "to": "Per"
     },
     "status": {
         "created": "Creato",
@@ -575,7 +575,7 @@
         "learning": "Apprendimento",
         "template-id": "ID modello",
         "favourites-bar": "Barra dei preferiti",
-        "notify-user": "Notifica all'utente"
+        "notify-on-ready": "Notifica su pronto"
     },
     "language": {
         "english": "Inglese (English)",

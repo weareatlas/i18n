@@ -357,7 +357,8 @@
         "no-recent-task": "Hier sehen Sie alle Ihre neuen Aufgaben. Warten Sie, bis Ihnen neue Aufgaben zugewiesen wurden, oder starten Sie einen Prozess über die Freigabe.",
         "empty-section": "Dieser Abschnitt ist leer",
         "empty-section-description": "Dieser Aufgabe muss ein Feld hinzugefügt werden, um mit der Datenerfassung zu beginnen – ordnen Sie den Prozess neu zu oder bitten Sie die zuständigen Personen in Ihrem Team, dies zu tun.",
-        "notify-user-info":"Sendet allen Benutzern in den ausgewählten Rollen eine E-Mail, wenn die Aufgabe beansprucht werden kann."
+        "notify-on-ready": "E-Mail senden auf Bereit",
+        "notify-on-ready-info": "Sendet allen Benutzern in den ausgewählten Rollen eine E-Mail, wenn die Aufgabe beansprucht werden kann."
     },
     "links": {
         "contact-us": "Kontaktiere uns",
@@ -402,8 +403,7 @@
         "depends-on": "Kommt drauf an",
         "custom-range": "Wählen Sie einen benutzerdefinierten Bereich",
         "from": "Von",
-        "to": "Zu",
-        "notify-user":"E-Mail senden auf Bereit"
+        "to": "Zu"
     },
     "status": {
         "created": "erstellt",
@@ -575,7 +575,7 @@
         "learning": "Lernen",
         "template-id": "Vorlagen-ID",
         "favourites-bar": "Favoritenleiste",
-        "notify-user": "Benutzer benachrichtigen"
+        "notify-on-ready": "Bei Bereit benachrichtigen"
     },
     "language": {
         "english": "Englisch (English)",
