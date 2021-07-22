@@ -358,7 +358,8 @@
         "empty-section": "Dieser Abschnitt ist leer",
         "empty-section-description": "Dieser Aufgabe muss ein Feld hinzugefügt werden, um mit der Datenerfassung zu beginnen – ordnen Sie den Prozess neu zu oder bitten Sie die zuständigen Personen in Ihrem Team, dies zu tun.",
         "notify-on-ready": "E-Mail senden auf Bereit",
-        "notify-on-ready-info": "Sendet allen Benutzern in den ausgewählten Rollen eine E-Mail, wenn die Aufgabe beansprucht werden kann."
+        "notify-on-ready-info": "Sendet allen Benutzern in den ausgewählten Rollen eine E-Mail, wenn die Aufgabe beansprucht werden kann.",
+        "blank-gateway": "Sie können keinen Workflow veröffentlichen, der leere Gateway-Ausdrücke enthält"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
