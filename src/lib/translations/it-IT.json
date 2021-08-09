@@ -680,6 +680,7 @@
         "add-title": "Aggiungi dashboard",
         "edit-message": "La tua dashboard è stata salvata.",
         "atlas-boost": "Benvenuto in Atlas Boost",
-        "atlas-boost-desc": "Con Atlas Boost, la tua azienda ha accesso a incredibili analisi dei dati. È possibile generare dashboard che si adattano alle tue esigenze specifiche e i dati possono essere gestiti come ne hai bisogno."
+        "atlas-boost-desc": "Con Atlas Boost, la tua azienda ha accesso a incredibili analisi dei dati. È possibile generare dashboard che si adattano alle tue esigenze specifiche e i dati possono essere gestiti come ne hai bisogno.",
+        "learn-more": "Segui [questo link] per saperne di più sui dashboard"
     }
 }
