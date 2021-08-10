@@ -680,6 +680,7 @@
         "add-title": "Dashboard hinzufügen",
         "edit-message": "Ihr Dashboard wurde gespeichert.",
         "atlas-boost": "Willkommen bei Atlas Boost",
-        "atlas-boost-desc": "Mit Atlas Boost hat Ihr Unternehmen Zugang zu unglaublichen Datenanalysen. Es können Dashboards generiert werden, die Ihren spezifischen Anforderungen entsprechen, und Daten können so verarbeitet werden, wie Sie es benötigen."
+        "atlas-boost-desc": "Mit Atlas Boost hat Ihr Unternehmen Zugang zu unglaublichen Datenanalysen. Es können Dashboards generiert werden, die Ihren spezifischen Anforderungen entsprechen, und Daten können so verarbeitet werden, wie Sie es benötigen.",
+        "learn-more": "Folgen Sie [diesem Link], um mehr über Dashboards zu erfahren"
     }
 }
