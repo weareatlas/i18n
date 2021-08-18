@@ -576,7 +576,8 @@
         "learning": "Apprendimento",
         "template-id": "ID modello",
         "favourites-bar": "Barra dei preferiti",
-        "notify-on-ready": "Notifica su pronto"
+        "notify-on-ready": "Notifica su pronto",
+        "user-workflow": "Flusso di lavoro dell'utente"
     },
     "language": {
         "english": "Inglese (English)",

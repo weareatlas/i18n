@@ -576,7 +576,8 @@
         "learning": "Learning",
         "template-id": "Template Id",
         "favourites-bar": "Favourites bar",
-        "notify-on-ready": "Notify on Ready"
+        "notify-on-ready": "Notify on Ready",
+        "user-workflow": "User Workflow"
     },
     "language": {
         "english": "English",

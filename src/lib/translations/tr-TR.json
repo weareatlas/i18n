@@ -576,7 +576,8 @@
         "learning": "Öğrenme",
         "template-id": "Şablon Kimliği",
         "favourites-bar": "Favoriler çubuğu",
-        "notify-on-ready": "Hazır olduğunda bildir"
+        "notify-on-ready": "Hazır olduğunda bildir",
+        "user-workflow": "Kullanıcı İş Akışı"
     },
     "language": {
         "english": "İngilizce",
