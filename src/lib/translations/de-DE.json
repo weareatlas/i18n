@@ -576,7 +576,8 @@
         "learning": "Lernen",
         "template-id": "Vorlagen-ID",
         "favourites-bar": "Favoritenleiste",
-        "notify-on-ready": "Bei Bereit benachrichtigen"
+        "notify-on-ready": "Bei Bereit benachrichtigen",
+        "user-workflow": "Benutzerworkflow"
     },
     "language": {
         "english": "Englisch (English)",
