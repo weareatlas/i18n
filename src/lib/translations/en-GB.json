@@ -1,4 +1,22 @@
 {
+    "data-store": {
+        "title": "Data Store",
+        "subtitle": "Manage all data for your process in the Data Store. You can recall data from any element in the process - this allows you to keep your data consistent and in line with your needs",
+        "search": "Search by Data Item name",
+        "used-in": "Used in {{#elements}} elements",
+        "add-new": "Add new Data Item",
+        "add-existing": "Add Data Item",
+        "remove": "Are you sure you want to remove this element?",
+        "remove-confirm": "If you remove this data item, you'll lose all settings.",
+        "name": "Name",
+        "type": "Type",
+        "description": "Description",
+        "default-value": "Default Value",
+        "data-source-key": "Data Source Key",
+        "save-edits": "Save Edits",
+        "existing-items": "{{#elements}} data items in the Data Store",
+        "recall-data": "Recall Data"
+  },
     "learning-hub": {
         "banner-title": "Atlas Training",
         "banner-description": "The Atlas training takes you through Run & Map, with 3 Maturity Levels each: explore these features and advance your knowledge to accelerate your digital transformation.",
