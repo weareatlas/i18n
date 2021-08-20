@@ -1,4 +1,22 @@
 {
+    "data-store": {
+        "title": "Archivio dati",
+        "subtitle": "Gestisci tutti i dati per il tuo processo nel Data Store. Puoi richiamare i dati da qualsiasi elemento del processo: questo ti consente di mantenere i tuoi dati coerenti e in linea con le tue esigenze",
+        "search": "Cerca per nome elemento dati",
+        "used-in": "Usato in {{#elements}} elementi",
+        "add-new": "Aggiungi nuovo elemento dati",
+        "add-existing": "Aggiungi elemento dati",
+        "remove": "Sei sicuro di voler rimuovere questo elemento?",
+        "remove-confirm": "Se rimuovi questo elemento di dati, perderai tutte le impostazioni.",
+        "name": "Nome",
+        "type": "Tipa",
+        "description": "Descrizione",
+        "default-value": "Valore di default",
+        "data-source-key": "Chiave origine dati",
+        "save-edits": "Salva modifiche",
+        "existing-items": "{{#elements}} elementi di dati nel Data Store",
+        "recall-data": "Richiama dati"
+    },
     "learning-hub": {
         "banner-title": "Formazione Atlas",
         "banner-description": "La formazione Atlas ti porta attraverso Run & Map, con 3 livelli di maturità ciascuno: esplora queste funzionalità e migliora le tue conoscenze per accelerare la tua trasformazione digitale.",

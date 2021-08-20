@@ -1,4 +1,22 @@
 {
+    "data-store": {
+        "title": "Datenspeicher",
+        "subtitle": "Verwalten Sie alle Daten für Ihren Prozess im Data Store. Sie können Daten von jedem Element im Prozess abrufen - so können Sie Ihre Daten konsistent und bedarfsgerecht halten",
+        "search": "Suche nach Datenelementnamen",
+        "used-in": "Verwendet in {{#elements}} Elementen",
+        "add-new": "Neues Datenelement hinzufügen",
+        "add-existing": "Datenelement hinzufügen",
+        "remove": "Möchten Sie dieses Element wirklich entfernen?",
+        "remove-confirm": "Wenn Sie dieses Datenelement entfernen, gehen alle Einstellungen verloren.",
+        "name": "Name",
+        "type": "Typ",
+        "description": "Beschreibung",
+        "default-value": "Standardwert",
+        "data-source-key": "Datenquellenschlüssel",
+        "save-edits": "Änderungen speichern",
+        "existing-items": "{{#elements}} Datenelemente im Datenspeicher",
+        "recall-data": "Daten zurückrufen"
+    },
     "learning-hub": {
         "banner-title": "Atlas-Schulung",
         "banner-description": "Das Atlas-Training führt Sie durch Run & Map mit jeweils 3 Reifegraden: Entdecken Sie diese Funktionen und erweitern Sie Ihr Wissen, um Ihre digitale Transformation zu beschleunigen.",

@@ -1,4 +1,22 @@
 {
+    "data-store": {
+        "title": "Bilgi deposu",
+        "subtitle": "Veri Deposundaki işleminiz için tüm verileri yönetin. Süreçteki herhangi bir öğeden verileri geri çağırabilirsiniz - bu, verilerinizi tutarlı ve ihtiyaçlarınız doğrultusunda tutmanıza olanak tanır",
+        "search": "Veri Öğesi adına göre ara",
+        "used-in": "{{#elements}} elementte kullanılır",
+        "add-new": "Yeni Veri Öğesi Ekle",
+        "add-existing": "Veri Öğesi Ekle",
+        "remove": "Bu öğeyi kaldırmak istediğinizden emin misiniz?",
+        "remove-confirm": "Bu veri öğesini kaldırırsanız, tüm ayarları kaybedersiniz.",
+        "name": "İsim",
+        "type": "Tip",
+        "description": "Tanım",
+        "default-value": "Varsayılan değer",
+        "data-source-key": "Veri Kaynağı Anahtarı",
+        "save-edits": "Düzenlemeleri Kaydet",
+        "existing-items": "Veri Deposundaki {{#elements}} veri öğesi",
+        "recall-data": "Verileri Geri Çağırma"
+    },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",
         "banner-description": "Atlas eğitimi, her biri 3 Olgunluk Düzeyine sahip Run & Map ile sizi yönlendirir: bu özellikleri keşfedin ve dijital dönüşümünüzü hızlandırmak için bilginizi geliştirin.",
