@@ -16,7 +16,7 @@
         "save-edits": "Save Edits",
         "existing-items": "{{#elements}} data items in the Data Store",
         "recall-data": "Recall Data"
-  },
+    },
     "learning-hub": {
         "banner-title": "Atlas Training",
         "banner-description": "The Atlas training takes you through Run & Map, with 3 Maturity Levels each: explore these features and advance your knowledge to accelerate your digital transformation.",
@@ -701,5 +701,31 @@
         "atlas-boost": "Welcome to Atlas Boost",
         "atlas-boost-desc": "With Atlas Boost, your company has access to incredible data analytics. Dashboards can be generated that fit your specific requirements and data can be handled how you need it to be.",
         "learn-more": "Follow [this link] to learn more about dashboards"
+    },
+    "checkout": {
+        "solutions-architecture": "Solutions Architecture",
+        "business-analyst": "Business Analyst",
+        "application-integration": "Application Integration",
+        "shopfloor-integration": "Shopfloor Integration",
+        "six-sigma-consultancy": "Lean Six Sigma Consultancy",
+        "saas-application-development": "SaaS Application Development",
+        "upgrade-plan-title": "Welcome to your Digital Transformation",
+        "upgrade-plan-subTitle": "Only pay what you see in a safe Public Cloud",
+        "upgrade-plan-description": "We are an award winning, no-code software suite that delivers changes fast and scales with your ambition. Cloud computing is the on-demand delivery of computer power, database storage, applications, instantly via the internet with subscription pricing models to fit your budget. Begin your journey today withe Atlas Cloud.",
+        "starter-plan-title":"up to 100 process/month",
+        "starter-plan-description":"Free forever when you sign up for Atlas Play.Includes Client billing for Freelancers business analysts",
+        "atlas-play-plan-description":"A light plan that lets you manage your business to help your clients to grow.",
+        "atlas-play-boost-plan-subTitle":"Starting from",
+        "upgrade-plan": "Upgrade Plan",
+        "current-plan": "Current Plan",
+        "recommended": "Recommended",
+        "faq-1": "What does public cloud offer?",
+        "faq-2": "What does the virtual private cloud offer?",
+        "faq-3": "Can I afford the Atlas cloud?",
+        "faq-4": "What are the benefits of subscribing to Atlas?",
+        "faq-5": "How do I subscribe and manage my subscription?",
+        "faq-6": "How do I cancel my subscription?",
+        "pricing-faq":"Pricing FAQs",
+        "explore-features":"Explore all Features"
     }
 }
