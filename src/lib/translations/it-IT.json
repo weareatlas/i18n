@@ -701,5 +701,31 @@
         "atlas-boost": "Benvenuto in Atlas Boost",
         "atlas-boost-desc": "Con Atlas Boost, la tua azienda ha accesso a incredibili analisi dei dati. È possibile generare dashboard che si adattano alle tue esigenze specifiche e i dati possono essere gestiti come ne hai bisogno.",
         "learn-more": "Segui [questo link] per saperne di più sui dashboard"
+    },
+    "checkout": {
+        "solutions-architecture": "Architettura delle soluzioni",
+        "business-analyst": "Analista di affari",
+        "application-integration": "Integrazione dell'applicazione",
+        "shopfloor-integration": "Integrazione in officina",
+        "six-sigma-consultancy": "Consulenza Lean Six Sigma",
+        "saas-application-development": "Sviluppo di applicazioni SaaS",
+        "upgrade-plan-title": "Benvenuto nella tua Trasformazione Digitale",
+        "upgrade-plan-subTitle": "Paghi solo ciò che vedi in un cloud pubblico sicuro",
+        "upgrade-plan-description": "Siamo una suite software pluripremiata e senza codice che offre cambiamenti rapidi e si adatta alle tue ambizioni. Il cloud computing è la fornitura on-demand di potenza del computer, archiviazione di database, applicazioni, istantaneamente tramite Internet con modelli di prezzi di abbonamento adatti al tuo budget. Inizia oggi il tuo viaggio con Atlas Cloud.",
+        "starter-plan-title":"fino a 100 processi/mese",
+        "starter-plan-description":"Gratis per sempre quando ti iscrivi ad Atlas Play. Include la fatturazione del cliente per gli analisti aziendali freelance",
+        "atlas-play-plan-description":"Un piano light che ti permette di gestire la tua attività per aiutare i tuoi clienti a crescere.",
+        "atlas-play-boost-plan-subTitle":"A partire da",
+        "upgrade-plan": "Piano di aggiornamento",
+        "current-plan": "Piano attuale",
+        "recommended": "Consigliata",
+        "faq-1": "Cosa offre il cloud pubblico?",
+        "faq-2": "Cosa offre il cloud privato virtuale?",
+        "faq-3": "Posso permettermi il cloud Atlas?",
+        "faq-4": "Quali sono i vantaggi di abbonarsi ad Atlas?",
+        "faq-5": "Come posso iscrivermi e gestire il mio abbonamento?",
+        "faq-6": "Come cancello il mio abbonamento?",
+        "pricing-faq":"Domande frequenti sui prezzi",
+        "explore-features":"Esplora tutte le funzionalità"
     }
 }

@@ -701,5 +701,31 @@
         "atlas-boost": "Atlas Boost'a hoş geldiniz",
         "atlas-boost-desc": "Atlas Boost ile şirketiniz inanılmaz veri analitiğine erişebilir. Özel gereksinimlerinize uyan panolar oluşturulabilir ve veriler, olması gerektiği gibi işlenebilir.",
         "learn-more": "Gösterge tabloları hakkında daha fazla bilgi edinmek için [bu bağlantıyı] takip edin"
+    },
+    "checkout": {
+        "solutions-architecture": "Çözüm Mimarisi",
+        "business-analyst": "İş analisti",
+        "application-integration": "Uygulama Entegrasyonu",
+        "shopfloor-integration": "Mağaza Entegrasyonu",
+        "six-sigma-consultancy": "Yalın Altı Sigma Danışmanlığı",
+        "saas-application-development": "SaaS Uygulama Geliştirme",
+        "upgrade-plan-title": "Dijital Dönüşümünüze Hoş Geldiniz",
+        "upgrade-plan-subTitle": "Yalnızca güvenli bir Genel Bulutta gördüğünüz kadar ödeyin",
+        "upgrade-plan-description": "Değişiklikleri hızlı bir şekilde sunan ve hedefinize göre ölçeklenen, ödüllü, kodsuz bir yazılım paketiyiz. Bulut bilişim, bilgisayar gücünün, veritabanı depolamasının, uygulamaların, bütçenize uygun abonelik fiyatlandırma modelleri ile internet üzerinden anında talep üzerine teslimidir. Atlas Cloud ile yolculuğunuza bugün başlayın.",
+        "starter-plan-title":"100 proses/ay'a kadar",
+        "starter-plan-description":"Atlas Play'e kaydolduğunuzda sonsuza kadar ücretsiz.Serbest Çalışanların iş analistleri için Müşteri faturalandırmasını içerir",
+        "atlas-play-plan-description":"Müşterilerinizin büyümesine yardımcı olmak için işinizi yönetmenize olanak tanıyan hafif bir plan.",
+        "atlas-play-boost-plan-subTitle":"Den başlayarak",
+        "upgrade-plan": "Yükseltme Planı",
+        "current-plan": "Mevcut Plan",
+        "recommended": "Tavsiye edilen",
+        "faq-1": "Genel bulut ne sunuyor?",
+        "faq-2": "Sanal özel bulut ne sunuyor?",
+        "faq-3": "Atlas bulutunu karşılayabilir miyim?",
+        "faq-4": "Atlas'a abone olmanın faydaları nelerdir?",
+        "faq-5": "Nasıl abone olabilirim ve aboneliğimi yönetebilirim?",
+        "faq-6": "Aboneliğimi nasıl iptal edebilirim?",
+        "pricing-faq":"Fiyatlandırma SSS'leri",
+        "explore-features":"Tüm Özellikleri Keşfedin"
     }
 }

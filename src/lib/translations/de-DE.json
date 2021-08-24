@@ -701,5 +701,31 @@
         "atlas-boost": "Willkommen bei Atlas Boost",
         "atlas-boost-desc": "Mit Atlas Boost hat Ihr Unternehmen Zugang zu unglaublichen Datenanalysen. Es können Dashboards generiert werden, die Ihren spezifischen Anforderungen entsprechen, und Daten können so verarbeitet werden, wie Sie es benötigen.",
         "learn-more": "Folgen Sie [diesem Link], um mehr über Dashboards zu erfahren"
+    },
+    "checkout": {
+        "solutions-architecture": "Lösungsarchitektur",
+        "business-analyst": "Business Analyst",
+        "application-integration": "Anwendungsintegration",
+        "shopfloor-integration": "Shopfloor Integration",
+        "six-sigma-consultancy": "Lean Six Sigma-Beratung",
+        "saas-application-development": "Entwicklung von SaaS-Anwendungen",
+        "upgrade-plan-title": "Willkommen bei Ihrer digitalen Transformation",
+        "upgrade-plan-subTitle": "Bezahlen Sie nur, was Sie in einer sicheren Public Cloud sehen",
+        "upgrade-plan-description": "Wir sind eine preisgekrönte Software-Suite ohne Code, die Änderungen schnell ermöglicht und mit Ihren Ambitionen skaliert. Cloud Computing ist die On-Demand-Bereitstellung von Computerleistung, Datenbankspeicher und Anwendungen, sofort über das Internet mit Abonnement-Preismodellen, die Ihrem Budget entsprechen. Beginnen Sie Ihre Reise noch heute mit Atlas Cloud.",
+        "starter-plan-title":"bis zu 100 Prozesse/Monat",
+        "starter-plan-description":"Für immer kostenlos, wenn Sie sich bei Atlas Play anmelden. Beinhaltet die Kundenabrechnung für Freelancer-Business-Analysten",
+        "atlas-play-plan-description":"Ein leichter Plan, mit dem Sie Ihr Unternehmen verwalten können, um Ihren Kunden beim Wachstum zu helfen.",
+        "atlas-play-boost-plan-subTitle":"Ab",
+        "upgrade-plan": "Upgrade-Plan",
+        "current-plan": "Derzeitiger Plan",
+        "recommended": "Empfohlen",
+        "faq-1": "Was bietet die Public Cloud?",
+        "faq-2": "Was bietet die Virtual Private Cloud?",
+        "faq-3": "Kann ich mir die Atlas-Cloud leisten?",
+        "faq-4": "Welche Vorteile bietet ein Atlas-Abonnement?",
+        "faq-5": "Wie kann ich mein Abonnement abonnieren und verwalten?",
+        "faq-6": "Wie kündige ich mein Abonnement?",
+        "pricing-faq":"Häufig gestellte Fragen zu Preisen",
+        "explore-features":"Entdecken Sie alle Funktionen"
     }
 }
