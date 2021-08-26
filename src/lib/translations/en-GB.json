@@ -1,9 +1,10 @@
 {
     "data-store": {
-        "title": "Data Store",
+        "title": "Title",
+        "header": "Data Store",
         "subtitle": "Manage all data for your process in the Data Store. You can recall data from any element in the process - this allows you to keep your data consistent and in line with your needs",
         "search": "Search by Data Item name",
-        "used-in": "Used in {{#elements}} elements",
+        "used-in": "Used in {{elements}} elements",
         "add-new": "Add new Data Item",
         "add-existing": "Add Data Item",
         "remove": "Are you sure you want to remove this element?",
@@ -14,7 +15,7 @@
         "default-value": "Default Value",
         "data-source-key": "Data Source Key",
         "save-edits": "Save Edits",
-        "existing-items": "{{#elements}} data items in the Data Store",
+        "existing-items": "{{elements}} data items in the Data Store",
         "recall-data": "Recall Data"
     },
     "learning-hub": {

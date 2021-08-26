@@ -1,9 +1,10 @@
 {
     "data-store": {
-        "title": "Archivio dati",
+        "title": "Titolo",
+        "header": "Archivio dati",
         "subtitle": "Gestisci tutti i dati per il tuo processo nel Data Store. Puoi richiamare i dati da qualsiasi elemento del processo: questo ti consente di mantenere i tuoi dati coerenti e in linea con le tue esigenze",
         "search": "Cerca per nome elemento dati",
-        "used-in": "Usato in {{#elements}} elementi",
+        "used-in": "Usato in {{elements}} elementi",
         "add-new": "Aggiungi nuovo elemento dati",
         "add-existing": "Aggiungi elemento dati",
         "remove": "Sei sicuro di voler rimuovere questo elemento?",
@@ -14,7 +15,7 @@
         "default-value": "Valore di default",
         "data-source-key": "Chiave origine dati",
         "save-edits": "Salva modifiche",
-        "existing-items": "{{#elements}} elementi di dati nel Data Store",
+        "existing-items": "{{elements}} elementi di dati nel Data Store",
         "recall-data": "Richiama dati"
     },
     "learning-hub": {
