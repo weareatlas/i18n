@@ -596,14 +596,16 @@
         "template-id": "Vorlagen-ID",
         "favourites-bar": "Favoritenleiste",
         "notify-on-ready": "Bei Bereit benachrichtigen",
-        "user-workflow": "Benutzerworkflow"
+        "user-workflow": "Benutzerworkflow",
+        "spanish-language": "Spanische Sprache"
     },
     "language": {
         "english": "Englisch (English)",
         "chinese": "Chinesisch (中国人)",
         "italian": "Italienisch (Italiano)",
         "german": "Deutsch (Deutsche)",
-        "turkish": "Türkisch (Türk)"
+        "turkish": "Türkisch (Türk)",
+        "spanish": "Spanisch (Español)"
     },
     "error": {
         "server-error": "Ein unerwarteter Fehler ist aufgetreten",

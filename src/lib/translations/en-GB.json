@@ -596,14 +596,16 @@
         "template-id": "Template Id",
         "favourites-bar": "Favourites bar",
         "notify-on-ready": "Notify on Ready",
-        "user-workflow": "User Workflow"
+        "user-workflow": "User Workflow",
+        "spanish-language": "Spanish Language"
     },
     "language": {
         "english": "English",
         "chinese": "Chinese (中国人)",
         "italian": "Italian (Italiano)",
         "german": "German (Deutsche)",
-        "turkish": "Turkish (Türk)"
+        "turkish": "Turkish (Türk)",
+        "spanish": "Spanish (Español)"
     },
     "error": {
         "server-error": "An unexpected server error has occurred",

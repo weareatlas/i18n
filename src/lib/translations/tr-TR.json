@@ -596,14 +596,16 @@
         "template-id": "Şablon Kimliği",
         "favourites-bar": "Favoriler çubuğu",
         "notify-on-ready": "Hazır olduğunda bildir",
-        "user-workflow": "Kullanıcı İş Akışı"
+        "user-workflow": "Kullanıcı İş Akışı",
+        "spanish-language": "İspanyolca dil"
     },
     "language": {
         "english": "İngilizce",
         "chinese": "Çince (中国人)",
         "italian": "Italyanca (Italiano)",
         "german": "Almanca (Deutsche)",
-        "turkish": "Türk"
+        "turkish": "Türk",
+        "spanish": "İspanyolca (Español)"
     },
     "error": {
         "server-error": "Beklenmeyen bir sunucu hatası oluştu",
