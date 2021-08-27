@@ -1,9 +1,10 @@
 {
     "data-store": {
-        "title": "Datenspeicher",
+        "title": "Titel",
+        "header": "Datenspeicher",
         "subtitle": "Verwalten Sie alle Daten für Ihren Prozess im Data Store. Sie können Daten von jedem Element im Prozess abrufen - so können Sie Ihre Daten konsistent und bedarfsgerecht halten",
         "search": "Suche nach Datenelementnamen",
-        "used-in": "Verwendet in {{#elements}} Elementen",
+        "used-in": "Verwendet in {{elements}} Elementen",
         "add-new": "Neues Datenelement hinzufügen",
         "add-existing": "Datenelement hinzufügen",
         "remove": "Möchten Sie dieses Element wirklich entfernen?",
@@ -14,7 +15,7 @@
         "default-value": "Standardwert",
         "data-source-key": "Datenquellenschlüssel",
         "save-edits": "Änderungen speichern",
-        "existing-items": "{{#elements}} Datenelemente im Datenspeicher",
+        "existing-items": "{{elements}} Datenelemente im Datenspeicher",
         "recall-data": "Daten zurückrufen"
     },
     "learning-hub": {
