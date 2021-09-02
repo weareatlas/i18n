@@ -596,14 +596,16 @@
         "template-id": "ID modello",
         "favourites-bar": "Barra dei preferiti",
         "notify-on-ready": "Notifica su pronto",
-        "user-workflow": "Flusso di lavoro dell'utente"
+        "user-workflow": "Flusso di lavoro dell'utente",
+        "spanish-language": "Lingua spagnola"
     },
     "language": {
         "english": "Inglese (English)",
         "chinese": "Cinese (中国人)",
         "italian": "Italiano",
         "german": "Tedesco (Deutsche)",
-        "turkish": "Turca (Türk)"
+        "turkish": "Turca (Türk)",
+        "spanish": "Spagnolo (Español)"
     },
     "error": {
         "server-error": "Si è verificato un errore imprevisto del server.",

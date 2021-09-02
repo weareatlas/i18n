@@ -20,6 +20,7 @@ This repository collects community maintained translations for [weareatlas](http
 * [German](./src/lib/translations/de-DE.json)
 * [Italian](./src/lib/translations/it-IT.json)
 * [Turkish](./src/lib/translations/tr-TR.json)
+* [Spanish](./src/lib/translations/es-ES.json)
 
 ## Use a Translation (Optional)
 
@@ -36,6 +37,9 @@ i18next.init({lng, resources, defaultNS,
         }
         if (code.startsWith('tr')) {
             return 'tr-TR';
+        }
+        if (code.startsWith('es')) {
+            return 'es-ES';
         }
         return 'en-GB';
     }
