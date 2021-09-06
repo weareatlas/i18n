@@ -106,7 +106,7 @@
         "new-atlas-password-message": " Please pick a new Atlas password",
         "atlas-signup": "Sign up to Atlas",
         "atlas-signup-message": "Welcome! Sign up with your email or a third party account to get started today.",
-        "work-email": "Your work email",
+        "work-email": "email",
         "invalid-email": "Invalid email address",
         "register-password": "Your password",
         "help": "Need help?",
