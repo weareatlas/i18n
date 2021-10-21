@@ -19,13 +19,17 @@
         "existing-items": "Veri Deposundaki {{elements}} veri öğesi",
         "recall-data": "Verileri Geri Çağırma",
         "empty-title": "Veri Deposuna Hoş Geldiniz",
-        "empty-description": "Burada kaydedilen tüm Veri Öğelerinizi göreceksiniz. \nSürecinizi doldurmak için şimdi başlayın.",
+        "empty-description": "Burada kaydedilen tüm Veri Öğelerinizi göreceksiniz. \n\n Sürecinizi doldurmak için şimdi başlayın.",
         "empty-button": "Yeni Veri Öğesi Ekle",
         "management": "Veri Öğeleri Yönetimi",
         "add-new-item": "Yeni Veri Öğesi Ekle",
         "included": "Bu göreve dahil",
         "write": "Yazmak",
-        "preview": "Ön izleme"
+        "preview": "Ön izleme",
+        "data-native-type": "Veri Yerel Türü",
+        "string": "Sicim",
+        "number": "Sayı",
+        "boolean": "Boole"
     },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",

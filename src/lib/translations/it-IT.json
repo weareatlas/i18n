@@ -19,13 +19,17 @@
         "existing-items": "{{elements}} elementi di dati nel Data Store",
         "recall-data": "Richiama dati",
         "empty-title": "Benvenuto nel Data Store",
-        "empty-description": "Qui vedrai tutti i tuoi elementi di dati salvati. \nInizia subito a popolare il tuo Processo.",
+        "empty-description": "Qui vedrai tutti i tuoi elementi di dati salvati. \n\n Inizia subito a popolare il tuo Processo.",
         "empty-button": "Aggiungi nuovo elemento dati",
         "management": "Gestione degli elementi di dati",
         "add-new-item": "Aggiungi nuovo elemento dati",
         "included": "Incluso in questo compito",
         "write": "Scrivi",
-        "preview": "Anteprima"
+        "preview": "Anteprima",
+        "data-native-type": "Tipo di dati nativi",
+        "string": "Corda",
+        "number": "Numero",
+        "boolean": "Booleano"
     },
     "learning-hub": {
         "banner-title": "Formazione Atlas",

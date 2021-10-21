@@ -19,13 +19,17 @@
         "existing-items": "{{elements}} Datenelemente im Datenspeicher",
         "recall-data": "Daten zurückrufen",
         "empty-title": "Willkommen im Datenspeicher",
-        "empty-description": "Hier sehen Sie alle Ihre gespeicherten Datenelemente. \nBeginnen Sie jetzt damit, Ihren Prozess zu füllen.",
+        "empty-description": "Hier sehen Sie alle Ihre gespeicherten Datenelemente. \n\n Beginnen Sie jetzt damit, Ihren Prozess zu füllen.",
         "empty-button": "Neues Datenelement hinzufügen",
         "management": "Verwaltung von Datenelementen",
         "add-new-item": "Neues Datenelement hinzufügen",
         "included": "In dieser Aufgabe enthalten",
         "write": "Schreiben",
-        "preview": "Vorschau"
+        "preview": "Vorschau",
+        "data-native-type": "Datennativer Typ",
+        "string": "Zeichenfolge",
+        "number": "Nummer",
+        "boolean": "Boolesches"
     },
     "learning-hub": {
         "banner-title": "Atlas-Schulung",

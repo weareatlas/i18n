@@ -19,13 +19,17 @@
         "existing-items": "{{elementos}} elementos de datos en el almacén de datos",
         "recall-data": "Recuperar datos",
         "empty-title": "Bienvenido al almacén de datos",
-        "empty-description": "Aquí verá todos sus elementos de datos guardados. \nEmpiece ahora a completar su proceso.",
+        "empty-description": "Aquí verá todos sus elementos de datos guardados. \n\n Empiece ahora a completar su proceso.",
         "empty-button": "Agregar nuevo elemento de datos",
         "management": "Gestión de elementos de datos",
         "add-new-item": "Agregar nuevo elemento de datos",
         "included": "Incluido en esta tarea",
         "write": "Escribir",
-        "preview": "Avance"
+        "preview": "Avance",
+        "data-native-type": "Tipo nativo de datos",
+        "string": "Cuerda",
+        "number": "Número",
+        "boolean": "Booleano"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",
