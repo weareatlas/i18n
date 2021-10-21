@@ -3,7 +3,8 @@
         "title": "Isim",
         "header": "Bilgi deposu",
         "subtitle": "Veri Deposundaki işleminiz için tüm verileri yönetin. Süreçteki herhangi bir öğeden verileri geri çağırabilirsiniz - bu, verilerinizi tutarlı ve ihtiyaçlarınız doğrultusunda tutmanıza olanak tanır",
-        "search": "Veri Öğesi adına göre ara",
+        "search": "Arama",
+        "search-subtext": "Öğeleri burada ara...",
         "used-in": "{{elements}} elementte kullanılır",
         "add-new": "Yeni Veri Öğesi Ekle",
         "add-existing": "Veri Öğesi Ekle",
@@ -16,7 +17,15 @@
         "data-source-key": "Veri Kaynağı Anahtarı",
         "save-edits": "Düzenlemeleri Kaydet",
         "existing-items": "Veri Deposundaki {{elements}} veri öğesi",
-        "recall-data": "Verileri Geri Çağırma"
+        "recall-data": "Verileri Geri Çağırma",
+        "empty-title": "Veri Deposuna Hoş Geldiniz",
+        "empty-description": "Burada kaydedilen tüm Veri Öğelerinizi göreceksiniz. \nSürecinizi doldurmak için şimdi başlayın.",
+        "empty-button": "Yeni Veri Öğesi Ekle",
+        "management": "Veri Öğeleri Yönetimi",
+        "add-new-item": "Yeni Veri Öğesi Ekle",
+        "included": "Bu göreve dahil",
+        "write": "Yazmak",
+        "preview": "Ön izleme"
     },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",
