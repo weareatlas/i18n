@@ -3,7 +3,8 @@
         "title": "Titolo",
         "header": "Archivio dati",
         "subtitle": "Gestisci tutti i dati per il tuo processo nel Data Store. Puoi richiamare i dati da qualsiasi elemento del processo: questo ti consente di mantenere i tuoi dati coerenti e in linea con le tue esigenze",
-        "search": "Cerca per nome elemento dati",
+        "search": "Ricerca",
+        "search-subtext": "Cerca articoli qui...",
         "used-in": "Usato in {{elements}} elementi",
         "add-new": "Aggiungi nuovo elemento dati",
         "add-existing": "Aggiungi elemento dati",
@@ -16,7 +17,15 @@
         "data-source-key": "Chiave origine dati",
         "save-edits": "Salva modifiche",
         "existing-items": "{{elements}} elementi di dati nel Data Store",
-        "recall-data": "Richiama dati"
+        "recall-data": "Richiama dati",
+        "empty-title": "Benvenuto nel Data Store",
+        "empty-description": "Qui vedrai tutti i tuoi elementi di dati salvati. \nInizia subito a popolare il tuo Processo.",
+        "empty-button": "Aggiungi nuovo elemento dati",
+        "management": "Gestione degli elementi di dati",
+        "add-new-item": "Aggiungi nuovo elemento dati",
+        "included": "Incluso in questo compito",
+        "write": "Scrivi",
+        "preview": "Anteprima"
     },
     "learning-hub": {
         "banner-title": "Formazione Atlas",
