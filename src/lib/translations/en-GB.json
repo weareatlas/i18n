@@ -19,13 +19,17 @@
         "existing-items": "{{elements}} data items in the Data Store",
         "recall-data": "Recall Data",
         "empty-title": "Welcome to the Data Store",
-        "empty-description": "Here you will see all your Data Items saved. \nGet started now to populate your Process.",
+        "empty-description": "Here you will see all your Data Items saved. \n\n Get started now to populate your Process.",
         "empty-button": "Add New Data Item",
         "management": "Data Items Management",
         "add-new-item": "Add New Data Item",
         "included": "Included on this task",
         "write": "Write",
-        "preview": "Preview"
+        "preview": "Preview",
+        "data-native-type": "Data Native Type",
+        "string": "String",
+        "number": "Number",
+        "boolean": "Boolean"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",
