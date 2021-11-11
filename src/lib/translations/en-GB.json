@@ -610,7 +610,8 @@
         "favourites-bar": "Favourites bar",
         "notify-on-ready": "Notify on Ready",
         "user-workflow": "User Workflow",
-        "spanish-language": "Spanish Language"
+        "spanish-language": "Spanish Language",
+        "json-form": "Use JSON Forms"
     },
     "language": {
         "english": "English",

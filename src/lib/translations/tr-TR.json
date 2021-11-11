@@ -610,7 +610,8 @@
         "favourites-bar": "Favoriler çubuğu",
         "notify-on-ready": "Hazır olduğunda bildir",
         "user-workflow": "Kullanıcı İş Akışı",
-        "spanish-language": "İspanyolca dil"
+        "spanish-language": "İspanyolca dil",
+        "json-form": "JSON Formlarını Kullanın"
     },
     "language": {
         "english": "İngilizce",
