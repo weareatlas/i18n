@@ -29,7 +29,10 @@
         "data-native-type": "Tipo nativo de datos",
         "string": "Cuerda",
         "number": "Número",
-        "boolean": "Booleano"
+        "boolean": "Booleano",
+        "string-content": "Ingrese su contenido aquí ...",
+        "no-items": "No se pueden encontrar elementos del almacén de datos",
+        "matching-key": "No puede tener dos campos con el mismo nombre"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",
