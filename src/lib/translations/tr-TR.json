@@ -29,7 +29,10 @@
         "data-native-type": "Veri Yerel Türü",
         "string": "Sicim",
         "number": "Sayı",
-        "boolean": "Boole"
+        "boolean": "Boole",
+        "string-content": "Inserisci qui i tuoi contenuti...",
+        "no-items": "Impossibile trovare elementi dell'archivio dati",
+        "matching-key": "Non puoi avere due campi con lo stesso nome"
     },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",

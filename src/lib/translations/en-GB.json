@@ -29,7 +29,10 @@
         "data-native-type": "Data Native Type",
         "string": "String",
         "number": "Number",
-        "boolean": "Boolean"
+        "boolean": "Boolean",
+        "string-content": "Enter your content here...",
+        "no-items": "No data store items can be found",
+        "matching-key": "You cannot have two fields with the same name"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",
