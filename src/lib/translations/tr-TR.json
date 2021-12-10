@@ -32,7 +32,9 @@
         "boolean": "Boole",
         "string-content": "Inserisci qui i tuoi contenuti...",
         "no-items": "Impossibile trovare elementi dell'archivio dati",
-        "matching-key": "Non puoi avere due campi con lo stesso nome"
+        "matching-key": "Non puoi avere due campi con lo stesso nome",
+        "item-format": "Öğe Biçimi",
+        "format-validation": "Metin gerekli biçimi izlemiyor"
     },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",
