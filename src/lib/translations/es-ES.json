@@ -32,7 +32,9 @@
         "boolean": "Booleano",
         "string-content": "Ingrese su contenido aquí ...",
         "no-items": "No se pueden encontrar elementos del almacén de datos",
-        "matching-key": "No puede tener dos campos con el mismo nombre"
+        "matching-key": "No puede tener dos campos con el mismo nombre",
+        "item-format": "Formato de artículo",
+        "format-validation": "El texto no sigue el formato requerido"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",

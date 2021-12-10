@@ -32,7 +32,9 @@
         "boolean": "Boolean",
         "string-content": "Enter your content here...",
         "no-items": "No data store items can be found",
-        "matching-key": "You cannot have two fields with the same name"
+        "matching-key": "You cannot have two fields with the same name",
+        "item-format": "Item Format",
+        "format-validation": "Text does not follow the required format"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",

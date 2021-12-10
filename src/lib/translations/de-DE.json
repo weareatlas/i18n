@@ -32,7 +32,9 @@
         "boolean": "Boolesches",
         "string-content": "Geben Sie hier Ihren Inhalt ein...",
         "no-items": "Es können keine Datenspeicherelemente gefunden werden",
-        "matching-key": "Sie können nicht zwei Felder mit demselben Namen haben"
+        "matching-key": "Sie können nicht zwei Felder mit demselben Namen haben",
+        "item-format": "Artikelformat",
+        "format-validation": "Text entspricht nicht dem erforderlichen Format"
     },
     "learning-hub": {
         "banner-title": "Atlas-Schulung",
