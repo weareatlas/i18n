@@ -36,6 +36,24 @@
         "item-format": "Item Format",
         "format-validation": "Text does not follow the required format"
     },
+    "string-formats": {
+        "date-time": "Date Time",
+        "date": "Date",
+        "time": "Time",
+        "email": "Email",
+        "idn-email": "IDN email",
+        "hostname": "Hostname",
+        "idn-hostname": "IDN hostname",
+        "ipv-4": "IPv4",
+        "ipv-6": "IPv6",
+        "uri": "URI",
+        "uri-reference": "URI reference",
+        "iri": "IRI",
+        "iri-reference": "IRI reference",
+        "uri-template": "URI template",
+        "json-pointer": "JSON pointer",
+        "regex": "Regex"
+    },
     "learning-hub": {
         "banner-title": "Atlas Training",
         "banner-description": "The Atlas training takes you through Run & Map, with 3 Maturity Levels each: explore these features and advance your knowledge to accelerate your digital transformation.",

@@ -36,6 +36,24 @@
         "item-format": "Öğe Biçimi",
         "format-validation": "Metin gerekli biçimi izlemiyor"
     },
+    "string-formats": {
+        "date-time": "Tarih Saat",
+        "date": "Tarih",
+        "time": "Zaman",
+        "email": "E-posta",
+        "idn-email": "IDN E-posta",
+        "hostname": "ana bilgisayar adı",
+        "idn-hostname": "IDN ana bilgisayar adı",
+        "ipv-4": "IPv4",
+        "ipv-6": "IPv6",
+        "uri": "URI",
+        "uri-reference": "URI Referansı",
+        "iri": "IRI",
+        "iri-reference": "IRI Referansı",
+        "uri-template": "URI şablonu",
+        "json-pointer": "JSON İşaretçisi",
+        "regex": "Regex"
+    },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",
         "banner-description": "Atlas eğitimi, her biri 3 Olgunluk Düzeyine sahip Run & Map ile sizi yönlendirir: bu özellikleri keşfedin ve dijital dönüşümünüzü hızlandırmak için bilginizi geliştirin.",
