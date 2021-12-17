@@ -36,6 +36,24 @@
         "item-format": "Artikelformat",
         "format-validation": "Text entspricht nicht dem erforderlichen Format"
     },
+    "string-formats": {
+        "date-time": "Terminzeit",
+        "date": "Datum",
+        "time": "Zeit",
+        "email": "Email",
+        "idn-email": "IDN-E-Mail",
+        "hostname": "Hostname",
+        "idn-hostname": "IDN-Hostname",
+        "ipv-4": "IPv4",
+        "ipv-6": "IPv6",
+        "uri": "URI",
+        "uri-reference": "URI-Referenz",
+        "iri": "IRI",
+        "iri-reference": "IRI-Referenz",
+        "uri-template": "IRI-Vorlage",
+        "json-pointer": "JSON-Zeiger",
+        "regex": "Regex"
+    },
     "learning-hub": {
         "banner-title": "Atlas-Schulung",
         "banner-description": "Das Atlas-Training führt Sie durch Run & Map mit jeweils 3 Reifegraden: Entdecken Sie diese Funktionen und erweitern Sie Ihr Wissen, um Ihre digitale Transformation zu beschleunigen.",

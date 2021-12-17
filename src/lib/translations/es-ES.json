@@ -36,6 +36,24 @@
         "item-format": "Formato de artículo",
         "format-validation": "El texto no sigue el formato requerido"
     },
+    "string-formats": {
+        "date-time": "Fecha y hora",
+        "date": "Fecha",
+        "time": "Hora",
+        "email": "Correo electrónico",
+        "idn-email": "Correo electrónico IDN",
+        "hostname": "Nombre de host",
+        "idn-hostname": "Nombre de host IDN",
+        "ipv-4": "IPv4",
+        "ipv-6": "IPv6",
+        "uri": "URI",
+        "uri-reference": "Referencia de URI",
+        "iri": "IRI",
+        "iri-reference": "Referencia de IRI",
+        "uri-template": "Plantilla de URI",
+        "json-pointer": "Puntero JSON",
+        "regex": "Regex"
+    },
     "learning-hub": {
         "banner-title": "Atlas Training",
         "banner-description": "Atlas Training lo lleva a través de Run & Map, con 3 niveles de madurez cada uno: explore estas funciones y amplíe sus conocimientos para acelerar su transformación digital.",

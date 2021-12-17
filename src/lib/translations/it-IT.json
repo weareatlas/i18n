@@ -36,6 +36,24 @@
         "item-format": "Formato articolo",
         "format-validation": "Il testo non segue il formato richiesto"
     },
+    "string-formats": {
+        "date-time": "Appuntamento",
+        "date": "Data",
+        "time": "Volta",
+        "email": "Email",
+        "idn-email": "E-mail IDN",
+        "hostname": "Nome host",
+        "idn-hostname": "Nome host IDN",
+        "ipv-4": "IPv4",
+        "ipv-6": "IPv6",
+        "uri": "URI",
+        "uri-reference": "Riferimento URI",
+        "iri": "IRI",
+        "iri-reference": "Riferimento IRI",
+        "uri-template": "modello URI",
+        "json-pointer": "Puntatore JSON",
+        "regex": "Regex"
+    },
     "learning-hub": {
         "banner-title": "Formazione Atlas",
         "banner-description": "La formazione Atlas ti porta attraverso Run & Map, con 3 livelli di maturità ciascuno: esplora queste funzionalità e migliora le tue conoscenze per accelerare la tua trasformazione digitale.",
