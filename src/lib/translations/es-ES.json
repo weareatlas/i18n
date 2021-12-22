@@ -414,7 +414,10 @@
         "empty-section-description": "Es necesario agregar un campo a esta tarea para empezar a capturar datos: reasigne el proceso o solicite a las personas relevantes de su equipo que lo hagan",
         "notify-on-ready": "Enviar correo electrónico cuando esté Listo",
         "notify-on-ready-info": "\nEnvíe al propietario del proceso y a todos los usuarios en los roles seleccionados un correo electrónico cuando la tarea esté lista para reclamar",
-        "blank-gateway": "No puede publicar un flujo de trabajo que contenga expresiones de puerta de enlace vacías"
+        "blank-gateway": "No puede publicar un flujo de trabajo que contenga expresiones de puerta de enlace vacías",
+        "details-tab": "Detalles",
+        "store-tab": "Almacén de datos",
+        "permissions-tab": "Permisos"
     },
     "links": {
         "contact-us": "Contáctenos",
@@ -634,7 +637,8 @@
         "notify-on-ready": "Notificar en listo",
         "user-workflow": "Flujo de trabajo del usuario",
         "spanish-language": "Lengua española",
-        "json-form": "Usar formularios JSON"
+        "json-form": "Usar formularios JSON",
+        "data-store-viewer": "Visor de almacén de datos"
     },
     "language": {
         "english": "Inglés (English)",

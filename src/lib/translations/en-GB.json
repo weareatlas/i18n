@@ -414,7 +414,10 @@
         "empty-section-description": "A field needs to be added to this task to start capturing data – remap the process or ask the relevant people in your team to do it.",
         "notify-on-ready": "Send email on Ready",
         "notify-on-ready-info": "Sends the process owner and all users in the selected roles an email when the task is ready to claim.",
-        "blank-gateway": "You cannot publish a workflow which contains empty gateway expressions"
+        "blank-gateway": "You cannot publish a workflow which contains empty gateway expressions",
+        "details-tab": "Details",
+        "store-tab": "Data Store",
+        "permissions-tab": "Permissions"
     },
     "links": {
         "contact-us": "Contact us",
@@ -634,7 +637,8 @@
         "notify-on-ready": "Notify on Ready",
         "user-workflow": "User Workflow",
         "spanish-language": "Spanish Language",
-        "json-form": "Use JSON Forms"
+        "json-form": "Use JSON Forms",
+        "data-store-viewer": "Data Store Viewer"
     },
     "language": {
         "english": "English",

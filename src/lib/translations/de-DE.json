@@ -414,7 +414,10 @@
         "empty-section-description": "Dieser Aufgabe muss ein Feld hinzugefügt werden, um mit der Datenerfassung zu beginnen – ordnen Sie den Prozess neu zu oder bitten Sie die zuständigen Personen in Ihrem Team, dies zu tun.",
         "notify-on-ready": "E-Mail senden auf Bereit",
         "notify-on-ready-info": "Sendet dem Prozessbesitzer und allen Benutzern in den ausgewählten Rollen eine E-Mail, wenn die Aufgabe beanspruchbar ist.",
-        "blank-gateway": "Sie können keinen Workflow veröffentlichen, der leere Gateway-Ausdrücke enthält"
+        "blank-gateway": "Sie können keinen Workflow veröffentlichen, der leere Gateway-Ausdrücke enthält",
+        "details-tab": "Einzelheiten",
+        "store-tab": "Datenspeicher",
+        "permissions-tab": "Berechtigungen"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
@@ -634,7 +637,8 @@
         "notify-on-ready": "Bei Bereit benachrichtigen",
         "user-workflow": "Benutzerworkflow",
         "spanish-language": "Spanische Sprache",
-        "json-form": "Verwenden von JSON-Formularen"
+        "json-form": "Verwenden von JSON-Formularen",
+        "data-store-viewer": "Datenspeicher-Betrachter"
     },
     "language": {
         "english": "Englisch (English)",
