@@ -672,7 +672,8 @@
         "mail-client": "No valid email client found",
         "invalid-cron": "Invalid cron expression",
         "invalid-section": "Invalid section, no fields found",
-        "no-space-key": "Key cannot have space"
+        "no-space-key": "Key cannot have space",
+        "key-exists": "Key already exists"
     },
     "bpmn-features": {
         "function-task": "Function Task",
@@ -799,5 +800,40 @@
         "multi-lingual-content": "Lorem ipsum placeholder",
         "archive": "Data Archive",
         "archive-content": "Lorem ipsum placeholder"
+    },
+    "field-editors": {
+        "select-mode": "Select field mode",
+        "toggle": "Toggle",
+        "dropdown": "Dropdown",
+        "display": "Display",
+        "output": "Output",
+        "hyperlink": "Hyperlink",
+        "date": "Date",
+        "title": "Title",
+        "description": "Description",
+        "depends-on": "Depends on",
+        "method": "Method",
+        "is-required": "Is required",
+        "default-value": "Default Value",
+        "none": "None",
+        "field-required": "Field required",
+        "true": "True",
+        "false": "False",
+        "select-source": "Select data source",
+        "store-item": "Select data store item",
+        "store-tooltip": "Data store items can be used to add new fields",
+        "field-not-null": "Field cannot be null",
+        "querystring-param": "Querystring parameter",
+        "headers": "Headers",
+        "unsupported-type": "Unsupported type",
+        "select-intent": "Select intent",
+        "payment": "Payment",
+        "setup": "Setup",
+        "client-secret": "Client Secret key",
+        "publishable-key": "Publishable key",
+        "section-title": "Section title",
+        "not-supported": "Not supported type",
+        "add-store-input": "Add input from Data store",
+        "add-input-manually": "Add Input manually"
     }
 }

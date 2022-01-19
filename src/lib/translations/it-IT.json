@@ -672,7 +672,8 @@
         "mail-client": "Nessun client di posta elettronica valido trovato",
         "invalid-cron": "Espressione cron non valida",
         "invalid-section": "Sezione non valida, nessun campo trovato",
-        "no-space-key": "La chiave non può contenere spazio"
+        "no-space-key": "La chiave non può contenere spazio",
+        "key-exists": "La chiave esiste già"
     },
     "bpmn-features": {
         "function-task": "Attività della funzione",
@@ -799,5 +800,40 @@
         "multi-lingual-content": "Lorem ipsum placeholder",
         "archive": "Archivio dati",
         "archive-content": "Lorem ipsum placeholder"
+    },
+    "field-editors": {
+        "select-mode": "Seleziona la modalità campo",
+        "toggle": "Alternare",
+        "dropdown": "Cadere in picchiata",
+        "display": "Schermo",
+        "output": "Produzione",
+        "hyperlink": "Collegamento ipertestuale",
+        "date": "Data",
+        "title": "Titolo",
+        "description": "Descrizione",
+        "depends-on": "Dipende da",
+        "method": "Metodo",
+        "is-required": "È obbligatorio",
+        "default-value": "Valore di default",
+        "none": "Nessuno",
+        "field-required": "Campo obbligatorio",
+        "true": "Vera",
+        "false": "Falso",
+        "select-source": "Seleziona origine dati",
+        "store-item": "Seleziona l'elemento dell'archivio dati",
+        "store-tooltip": "Gli elementi dell'archivio dati possono essere utilizzati per aggiungere nuovi campi",
+        "field-not-null": "Il campo non può essere nullo",
+        "querystring-param": "Parametro della stringa di query",
+        "headers": "Intestazioni",
+        "unsupported-type": "Tipo non supportato",
+        "select-intent": "Seleziona l'intento",
+        "payment": "Pagamento",
+        "setup": "Impostare",
+        "client-secret": "Chiave segreta del cliente",
+        "publishable-key": "Chiave pubblicabile",
+        "section-title": "Titolo della sezione",
+        "not-supported": "Tipo non supportato",
+        "add-store-input": "Aggiungi input dall'archivio dati",
+        "add-input-manually": "Aggiungi input manualmente"
     }
 }

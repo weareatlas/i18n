@@ -672,7 +672,8 @@
         "mail-client": "No se encontró ningún cliente de correo electrónico válido",
         "invalid-cron": "Expresión cron no válida",
         "invalid-section": "Sección no válida, no se encontraron campos",
-        "no-space-key": "La llave no puede tener espacio"
+        "no-space-key": "La llave no puede tener espacio",
+        "key-exists": "La clave ya existe"
     },
     "bpmn-features": {
         "function-task": "Tarea de Función",
@@ -799,5 +800,40 @@
         "multi-lingual-content": "Lorem ipsum placeholder",
         "archive": "Archivo de datos",
         "archive-content": "Lorem ipsum placeholder"
+    },
+    "field-editors": {
+        "select-mode": "Seleccionar modo de campo",
+        "toggle": "Palanca",
+        "dropdown": "Desplegable",
+        "display": "Monitora",
+        "output": "Producción",
+        "hyperlink": "Hipervínculo",
+        "date": "Fecha",
+        "title": "Título",
+        "description": "Descripción",
+        "depends-on": "Depende de",
+        "method": "Método",
+        "is-required": "Se requiere",
+        "default-value": "Valor por defecto",
+        "none": "Ninguna",
+        "field-required": "Campo requerido",
+        "true": "Cierto",
+        "false": "Falsa",
+        "select-source": "Seleccionar fuente de datos",
+        "store-item": "Seleccione el elemento del almacén de datos",
+        "store-tooltip": "Los elementos del almacén de datos se pueden usar para agregar nuevos campos",
+        "field-not-null": "El campo no puede ser nulo",
+        "querystring-param": "Parámetro de cadena de consulta",
+        "headers": "Encabezadas",
+        "unsupported-type": "tipo no compatible",
+        "select-intent": "Seleccionar intención",
+        "payment": "Pago",
+        "setup": "Configuración",
+        "client-secret": "Clave secreta del cliente",
+        "publishable-key": "Clave publicable",
+        "section-title": "Sección de título",
+        "not-supported": "Tipo no admitido",
+        "add-store-input": "Agregar entrada desde el almacén de datos",
+        "add-input-manually": "Agregar entrada manualmente"
     }
 }

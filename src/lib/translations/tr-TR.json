@@ -672,7 +672,8 @@
         "mail-client": "Geçerli bir e-posta istemcisi bulunamadı",
         "invalid-cron": "Geçersiz cron ifadesi",
         "invalid-section": "Geçersiz bölüm, alan bulunamadı",
-        "no-space-key": "Anahtar boşluk içeremez"
+        "no-space-key": "Anahtar boşluk içeremez",
+        "key-exists": "Anahtar zaten var"
     },
     "bpmn-features": {
         "function-task": "İşlev Görevi",
@@ -799,5 +800,40 @@
         "multi-lingual-content": "Lorem ipsum placeholder",
         "archive": "Veri Arşivi",
         "archive-content": "Lorem ipsum placeholder"
+    },
+    "field-editors": {
+        "select-mode": "Alan modunu seçin",
+        "toggle": "aç/kapat",
+        "dropdown": "Yıkılmak",
+        "display": "Görüntülemek",
+        "output": "Çıktı",
+        "hyperlink": "köprü",
+        "date": "Tarih",
+        "title": "Başlık",
+        "description": "Açıklama",
+        "depends-on": "bağlıdır",
+        "method": "Yöntem",
+        "is-required": "Gereklidir",
+        "default-value": "Varsayılan değer",
+        "none": "Hiçbiri",
+        "field-required": "Alan gerekli",
+        "true": "Doğru",
+        "false": "YANLIŞ",
+        "select-source": "Veri kaynağı seçin",
+        "store-item": "Veri deposu öğesini seçin",
+        "store-tooltip": "Veri deposu öğeleri, yeni alanlar eklemek için kullanılabilir",
+        "field-not-null": "Alan boş olamaz",
+        "querystring-param": "sorgu dizesi parametresi",
+        "headers": "Başlıklar",
+        "unsupported-type": "Desteklenmeyen tür",
+        "select-intent": "Niyet seçin",
+        "payment": "Ödeme",
+        "setup": "Kurmak",
+        "client-secret": "İstemci Gizli anahtarı",
+        "publishable-key": "yayınlanabilir anahtar",
+        "section-title": "Bölüm başlığı",
+        "not-supported": "Desteklenmeyen tür",
+        "add-store-input": "Veri deposundan girdi ekle",
+        "add-input-manually": "Girişi manuel olarak ekle"
     }
 }
