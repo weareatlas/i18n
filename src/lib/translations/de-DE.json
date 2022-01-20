@@ -672,7 +672,8 @@
         "mail-client": "Keine gueltige Email gefunden",
         "invalid-cron": "Ungueltiger Cron-Ausdruck",
         "invalid-section": "Ungueltige Sektion, keine Felder gefunden",
-        "no-space-key": "Schluessel darf keine Leerzeichen haben"
+        "no-space-key": "Schluessel darf keine Leerzeichen haben",
+        "key-exists": "Schlüssel existiert bereits"
     },
     "bpmn-features": {
         "function-task": "Funktionsaufgabe",
@@ -830,6 +831,9 @@
         "setup": "Konfiguration",
         "client-secret": "Client-Geheimschlüssel",
         "publishable-key": "Veröffentlichbarer Schlüssel",
-        "section-title": "Abschnittsüberschrift"
+        "section-title": "Abschnittsüberschrift",
+        "not-supported": "Nicht unterstützter Typ",
+        "add-store-input": "Fügen Sie Eingaben aus dem Datenspeicher hinzu",
+        "add-input-manually": "Eingabe manuell hinzufügen"
     }
 }

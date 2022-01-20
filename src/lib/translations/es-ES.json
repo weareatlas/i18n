@@ -672,7 +672,8 @@
         "mail-client": "No se encontró ningún cliente de correo electrónico válido",
         "invalid-cron": "Expresión cron no válida",
         "invalid-section": "Sección no válida, no se encontraron campos",
-        "no-space-key": "La llave no puede tener espacio"
+        "no-space-key": "La llave no puede tener espacio",
+        "key-exists": "La clave ya existe"
     },
     "bpmn-features": {
         "function-task": "Tarea de Función",
@@ -830,6 +831,9 @@
         "setup": "Configuración",
         "client-secret": "Clave secreta del cliente",
         "publishable-key": "Clave publicable",
-        "section-title": "Sección de título"
+        "section-title": "Sección de título",
+        "not-supported": "Tipo no admitido",
+        "add-store-input": "Agregar entrada desde el almacén de datos",
+        "add-input-manually": "Agregar entrada manualmente"
     }
 }

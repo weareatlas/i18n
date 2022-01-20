@@ -672,7 +672,8 @@
         "mail-client": "No valid email client found",
         "invalid-cron": "Invalid cron expression",
         "invalid-section": "Invalid section, no fields found",
-        "no-space-key": "Key cannot have space"
+        "no-space-key": "Key cannot have space",
+        "key-exists": "Key already exists"
     },
     "bpmn-features": {
         "function-task": "Function Task",
@@ -830,6 +831,9 @@
         "setup": "Setup",
         "client-secret": "Client Secret key",
         "publishable-key": "Publishable key",
-        "section-title": "Section title"
+        "section-title": "Section title",
+        "not-supported": "Not supported type",
+        "add-store-input": "Add input from Data store",
+        "add-input-manually": "Add Input manually"
     }
 }

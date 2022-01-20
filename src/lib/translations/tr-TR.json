@@ -672,7 +672,8 @@
         "mail-client": "Geçerli bir e-posta istemcisi bulunamadı",
         "invalid-cron": "Geçersiz cron ifadesi",
         "invalid-section": "Geçersiz bölüm, alan bulunamadı",
-        "no-space-key": "Anahtar boşluk içeremez"
+        "no-space-key": "Anahtar boşluk içeremez",
+        "key-exists": "Anahtar zaten var"
     },
     "bpmn-features": {
         "function-task": "İşlev Görevi",
@@ -830,6 +831,9 @@
         "setup": "Kurmak",
         "client-secret": "İstemci Gizli anahtarı",
         "publishable-key": "yayınlanabilir anahtar",
-        "section-title": "Bölüm başlığı"
+        "section-title": "Bölüm başlığı",
+        "not-supported": "Desteklenmeyen tür",
+        "add-store-input": "Veri deposundan girdi ekle",
+        "add-input-manually": "Girişi manuel olarak ekle"
     }
 }
