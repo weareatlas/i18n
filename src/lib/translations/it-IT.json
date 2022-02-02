@@ -834,6 +834,22 @@
         "section-title": "Titolo della sezione",
         "not-supported": "Tipo non supportato",
         "add-store-input": "Aggiungi input dall'archivio dati",
-        "add-input-manually": "Aggiungi input manualmente"
+        "add-input-manually": "Aggiungi input manualmente",
+        "entry": "Iscrizione",
+        "conditions-management": "Gestione delle condizioni",
+        "enter-store-key": "Immettere la chiave dell'origine dati",
+        "expression-examples": "Esempi di espressioni",
+        "inputs": "Ingressi",
+        "inputs-detail": "Informazioni contestuali su cosa dovrebbe riempire i campi INPUT.",
+        "input-add-store": "Aggiungi input dall'archivio dati",
+        "input-add-manual": "Aggiungi input manualmente",
+        "outputs": "Uscite",
+        "outputs-detail": "Informazioni contestuali su cosa deve riempire i campi OUTPUT.",
+        "outputs-data-store": "Aggiungi output dall'archivio dati",
+        "select-method": "Seleziona Metodo",
+        "param-name": "Nome parametro",
+        "body": "Corpo",
+        "link-display": "Seleziona Come visualizzare il collegamento ipertestuale",
+        "embed-image": "Incorpora come immagine"
     }
 }

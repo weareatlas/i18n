@@ -834,6 +834,22 @@
         "section-title": "Bölüm başlığı",
         "not-supported": "Desteklenmeyen tür",
         "add-store-input": "Veri deposundan girdi ekle",
-        "add-input-manually": "Girişi manuel olarak ekle"
+        "add-input-manually": "Girişi manuel olarak ekle",
+        "entry": "giriş",
+        "conditions-management": "Koşul Yönetimi",
+        "enter-store-key": "Veri Kaynağı Anahtarını Girin",
+        "expression-examples": "ifade örnekleri",
+        "inputs": "girişler",
+        "inputs-detail": "GİRDİ alanlarını neyin doldurması gerektiğine dair Bağlamsal Bilgi.",
+        "input-add-store": "Veri Deposundan Girdi Ekle",
+        "input-add-manual": "Girişi Manuel Olarak Ekle",
+        "outputs": "çıktılar",
+        "outputs-detail": "ÇIKTI alanlarını neyin doldurması gerektiğine dair Bağlamsal Bilgi.",
+        "outputs-data-store": "Veri Deposundan Çıktı Ekle",
+        "select-method": "Yöntem Seç",
+        "param-name": "Parametre adı",
+        "body": "Gövde",
+        "link-display": "Köprünün Nasıl Görüntüleneceğini Seçin",
+        "embed-image": "Resim olarak yerleştir"
     }
 }

@@ -834,6 +834,22 @@
         "section-title": "Abschnittsüberschrift",
         "not-supported": "Nicht unterstützter Typ",
         "add-store-input": "Fügen Sie Eingaben aus dem Datenspeicher hinzu",
-        "add-input-manually": "Eingabe manuell hinzufügen"
+        "add-input-manually": "Eingabe manuell hinzufügen",
+        "entry": "Eintrag",
+        "conditions-management": "Konditionenverwaltung",
+        "enter-store-key": "Geben Sie den Datenquellenschlüssel ein",
+        "expression-examples": "Ausdrucksbeispiele",
+        "inputs": "Eingänge",
+        "inputs-detail": "Kontextinformationen darüber, was die INPUT-Felder füllen soll.",
+        "input-add-store": "Eingabe aus Datenspeicher hinzufügen",
+        "input-add-manual": "Eingabe manuell hinzufügen",
+        "outputs": "Ausgänge",
+        "outputs-detail": "Kontextinformationen darüber, was die OUTPUT-Felder füllen soll.",
+        "outputs-data-store": "Ausgabe aus Datenspeicher hinzufügen",
+        "select-method": "Methode auswählen",
+        "param-name": "Parametername",
+        "body": "Körper",
+        "link-display": "Wählen Sie aus, wie der Hyperlink angezeigt werden soll",
+        "embed-image": "Als Bild einbetten"
     }
 }

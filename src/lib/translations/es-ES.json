@@ -834,6 +834,22 @@
         "section-title": "Sección de título",
         "not-supported": "Tipo no admitido",
         "add-store-input": "Agregar entrada desde el almacén de datos",
-        "add-input-manually": "Agregar entrada manualmente"
+        "add-input-manually": "Agregar entrada manualmente",
+        "entry": "Entrada",
+        "conditions-management": "Gestión de Condiciones",
+        "enter-store-key": "Introducir clave de fuente de datos",
+        "expression-examples": "Ejemplos de expresiones",
+        "inputs": "Entradas",
+        "inputs-detail": "Información contextual sobre lo que debe llenar los campos de ENTRADA.",
+        "input-add-store": "Agregar entrada desde el almacén de datos",
+        "input-add-manual": "Agregar entrada manualmente",
+        "outputs": "Salidas",
+        "outputs-detail": "Información contextual sobre lo que debe llenar los campos de SALIDA.",
+        "outputs-data-store": "Agregar salida desde el almacén de datos",
+        "select-method": "Seleccionar método",
+        "param-name": "Nombre del parámetro",
+        "body": "Cuerpo",
+        "link-display": "Seleccione cómo mostrar el hipervínculo",
+        "embed-image": "Insertar como imagen"
     }
 }
