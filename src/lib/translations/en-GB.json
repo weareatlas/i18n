@@ -834,6 +834,22 @@
         "section-title": "Section title",
         "not-supported": "Not supported type",
         "add-store-input": "Add input from Data store",
-        "add-input-manually": "Add Input manually"
+        "add-input-manually": "Add Input manually",
+        "entry": "Entry",
+        "conditions-management": "Conditions Management",
+        "enter-store-key": "Enter Data Source Key",
+        "expression-examples": "Expression examples",
+        "inputs": "Inputs",
+        "inputs-detail": "Contextual Information on what should fill the INPUT fields.",
+        "input-add-store": "Add Input From Data Store",
+        "input-add-manual": "Add Input Manually",
+        "outputs": "Outputs",
+        "outputs-detail": "Contextual Information on what should fill the OUTPUT fields.",
+        "outputs-data-store": "Add Output From Data Store",
+        "select-method": "Select Method",
+        "param-name": "Parameter Name",
+        "body": "Body",
+        "link-display": "Select How to Display the Hyperlink",
+        "embed-image": "Embed as image"
     }
 }
