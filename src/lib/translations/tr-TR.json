@@ -803,6 +803,7 @@
     },
     "field-editors": {
         "select-mode": "Alan modunu seçin",
+        "select-format": "Alan biçimini seçin",
         "toggle": "aç/kapat",
         "dropdown": "Yıkılmak",
         "display": "Görüntülemek",
