@@ -803,6 +803,7 @@
     },
     "field-editors": {
         "select-mode": "Seleziona la modalità campo",
+        "select-format": "Seleziona il formato del campo",
         "toggle": "Alternare",
         "dropdown": "Cadere in picchiata",
         "display": "Schermo",

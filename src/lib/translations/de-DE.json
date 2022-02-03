@@ -803,6 +803,7 @@
     },
     "field-editors": {
         "select-mode": "Feldmodus auswählen",
+        "select-format": "Feldformat auswählen",
         "toggle": "Umschalten",
         "dropdown": "Dropdown-Liste",
         "display": "Anzeige",
