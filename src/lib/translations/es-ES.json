@@ -638,7 +638,10 @@
         "user-workflow": "Flujo de trabajo del usuario",
         "spanish-language": "Lengua española",
         "json-form": "Usar formularios JSON",
-        "data-store-viewer": "Visor de almacén de datos"
+        "data-store-viewer": "Visor de almacén de datos",
+        "external-api-call": "Utilice la llamada API externa basada en el almacén de datos",
+        "function-task-template": "Usar plantilla de tarea de función basada en almacén de datos",
+        "object-field": "Campo de objeto"
     },
     "language": {
         "english": "Inglés (English)",
@@ -834,7 +837,7 @@
         "publishable-key": "Clave publicable",
         "section-title": "Sección de título",
         "not-supported": "Tipo no admitido",
-        "add-store-input": "Agregar entrada desde el almacén de datos",
+        "add-store-input": "Desde el almacén de datos",
         "add-input-manually": "Agregar entrada manualmente",
         "entry": "Entrada",
         "conditions-management": "Gestión de Condiciones",

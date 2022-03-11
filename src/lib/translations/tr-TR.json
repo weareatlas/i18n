@@ -638,7 +638,10 @@
         "user-workflow": "Kullanıcı İş Akışı",
         "spanish-language": "İspanyolca dil",
         "json-form": "JSON Formlarını Kullanın",
-        "data-store-viewer": "Veri Deposu Görüntüleyici"
+        "data-store-viewer": "Veri Deposu Görüntüleyici",
+        "external-api-call": "Veri Deposu tabanlı Harici API çağrısını kullanın",
+        "function-task-template": "Veri Deposu tabanlı İşlev görev şablonunu kullanın",
+        "object-field": "Nesne Alanı"
     },
     "language": {
         "english": "İngilizce",
@@ -834,7 +837,7 @@
         "publishable-key": "yayınlanabilir anahtar",
         "section-title": "Bölüm başlığı",
         "not-supported": "Desteklenmeyen tür",
-        "add-store-input": "Veri deposundan girdi ekle",
+        "add-store-input": "Veri deposundan",
         "add-input-manually": "Girişi manuel olarak ekle",
         "entry": "giriş",
         "conditions-management": "Koşul Yönetimi",
