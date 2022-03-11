@@ -638,7 +638,10 @@
         "user-workflow": "Flusso di lavoro dell'utente",
         "spanish-language": "Lingua spagnola",
         "json-form": "Usa i moduli JSON",
-        "data-store-viewer": "Visualizzatore archivio dati"
+        "data-store-viewer": "Visualizzatore archivio dati",
+        "external-api-call": "Utilizzare la chiamata API esterna basata su Data Store",
+        "function-task-template": "Use Data Store based Function task templateUtilizzare il modello di attività della funzione basato sull'archivio dati",
+        "object-field": "Campo oggetto"
     },
     "language": {
         "english": "Inglese (English)",
@@ -834,7 +837,7 @@
         "publishable-key": "Chiave pubblicabile",
         "section-title": "Titolo della sezione",
         "not-supported": "Tipo non supportato",
-        "add-store-input": "Aggiungi input dall'archivio dati",
+        "add-store-input": "Da Archivio dati",
         "add-input-manually": "Aggiungi input manualmente",
         "entry": "Iscrizione",
         "conditions-management": "Gestione delle condizioni",

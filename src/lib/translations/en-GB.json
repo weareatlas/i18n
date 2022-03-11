@@ -638,7 +638,10 @@
         "user-workflow": "User Workflow",
         "spanish-language": "Spanish Language",
         "json-form": "Use JSON Forms",
-        "data-store-viewer": "Data Store Viewer"
+        "data-store-viewer": "Data Store Viewer",
+        "external-api-call": "Use Data Store based External api call",
+        "function-task-template": "Use Data Store based Function task template",
+        "object-field": "Object Field"
     },
     "language": {
         "english": "English",
@@ -834,7 +837,7 @@
         "publishable-key": "Publishable key",
         "section-title": "Section title",
         "not-supported": "Not supported type",
-        "add-store-input": "Add input from Data store",
+        "add-store-input": "From Data store",
         "add-input-manually": "Add Input manually",
         "entry": "Entry",
         "conditions-management": "Conditions Management",

@@ -638,7 +638,10 @@
         "user-workflow": "Benutzerworkflow",
         "spanish-language": "Spanische Sprache",
         "json-form": "Verwenden von JSON-Formularen",
-        "data-store-viewer": "Datenspeicher-Betrachter"
+        "data-store-viewer": "Datenspeicher-Betrachter",
+        "external-api-call": "Verwenden Sie einen Datenspeicher-basierten externen API-Aufruf",
+        "function-task-template": "Aufgabenvorlage für datenspeicherbasierte Funktionen verwenden",
+        "object-field": "Objektfeld"
     },
     "language": {
         "english": "Englisch (English)",
@@ -834,7 +837,7 @@
         "publishable-key": "Veröffentlichbarer Schlüssel",
         "section-title": "Abschnittsüberschrift",
         "not-supported": "Nicht unterstützter Typ",
-        "add-store-input": "Fügen Sie Eingaben aus dem Datenspeicher hinzu",
+        "add-store-input": "Aus dem Datenspeicher",
         "add-input-manually": "Eingabe manuell hinzufügen",
         "entry": "Eintrag",
         "conditions-management": "Konditionenverwaltung",
