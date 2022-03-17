@@ -854,6 +854,8 @@
         "param-name": "Parametre adı",
         "body": "Gövde",
         "link-display": "Köprünün Nasıl Görüntüleneceğini Seçin",
-        "embed-image": "Resim olarak yerleştir"
+        "embed-image": "Resim olarak yerleştir",
+        "import-bpmn": "BPMN İşlemini İçe Aktarma",
+        "new-tag": "Yeni Etiket Ekle"
     }
 }

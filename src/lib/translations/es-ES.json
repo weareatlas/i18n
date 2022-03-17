@@ -854,6 +854,8 @@
         "param-name": "Nombre del parámetro",
         "body": "Cuerpo",
         "link-display": "Seleccione cómo mostrar el hipervínculo",
-        "embed-image": "Insertar como imagen"
+        "embed-image": "Insertar como imagen",
+        "import-bpmn": "Importar Proceso BPMN",
+        "new-tag": "Agregar nueva etiqueta"
     }
 }
