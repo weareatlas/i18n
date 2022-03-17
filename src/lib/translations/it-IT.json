@@ -854,6 +854,8 @@
         "param-name": "Nome parametro",
         "body": "Corpo",
         "link-display": "Seleziona Come visualizzare il collegamento ipertestuale",
-        "embed-image": "Incorpora come immagine"
+        "embed-image": "Incorpora come immagine",
+        "import-bpmn": "Importa processo BPMN",
+        "new-tag": "Aggiungi nuovo tag"
     }
 }

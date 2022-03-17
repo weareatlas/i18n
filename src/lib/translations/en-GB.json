@@ -856,6 +856,8 @@
         "param-name": "Parameter Name",
         "body": "Body",
         "link-display": "Select How to Display the Hyperlink",
-        "embed-image": "Embed as image"
+        "embed-image": "Embed as image",
+        "import-bpmn": "Import BPMN Process",
+        "new-tag": "Add New Tag"
     }
 }
