@@ -641,7 +641,9 @@
         "data-store-viewer": "Data Store Viewer",
         "external-api-call": "Use Data Store based External api call",
         "function-task-template": "Use Data Store based Function task template",
-        "object-field": "Object Field"
+        "object-field": "Object Field",
+        "user-task-data-store": "Use Data Store based User Task",
+        "process-detail": "Use Data Store based Process Detail"
     },
     "language": {
         "english": "English",
