@@ -858,6 +858,13 @@
         "link-display": "Select How to Display the Hyperlink",
         "embed-image": "Embed as image",
         "import-bpmn": "Import BPMN Process",
-        "new-tag": "Add New Tag"
+        "new-tag": "Add New Tag",
+        "input-text": "Input Text",
+        "external-call": "External API Call",
+        "file-upload": "File Upload",
+        "input-date": "Input Date Time",
+        "input-number": "Input Number",
+        "input-dropdown": "Input Dropdown",
+        "unknown": "Unknown"
     }
 }

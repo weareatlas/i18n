@@ -641,7 +641,9 @@
         "data-store-viewer": "Visor de almacén de datos",
         "external-api-call": "Utilice la llamada API externa basada en el almacén de datos",
         "function-task-template": "Usar plantilla de tarea de función basada en almacén de datos",
-        "object-field": "Campo de objeto"
+        "object-field": "Campo de objeto",
+        "user-task-data-store": "Usar tarea de usuario basada en almacén de datos",
+        "process-detail": "Usar detalle de proceso basado en almacén de datos"
     },
     "language": {
         "english": "Inglés (English)",
@@ -856,6 +858,13 @@
         "link-display": "Seleccione cómo mostrar el hipervínculo",
         "embed-image": "Insertar como imagen",
         "import-bpmn": "Importar Proceso BPMN",
-        "new-tag": "Agregar nueva etiqueta"
+        "new-tag": "Agregar nueva etiqueta",
+        "input-text": "Texto de entrada",
+        "external-call": "Llamada API externa",
+        "file-upload": "Subir archivo",
+        "input-date": "Fecha de entrada Hora",
+        "input-number": "Número de entrada",
+        "input-dropdown": "Menú desplegable de entrada",
+        "unknown": "Desconocida"
     }
 }

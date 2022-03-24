@@ -641,7 +641,9 @@
         "data-store-viewer": "Visualizzatore archivio dati",
         "external-api-call": "Utilizzare la chiamata API esterna basata su Data Store",
         "function-task-template": "Use Data Store based Function task templateUtilizzare il modello di attività della funzione basato sull'archivio dati",
-        "object-field": "Campo oggetto"
+        "object-field": "Campo oggetto",
+        "user-task-data-store": "Utilizzare l'attività utente basata sull'archivio dati",
+        "process-detail": "Utilizza i dettagli del processo basati su Data Store"
     },
     "language": {
         "english": "Inglese (English)",
@@ -856,6 +858,13 @@
         "link-display": "Seleziona Come visualizzare il collegamento ipertestuale",
         "embed-image": "Incorpora come immagine",
         "import-bpmn": "Importa processo BPMN",
-        "new-tag": "Aggiungi nuovo tag"
+        "new-tag": "Aggiungi nuovo tag",
+        "input-text": "Testo di input",
+        "external-call": "Chiamata API esterna",
+        "file-upload": "Upload di file",
+        "input-date": "Immettere la data e l'ora",
+        "input-number": "Immettere il numero",
+        "input-dropdown": "Ingresso a discesa",
+        "unknown": "Sconosciuta"
     }
 }
