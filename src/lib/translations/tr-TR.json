@@ -641,7 +641,9 @@
         "data-store-viewer": "Veri Deposu Görüntüleyici",
         "external-api-call": "Veri Deposu tabanlı Harici API çağrısını kullanın",
         "function-task-template": "Veri Deposu tabanlı İşlev görev şablonunu kullanın",
-        "object-field": "Nesne Alanı"
+        "object-field": "Nesne Alanı",
+        "user-task-data-store": "Veri Deposu tabanlı Kullanıcı Görevini Kullan",
+        "process-detail": "Veri Deposu tabanlı İşlem Ayrıntısını kullanın"
     },
     "language": {
         "english": "İngilizce",
@@ -856,6 +858,13 @@
         "link-display": "Köprünün Nasıl Görüntüleneceğini Seçin",
         "embed-image": "Resim olarak yerleştir",
         "import-bpmn": "BPMN İşlemini İçe Aktarma",
-        "new-tag": "Yeni Etiket Ekle"
+        "new-tag": "Yeni Etiket Ekle",
+        "input-text": "Giriş metni",
+        "external-call": "Harici API Çağrısı",
+        "file-upload": "Dosya yükleme",
+        "input-date": "Giriş Tarih Saat",
+        "input-number": "Numara giriniz",
+        "input-dropdown": "Giriş Açılır Menüsü",
+        "unknown": "Bilinmeyen"
     }
 }

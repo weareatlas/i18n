@@ -641,7 +641,9 @@
         "data-store-viewer": "Datenspeicher-Betrachter",
         "external-api-call": "Verwenden Sie einen Datenspeicher-basierten externen API-Aufruf",
         "function-task-template": "Aufgabenvorlage für datenspeicherbasierte Funktionen verwenden",
-        "object-field": "Objektfeld"
+        "object-field": "Objektfeld",
+        "user-task-data-store": "Verwenden Sie eine datenspeicherbasierte Benutzeraufgabe",
+        "process-detail": "Verwenden Sie datenspeicherbasierte Prozessdetails"
     },
     "language": {
         "english": "Englisch (English)",
@@ -856,6 +858,13 @@
         "link-display": "Wählen Sie aus, wie der Hyperlink angezeigt werden soll",
         "embed-image": "Als Bild einbetten",
         "import-bpmn": "BPMN-Prozess importieren",
-        "new-tag": "Neues Tag hinzufügen"
+        "new-tag": "Neues Tag hinzufügen",
+        "input-text": "Eingabetext",
+        "external-call": "Externer API-Aufruf",
+        "file-upload": "Datei-Upload",
+        "input-date": "Datum Uhrzeit eingeben",
+        "input-number": "Nummer eingeben",
+        "input-dropdown": "Eingabe-Dropdown",
+        "unknown": "Unbekannt"
     }
 }
