@@ -867,6 +867,9 @@
         "input-dropdown": "Ingresso a discesa",
         "unknown": "Sconosciuta",
         "auto-start": "Avvio automatico",
-        "auto-start-info": "Avvia automaticamente il processo"
+        "auto-start-info": "Avvia automaticamente il processo",
+        "section-management": "Gestione della sezione",
+        "add-section": "Aggiungi nuova sezione",
+        "display-text": "Visualizza come testo"
     }
 }
