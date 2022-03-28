@@ -865,6 +865,8 @@
         "input-date": "Datum Uhrzeit eingeben",
         "input-number": "Nummer eingeben",
         "input-dropdown": "Eingabe-Dropdown",
-        "unknown": "Unbekannt"
+        "unknown": "Unbekannt",
+        "auto-start": "Auto-Start",
+        "auto-start-info": "Starten Sie den Vorgang automatisch"
     }
 }

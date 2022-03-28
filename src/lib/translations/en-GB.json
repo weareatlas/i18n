@@ -865,6 +865,8 @@
         "input-date": "Input Date Time",
         "input-number": "Input Number",
         "input-dropdown": "Input Dropdown",
-        "unknown": "Unknown"
+        "unknown": "Unknown",
+        "auto-start": "Auto Start",
+        "auto-start-info": "Automatically start the process"
     }
 }

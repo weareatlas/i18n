@@ -865,6 +865,8 @@
         "input-date": "Giriş Tarih Saat",
         "input-number": "Numara giriniz",
         "input-dropdown": "Giriş Açılır Menüsü",
-        "unknown": "Bilinmeyen"
+        "unknown": "Bilinmeyen",
+        "auto-start": "Araba Çalıştırma",
+        "auto-start-info": "İşlemi otomatik olarak başlat"
     }
 }

@@ -865,6 +865,8 @@
         "input-date": "Immettere la data e l'ora",
         "input-number": "Immettere il numero",
         "input-dropdown": "Ingresso a discesa",
-        "unknown": "Sconosciuta"
+        "unknown": "Sconosciuta",
+        "auto-start": "Avvio automatico",
+        "auto-start-info": "Avvia automaticamente il processo"
     }
 }
