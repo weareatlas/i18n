@@ -865,6 +865,8 @@
         "input-date": "Fecha de entrada Hora",
         "input-number": "Número de entrada",
         "input-dropdown": "Menú desplegable de entrada",
-        "unknown": "Desconocida"
+        "unknown": "Desconocida",
+        "auto-start": "Autoencendido",
+        "auto-start-info": "Iniciar automáticamente el proceso"
     }
 }
