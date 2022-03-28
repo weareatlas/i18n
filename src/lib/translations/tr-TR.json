@@ -867,6 +867,9 @@
         "input-dropdown": "Giriş Açılır Menüsü",
         "unknown": "Bilinmeyen",
         "auto-start": "Araba Çalıştırma",
-        "auto-start-info": "İşlemi otomatik olarak başlat"
+        "auto-start-info": "İşlemi otomatik olarak başlat",
+        "section-management": "Bölüm Yönetimi",
+        "add-section": "Yeni Bölüm Ekle",
+        "display-text": "Metin olarak göster"
     }
 }
