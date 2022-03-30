@@ -867,7 +867,7 @@
         "input-dropdown": "Input Dropdown",
         "unknown": "Unknown",
         "auto-start": "Auto Start",
-        "auto-start-info": "Automatically start the process",
+        "auto-start-info": "Automatically start the task",
         "section-management": "Section Management",
         "add-section": "Add New Section",
         "display-text": "Display as text"
