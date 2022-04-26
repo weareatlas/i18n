@@ -96,7 +96,9 @@
         "tutorial-complete-help": "<action> öğreticinizi tamamladınız, gidilecek yer!",
         "tutorial-in-progress-help": "<action> eğiticiniz devam ediyor. Görevlerinize devam edin.",
         "unlock-tutorial-help": "<after> eğitimin kilidini açmak için belirli <before> eğitimini tamamlamanız gerekiyor",
-        "play-video": "Video oynatmak"
+        "play-video": "Video oynatmak",
+        "my-processes": "Süreçlerim",
+        "my-tasks": "Görevlerim"
     },
     "login": {
         "login": "Login",
@@ -645,7 +647,8 @@
         "function-task-template": "Veri Deposu tabanlı İşlev görev şablonunu kullanın",
         "object-field": "Nesne Alanı",
         "user-task-data-store": "Veri Deposu tabanlı Kullanıcı Görevini Kullan",
-        "process-detail": "Veri Deposu tabanlı İşlem Ayrıntısını kullanın"
+        "process-detail": "Veri Deposu tabanlı İşlem Ayrıntısını kullanın",
+        "optimise-view": "Atlas Optimise görüş"
     },
     "language": {
         "english": "İngilizce",
