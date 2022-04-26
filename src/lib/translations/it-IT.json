@@ -96,7 +96,9 @@
         "tutorial-complete-help": "Hai completato il tuo tutorial <action>, strada da fare!",
         "tutorial-in-progress-help": "Il tuo tutorial <action> è in corso. Continua nei tuoi compiti.",
         "unlock-tutorial-help": "Devi completare un tutorial specifico <before> per sbloccare la formazione <after>",
-        "play-video": "Riproduci video"
+        "play-video": "Riproduci video",
+        "my-processes": "I miei processi",
+        "my-tasks": "I miei compiti"
     },
     "login": {
         "login": "Accesso",
@@ -645,7 +647,8 @@
         "function-task-template": "Use Data Store based Function task templateUtilizzare il modello di attività della funzione basato sull'archivio dati",
         "object-field": "Campo oggetto",
         "user-task-data-store": "Utilizzare l'attività utente basata sull'archivio dati",
-        "process-detail": "Utilizza i dettagli del processo basati su Data Store"
+        "process-detail": "Utilizza i dettagli del processo basati su Data Store",
+        "optimise-view": "Atlas Optimise Visualizza"
     },
     "language": {
         "english": "Inglese (English)",

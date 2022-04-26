@@ -96,7 +96,9 @@
         "tutorial-complete-help": "Ha completado su <action> tutorial, ¡Enhorabuena!",
         "tutorial-in-progress-help": "Your El tutorial de <action> está en curso. Continúe en sus tareas.",
         "unlock-tutorial-help": "Debe completar un tutorial específico <before> para desbloquear el entrenamiento <after>",
-        "play-video": "Reproduce el video"
+        "play-video": "Reproduce el video",
+        "my-processes": "mis procesos",
+        "my-tasks": "Mis tareas"
     },
     "login": {
         "login": "Iniciar sesión",
@@ -645,7 +647,8 @@
         "function-task-template": "Usar plantilla de tarea de función basada en almacén de datos",
         "object-field": "Campo de objeto",
         "user-task-data-store": "Usar tarea de usuario basada en almacén de datos",
-        "process-detail": "Usar detalle de proceso basado en almacén de datos"
+        "process-detail": "Usar detalle de proceso basado en almacén de datos",
+        "optimise-view": "Atlas Optimise vista"
     },
     "language": {
         "english": "Inglés (English)",

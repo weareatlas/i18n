@@ -96,7 +96,9 @@
         "tutorial-complete-help": "You have completed your <action> tutorial, way to go!",
         "tutorial-in-progress-help": "Your <action> tutorial is in progress. Continue it in your tasks.",
         "unlock-tutorial-help": "You need to complete specific  <before> tutorial to unlock <after> training",
-        "play-video": "Play Video"
+        "play-video": "Play Video",
+        "my-processes": "My Processes",
+        "my-tasks": "My Tasks"
     },
     "login": {
         "login": "Login",
@@ -645,7 +647,8 @@
         "function-task-template": "Use Data Store based Function task template",
         "object-field": "Object Field",
         "user-task-data-store": "Use Data Store based User Task",
-        "process-detail": "Use Data Store based Process Detail"
+        "process-detail": "Use Data Store based Process Detail",
+        "optimise-view": "Atlas Optimise view"
     },
     "language": {
         "english": "English",
