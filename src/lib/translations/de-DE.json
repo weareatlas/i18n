@@ -876,5 +876,22 @@
         "section-management": "Sektionsleitung",
         "add-section": "Neuen Abschnitt hinzufügen",
         "display-text": "Als Text anzeigen"
+    },
+    "marketplace": {
+        "no-resource": "Wir haben überall gesucht, aber... \n Wir haben nicht gefunden, wonach Sie suchen :-(",
+        "selected-filters": "Ausgewählte Filter",
+        "try": "Du kannst es versuchen",
+        "receive-an-alert": "Erhalten Sie eine Benachrichtigung, wenn Artikel mit diesen Kriterien erscheinen",
+        "broaden": "Oder versuchen Sie, Ihre Suche zu erweitern, indem Sie einige der Filter ändern",
+        "view-details": "Details anzeigen",
+        "invite-opportunity": "Gelegenheit einladen",
+        "marketplace": "Marktplatz",
+        "trending": "Im Trend",
+        "find-resources": "Finden Sie Ihre Ressourcen",
+        "resource-type": "Ressourcentyp",
+        "resource-placeholder": "Welche Ressource suchen Sie?",
+        "people": "Menschen",
+        "companies": "Unternehmen",
+        "opportunities": "Gelegenheiten"
     }
 }

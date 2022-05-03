@@ -876,5 +876,22 @@
         "section-management": "Bölüm Yönetimi",
         "add-section": "Yeni Bölüm Ekle",
         "display-text": "Metin olarak göster"
+    },
+    "marketplace": {
+        "no-resource": "Her yeri aradık ama... \n Aradığınızı bulamadık :-(",
+        "selected-filters": "Seçilen filtreler",
+        "try": "Deneyebilirsin",
+        "receive-an-alert": "Bu kriterlere sahip öğeler görünürse bir uyarı alın",
+        "broaden": "Veya filtrelerden bazılarını değiştirerek aramanızı genişletmeyi deneyin.",
+        "view-details": "Detayları göster",
+        "invite-opportunity": "fırsata davet",
+        "marketplace": "pazar yeri",
+        "trending": "Trend olan",
+        "find-resources": "Kaynaklarınızı bulun",
+        "resource-type": "Kaynak tipi",
+        "resource-placeholder": "Hangi kaynağı arıyorsunuz?",
+        "people": "İnsanlar",
+        "companies": "şirketler",
+        "opportunities": "Fırsatlar"
     }
 }
