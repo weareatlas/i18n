@@ -876,5 +876,22 @@
         "section-management": "Section Management",
         "add-section": "Add New Section",
         "display-text": "Display as text"
+    },
+    "marketplace": {
+        "no-resource": "We have searched all over but... \n we haven't found what you are looking for :-(",
+        "selected-filters": "Selected filters",
+        "try": "You can try",
+        "receive-an-alert": "Receive an alert if items appear with this criteria",
+        "broaden": "Or try broadening your search by changing some of the filters",
+        "view-details": "View Details",
+        "invite-opportunity": "Invite to opportunity",
+        "marketplace": "Marketplace",
+        "trending": "Trending",
+        "find-resources": "Find your resources",
+        "resource-type": "Resource Type",
+        "resource-placeholder": "Which resource are you looking for?",
+        "people": "People",
+        "companies": "Companies",
+        "opportunities": "Opportunities"
     }
 }
