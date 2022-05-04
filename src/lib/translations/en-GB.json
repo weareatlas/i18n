@@ -52,7 +52,9 @@
         "iri-reference": "IRI reference",
         "uri-template": "URI template",
         "json-pointer": "JSON pointer",
-        "regex": "Regex"
+        "regex": "Regex",
+        "text": "Text",
+        "dropdown": "Dropdown"
     },
     "learning-hub": {
         "banner-title": "Atlas Training",

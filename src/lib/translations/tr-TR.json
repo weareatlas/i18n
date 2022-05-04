@@ -52,7 +52,9 @@
         "iri-reference": "IRI Referansı",
         "uri-template": "URI şablonu",
         "json-pointer": "JSON İşaretçisi",
-        "regex": "Regex"
+        "regex": "Regex",
+        "text": "Metin",
+        "dropdown": "Yıkılmak"
     },
     "learning-hub": {
         "banner-title": "Atlas Eğitimi",

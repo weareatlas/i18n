@@ -52,7 +52,9 @@
         "iri-reference": "Riferimento IRI",
         "uri-template": "modello URI",
         "json-pointer": "Puntatore JSON",
-        "regex": "Regex"
+        "regex": "Regex",
+        "text": "Testo",
+        "dropdown": "Cadere in picchiata"
     },
     "learning-hub": {
         "banner-title": "Formazione Atlas",
