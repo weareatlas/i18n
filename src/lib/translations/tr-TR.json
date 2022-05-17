@@ -579,7 +579,9 @@
         "custom": "özel",
         "refresh-diagram": "Diyagramı Yenile",
         "favourites": "Favoriler",
-        "add-favourite": "Favori Ekle"
+        "add-favourite": "Favori Ekle",
+        "save-continue": "Kaydet ve Daha Sonra Devam Et",
+        "save-continue-help": "İlerlemenizi kaydedin ve verileri buluta yükleyin,\ngörevinizi tamamlamak için daha sonra tekrar gelin"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",

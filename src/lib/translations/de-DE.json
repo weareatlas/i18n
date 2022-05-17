@@ -579,7 +579,9 @@
         "custom": "Benutzerdefiniert",
         "refresh-diagram": "Diagramm aktualisieren",
         "favourites": "Favoriten",
-        "add-favourite": "Favorit hinzufügen"
+        "add-favourite": "Favorit hinzufügen",
+        "save-continue": "Speichern und später fortfahren",
+        "save-continue-help": "Speichern Sie Ihren Fortschritt und laden Sie Daten in die Cloud hoch,\nkommen Sie später wieder, um Ihre Aufgabe abzuschließen"
     },
     "action": {
         "priority-success": "Prioritaet erfolgreich geaendert.",

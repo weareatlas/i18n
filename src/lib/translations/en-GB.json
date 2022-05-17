@@ -579,7 +579,10 @@
         "custom": "custom",
         "refresh-diagram": "Refresh Diagram",
         "favourites": "Favourites",
-        "add-favourite": "Add Favourite"
+        "add-favourite": "Add Favourite",
+        "save-continue": "Save and Continue Later",
+        "save-continue-help": "Save your progress and upload data to the cloud,\ncome back later to complete your task"
+
     },
     "action": {
         "priority-success": "Priority changed successfully.",
