@@ -581,7 +581,8 @@
         "favourites": "Favoriler",
         "add-favourite": "Favori Ekle",
         "save-continue": "Kaydet ve Daha Sonra Devam Et",
-        "save-continue-help": "İlerlemenizi kaydedin ve verileri buluta yükleyin,\ngörevinizi tamamlamak için daha sonra tekrar gelin"
+        "save-continue-help": "İlerlemenizi kaydedin ve verileri buluta yükleyin,\ngörevinizi tamamlamak için daha sonra tekrar gelin",
+        "entry-select": "Giriş - Seç"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",
