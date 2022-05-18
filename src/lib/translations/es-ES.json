@@ -581,7 +581,8 @@
         "favourites": "Favoritos",
         "add-favourite": "Agregar favorito",
         "save-continue": "Guardar y continuar más tarde",
-        "save-continue-help": "Guarda tu progreso y sube datos a la nube,\nvuelve más tarde para completar tu tarea"
+        "save-continue-help": "Guarda tu progreso y sube datos a la nube,\nvuelve más tarde para completar tu tarea",
+        "entry-select": "Entrada - Seleccionar"
     },
     "action": {
         "priority-success": "Prioridad cambiada con éxito",
