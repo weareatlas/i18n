@@ -419,7 +419,7 @@
         "empty-section-description": "Verileri yakalamaya başlamak için bu göreve bir alan eklenmesi gerekir – süreci yeniden eşleyin veya ekibinizdeki ilgili kişilerden bunu yapmasını isteyin.",
         "notify-on-ready": "Hazır'da e-posta gönder",
         "notify-on-ready-info": "Görev talep etmeye hazır olduğunda süreç sahibine ve seçilen rollerdeki tüm kullanıcılara bir e-posta gönderir.",
-        "blank-gateway": "Boş ağ geçidi ifadeleri içeren bir iş akışını yayınlayamazsınız",
+        "blank-gateway": "Boş ağ geçidi ifadeleri veya bir alt süreç içeren bir iş akışını yayınlayamazsınız",
         "details-tab": "Detaylar",
         "store-tab": "Bilgi deposu",
         "permissions-tab": "Izinler"

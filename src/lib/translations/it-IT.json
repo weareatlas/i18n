@@ -419,7 +419,7 @@
         "empty-section-description": "È necessario aggiungere un campo a questa attività per avviare l'acquisizione dei dati: rimappare il processo o chiedere alle persone pertinenti del tuo team di farlo.",
         "notify-on-ready": "Invia e-mail su Pronto",
         "notify-on-ready-info": "Invia un'e-mail al proprietario del processo e a tutti gli utenti nei ruoli selezionati quando l'attività è pronta per la richiesta.",
-        "blank-gateway": "Non puoi pubblicare un flusso di lavoro che contiene espressioni gateway vuote",
+        "blank-gateway": "Non è possibile pubblicare un flusso di lavoro che contiene espressioni gateway vuote o un processo secondario",
         "details-tab": "Particolari",
         "store-tab": "Archivio dati",
         "permissions-tab": "Permessi"

@@ -419,7 +419,7 @@
         "empty-section-description": "A field needs to be added to this task to start capturing data – remap the process or ask the relevant people in your team to do it.",
         "notify-on-ready": "Send email on Ready",
         "notify-on-ready-info": "Sends the process owner and all users in the selected roles an email when the task is ready to claim.",
-        "blank-gateway": "You cannot publish a workflow which contains empty gateway expressions",
+        "blank-gateway": "You cannot publish a workflow which contains empty gateway expressions or a subprocess",
         "details-tab": "Details",
         "store-tab": "Data Store",
         "permissions-tab": "Permissions"
