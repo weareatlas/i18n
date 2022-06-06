@@ -880,7 +880,11 @@
         "auto-start-info": "Avvia automaticamente l'attività",
         "section-management": "Gestione della sezione",
         "add-section": "Aggiungi nuova sezione",
-        "display-text": "Visualizza come testo"
+        "display-text": "Visualizza come testo",
+        "invite-external-user": "Assegna attività per un utente Data Store",
+        "invite-external-role": "Assegna attività per un ruolo Data Store",
+        "invite-external-user-tooltip": "Assegna attività per un utente Data Store",
+        "invite-external-role-tooltip": "Assegna attività per un ruolo Data Store"
     },
     "marketplace": {
         "no-resource": "Abbiamo cercato dappertutto ma... \n non abbiamo trovato quello che stai cercando :-(",

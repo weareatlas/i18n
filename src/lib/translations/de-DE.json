@@ -880,7 +880,11 @@
         "auto-start-info": "Aufgabe automatisch starten",
         "section-management": "Sektionsleitung",
         "add-section": "Neuen Abschnitt hinzufügen",
-        "display-text": "Als Text anzeigen"
+        "display-text": "Als Text anzeigen",
+        "invite-external-user": "Weisen Sie einem Data Store-Benutzer eine Aufgabe zu",
+        "invite-external-role": "Aufgabe für eine Data Store-Rolle zuweisen",
+        "invite-external-user-tooltip": "Weisen Sie einem Data Store-Benutzer eine Aufgabe zu",
+        "invite-external-role-tooltip": "Aufgabe für eine Data Store-Rolle zuweisen"
     },
     "marketplace": {
         "no-resource": "Wir haben überall gesucht, aber... \n Wir haben nicht gefunden, wonach Sie suchen :-(",
