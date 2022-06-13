@@ -583,7 +583,6 @@
         "save-continue": "Save and Continue Later",
         "save-continue-help": "Save your progress and upload data to the cloud,\ncome back later to complete your task",
         "entry-select": "Entry - Select"
-
     },
     "action": {
         "priority-success": "Priority changed successfully.",
@@ -903,5 +902,16 @@
         "people": "People",
         "companies": "Companies",
         "opportunities": "Opportunities"
+    },
+    "resource-management": {
+        "open-profile": "Open Profile",
+        "view-details": "View Details",
+        "main-industry": "Main Industry",
+        "filter": "Filter",
+        "search-results": "Search Results for",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "workflow-management": "Workflow Management",
+        "resource-management": "Resource Management"
     }
 }

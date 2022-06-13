@@ -902,5 +902,16 @@
         "people": "Menschen",
         "companies": "Unternehmen",
         "opportunities": "Gelegenheiten"
+    },
+    "resource-management": {
+        "open-profile": "Profil öffnen",
+        "view-details": "Details anzeigen",
+        "main-industry": "Hauptindustrie",
+        "filter": "Filter",
+        "search-results": "Suchergebnisse für",
+        "ascending": "Aufsteigend",
+        "descending": "Absteigend",
+        "workflow-management": "Workflow-Management",
+        "resource-management": "Resourcenmanagement"
     }
 }

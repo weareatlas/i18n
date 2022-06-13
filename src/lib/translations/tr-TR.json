@@ -902,5 +902,16 @@
         "people": "İnsanlar",
         "companies": "şirketler",
         "opportunities": "Fırsatlar"
+    },
+    "resource-management": {
+        "open-profile": "Profili Aç",
+        "view-details": "Detayları göster",
+        "main-industry": "Ana sanayi",
+        "filter": "filtre",
+        "search-results": "İçin arama sonuçları",
+        "ascending": "Artan",
+        "descending": "Azalan",
+        "workflow-management": "İş akışı yönetimi",
+        "resource-management": "Kaynak yönetimi"
     }
 }
