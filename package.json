@@ -1,9 +1,9 @@
 {
     "name": "@weareatlas/i18n",
-    "version": "0.0.61",
+    "version": "0.0.62",
     "description": "A Node.js module that returns atlas i18n translations",
-    "homepage": "https://weareatlas.co",
-    "author": "Gary Stubbings (https://github.com/garystubbings)",
+    "homepage": "https://weareatlas.com",
+    "author": "Atlas - ATS Global (https://weareatlas.com)",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "repository": "https://github.com/weareatlas/i18n.git",
