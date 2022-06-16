@@ -653,7 +653,8 @@
         "object-field": "Campo oggetto",
         "user-task-data-store": "Utilizzare l'attività utente basata sull'archivio dati",
         "process-detail": "Utilizza i dettagli del processo basati su Data Store",
-        "optimise-view": "Atlas Optimise Visualizza"
+        "optimise-view": "Atlas Optimise Visualizza",
+        "expression-builder": "Usa il Generatore di espressioni basato su Data Store"
     },
     "language": {
         "english": "Inglese (English)",
