@@ -883,10 +883,10 @@
         "section-management": "Section Management",
         "add-section": "Add New Section",
         "display-text": "Display as text",
-        "invite-external-user": "Assign task for a Data Store user",
-        "invite-external-role": "Assign task for a Data Store role",
-        "invite-external-user-tooltip": "Assign task for a Data Store user",
-        "invite-external-role-tooltip": "Assign task for a Data Store role"
+        "invite-external-user": "Assign task to a Data Store user",
+        "invite-external-role": "Assign task to a Data Store role",
+        "invite-external-user-tooltip": "Assign task to a Data Store user",
+        "invite-external-role-tooltip": "Assign task to a Data Store role"
     },
     "marketplace": {
         "no-resource": "We have searched all over but... \n we haven't found what you are looking for :-(",

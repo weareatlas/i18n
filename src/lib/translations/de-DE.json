@@ -883,10 +883,10 @@
         "section-management": "Sektionsleitung",
         "add-section": "Neuen Abschnitt hinzufügen",
         "display-text": "Als Text anzeigen",
-        "invite-external-user": "Weisen Sie einem Data Store-Benutzer eine Aufgabe zu",
-        "invite-external-role": "Aufgabe für eine Data Store-Rolle zuweisen",
-        "invite-external-user-tooltip": "Weisen Sie einem Data Store-Benutzer eine Aufgabe zu",
-        "invite-external-role-tooltip": "Aufgabe für eine Data Store-Rolle zuweisen"
+        "invite-external-user": "Aufgabe einem Data Store-Benutzer zuweisen",
+        "invite-external-role": "Aufgabe einer Datenspeicherrolle zuweisen",
+        "invite-external-user-tooltip": "Aufgabe einem Data Store-Benutzer zuweisen",
+        "invite-external-role-tooltip": "Aufgabe einer Datenspeicherrolle zuweisen"
     },
     "marketplace": {
         "no-resource": "Wir haben überall gesucht, aber... \n Wir haben nicht gefunden, wonach Sie suchen :-(",

@@ -883,10 +883,10 @@
         "section-management": "Bölüm Yönetimi",
         "add-section": "Yeni Bölüm Ekle",
         "display-text": "Metin olarak göster",
-        "invite-external-user": "Veri Deposu kullanıcısı için görev atama",
-        "invite-external-role": "Veri Deposu rolü için görev atama",
-        "invite-external-user-tooltip": "Veri Deposu kullanıcısı için görev atama",
-        "invite-external-role-tooltip": "Veri Deposu rolü için görev atama"
+        "invite-external-user": "Veri Deposu kullanıcısına görev atama",
+        "invite-external-role": "Veri Deposu rolüne görev atama",
+        "invite-external-user-tooltip": "Veri Deposu kullanıcısına görev atama",
+        "invite-external-role-tooltip": "Veri Deposu rolüne görev atama"
     },
     "marketplace": {
         "no-resource": "Her yeri aradık ama... \n Aradığınızı bulamadık :-(",
