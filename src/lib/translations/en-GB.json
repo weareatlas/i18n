@@ -653,7 +653,8 @@
         "object-field": "Object Field",
         "user-task-data-store": "Use Data Store based User Task",
         "process-detail": "Use Data Store based Process Detail",
-        "optimise-view": "Atlas Optimise view"
+        "optimise-view": "Atlas Optimise view",
+        "expression-builder": "Use Data Store based Expression Builder"
     },
     "language": {
         "english": "English",

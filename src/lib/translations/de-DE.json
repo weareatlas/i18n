@@ -653,7 +653,8 @@
         "object-field": "Objektfeld",
         "user-task-data-store": "Verwenden Sie eine datenspeicherbasierte Benutzeraufgabe",
         "process-detail": "Verwenden Sie datenspeicherbasierte Prozessdetails",
-        "optimise-view": "Atlas Optimise Aussicht"
+        "optimise-view": "Atlas Optimise Aussicht",
+        "expression-builder": "Verwenden Sie den Data Store-basierten Expression Builder"
     },
     "language": {
         "english": "Englisch (English)",

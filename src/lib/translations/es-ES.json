@@ -653,7 +653,8 @@
         "object-field": "Campo de objeto",
         "user-task-data-store": "Usar tarea de usuario basada en almacén de datos",
         "process-detail": "Usar detalle de proceso basado en almacén de datos",
-        "optimise-view": "Atlas Optimise vista"
+        "optimise-view": "Atlas Optimise vista",
+        "expression-builder": "Utilice el Generador de expresiones basado en el almacén de datos"
     },
     "language": {
         "english": "Inglés (English)",

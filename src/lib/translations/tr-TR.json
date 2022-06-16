@@ -653,7 +653,8 @@
         "object-field": "Nesne Alanı",
         "user-task-data-store": "Veri Deposu tabanlı Kullanıcı Görevini Kullan",
         "process-detail": "Veri Deposu tabanlı İşlem Ayrıntısını kullanın",
-        "optimise-view": "Atlas Optimise görüş"
+        "optimise-view": "Atlas Optimise görüş",
+        "expression-builder": "Veri Deposu tabanlı İfade Oluşturucu'yu kullanın"
     },
     "language": {
         "english": "İngilizce",
