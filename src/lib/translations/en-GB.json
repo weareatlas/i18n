@@ -818,6 +818,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "store-key-in-use":"Data Store Key is already being used",
         "select-mode": "Select field mode",
         "select-format": "Select field format",
         "toggle": "Toggle",

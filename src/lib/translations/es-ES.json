@@ -818,6 +818,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "store-key-in-use":"La clave del almacén de datos ya se está utilizando",
         "select-mode": "Seleccionar modo de campo",
         "select-format": "Seleccionar formato de campo",
         "toggle": "Palanca",

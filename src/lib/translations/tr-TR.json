@@ -818,6 +818,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "store-key-in-use":"Veri Deposu Anahtarı zaten kullanılıyor",
         "select-mode": "Alan modunu seçin",
         "select-format": "Alan biçimini seçin",
         "toggle": "aç/kapat",

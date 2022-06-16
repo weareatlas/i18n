@@ -818,6 +818,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "store-key-in-use":"La chiave dell'archivio dati è già in uso",
         "select-mode": "Seleziona la modalità campo",
         "select-format": "Seleziona il formato del campo",
         "toggle": "Alternare",
