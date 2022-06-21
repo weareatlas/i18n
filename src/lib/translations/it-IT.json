@@ -885,8 +885,8 @@
         "display-text": "Visualizza come testo",
         "invite-external-user": "Assegna attività a un utente di Data Store",
         "invite-external-role": "Assegna attività a un ruolo Data Store",
-        "invite-external-user-tooltip": "Assegna attività a un utente di Data Store",
-        "invite-external-role-tooltip": "Assegna attività a un ruolo Data Store"
+        "invite-external-user-tooltip": "Assegna attività a un utente Data Store, è possibile selezionare solo elementi di tipo stringa e formato email.",
+        "invite-external-role-tooltip": "Assegna attività a un ruolo Data Store, è possibile selezionare solo elementi di tipo stringa e testo in formato."
     },
     "marketplace": {
         "no-resource": "Abbiamo cercato dappertutto ma... \n non abbiamo trovato quello che stai cercando :-(",

@@ -885,8 +885,8 @@
         "display-text": "Als Text anzeigen",
         "invite-external-user": "Aufgabe einem Data Store-Benutzer zuweisen",
         "invite-external-role": "Aufgabe einer Datenspeicherrolle zuweisen",
-        "invite-external-user-tooltip": "Aufgabe einem Data Store-Benutzer zuweisen",
-        "invite-external-role-tooltip": "Aufgabe einer Datenspeicherrolle zuweisen"
+        "invite-external-user-tooltip": "Weisen Sie einem Data Store-Benutzer eine Aufgabe zu, es können nur Elemente vom Typ Zeichenfolge und E-Mail-Format ausgewählt werden.",
+        "invite-external-role-tooltip": "Aufgabe einer Datenspeicherrolle zuweisen, es können nur Elemente vom Typ Zeichenfolge und Formattext ausgewählt werden."
     },
     "marketplace": {
         "no-resource": "Wir haben überall gesucht, aber... \n Wir haben nicht gefunden, wonach Sie suchen :-(",

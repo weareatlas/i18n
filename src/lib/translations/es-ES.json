@@ -885,8 +885,8 @@
         "display-text": "Mostrar como texto",
         "invite-external-user": "Asignar tarea a un usuario del almacén de datos",
         "invite-external-role": "Asignar tarea a un rol de almacén de datos",
-        "invite-external-user-tooltip": "Asignar tarea a un usuario del almacén de datos",
-        "invite-external-role-tooltip": "Asignar tarea a un rol de almacén de datos"
+        "invite-external-user-tooltip": "Asigne una tarea a un usuario del Almacén de datos, solo se pueden seleccionar elementos de tipo cadena y formato de correo electrónico.",
+        "invite-external-role-tooltip": "Asigne una tarea a un rol de Almacén de datos, solo se pueden seleccionar elementos de tipo cadena y formato de texto."
     },
     "marketplace": {
         "no-resource": "Hemos buscado por todos lados pero... \n no hemos encontrado lo que buscas :-(",

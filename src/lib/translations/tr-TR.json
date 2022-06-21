@@ -885,8 +885,8 @@
         "display-text": "Metin olarak göster",
         "invite-external-user": "Veri Deposu kullanıcısına görev atama",
         "invite-external-role": "Veri Deposu rolüne görev atama",
-        "invite-external-user-tooltip": "Veri Deposu kullanıcısına görev atama",
-        "invite-external-role-tooltip": "Veri Deposu rolüne görev atama"
+        "invite-external-user-tooltip": "Bir Veri Deposu kullanıcısına görev atayın, yalnızca dize ve biçim e-posta türündeki öğeler seçilebilir.",
+        "invite-external-role-tooltip": "Bir Veri Deposu rolüne görev atayın, yalnızca tür dizesi ve biçim metni öğeleri seçilebilir."
     },
     "marketplace": {
         "no-resource": "Her yeri aradık ama... \n Aradığınızı bulamadık :-(",
