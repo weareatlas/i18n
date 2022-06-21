@@ -885,8 +885,8 @@
         "display-text": "Display as text",
         "invite-external-user": "Assign task to a Data Store user",
         "invite-external-role": "Assign task to a Data Store role",
-        "invite-external-user-tooltip": "Assign task to a Data Store user",
-        "invite-external-role-tooltip": "Assign task to a Data Store role"
+        "invite-external-user-tooltip": "Assign task to a Data Store user,only items of type string and format email can be selected.",
+        "invite-external-role-tooltip": "Assign task to a Data Store role,only items of type string and format text can be selected."
     },
     "marketplace": {
         "no-resource": "We have searched all over but... \n we haven't found what you are looking for :-(",
