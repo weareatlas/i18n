@@ -819,6 +819,8 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "default-path": "Varsayılan yol",
+        "default-path-expression": "İfade varsayılan yola ayarlanamıyor",
         "store-key-in-use":"Veri Deposu Anahtarı zaten kullanılıyor",
         "select-mode": "Alan modunu seçin",
         "select-format": "Alan biçimini seçin",

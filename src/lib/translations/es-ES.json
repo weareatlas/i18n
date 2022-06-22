@@ -819,6 +819,8 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "default-path": "Ruta predeterminada",
+        "default-path-expression": "La expresión no se puede establecer en la ruta predeterminada",
         "store-key-in-use":"La clave del almacén de datos ya se está utilizando",
         "select-mode": "Seleccionar modo de campo",
         "select-format": "Seleccionar formato de campo",
