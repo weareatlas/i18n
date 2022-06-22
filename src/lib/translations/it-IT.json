@@ -819,6 +819,8 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "default-path": "Percorso predefinito",
+        "default-path-expression": "Non è possibile impostare l'espressione sul percorso predefinito",
         "store-key-in-use":"La chiave dell'archivio dati è già in uso",
         "select-mode": "Seleziona la modalità campo",
         "select-format": "Seleziona il formato del campo",

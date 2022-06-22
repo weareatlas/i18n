@@ -819,6 +819,8 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "default-path": "Standardpfad",
+        "default-path-expression": "Ausdruck kann nicht auf Standardpfad gesetzt werden",
         "store-key-in-use":"Data Store Key wird bereits verwendet",
         "select-mode": "Feldmodus auswählen",
         "select-format": "Feldformat auswählen",
