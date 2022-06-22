@@ -422,7 +422,8 @@
         "blank-gateway": "Sie können keinen Workflow veröffentlichen, der leere Gateway-Ausdrücke oder einen Unterprozess enthält",
         "details-tab": "Einzelheiten",
         "store-tab": "Datenspeicher",
-        "permissions-tab": "Berechtigungen"
+        "permissions-tab": "Berechtigungen",
+        "no-workflow": "Keine Arbeitsabläufe gefunden"
     },
     "links": {
         "contact-us": "Kontaktiere uns",

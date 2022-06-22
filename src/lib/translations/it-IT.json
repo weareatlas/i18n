@@ -422,7 +422,8 @@
         "blank-gateway": "Non è possibile pubblicare un flusso di lavoro che contiene espressioni gateway vuote o un processo secondario",
         "details-tab": "Particolari",
         "store-tab": "Archivio dati",
-        "permissions-tab": "Permessi"
+        "permissions-tab": "Permessi",
+        "no-workflow": "Nessun flusso di lavoro trovato"
     },
     "links": {
         "contact-us": "Contattaci",
