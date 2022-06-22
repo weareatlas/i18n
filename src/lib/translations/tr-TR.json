@@ -422,7 +422,8 @@
         "blank-gateway": "Boş ağ geçidi ifadeleri veya bir alt süreç içeren bir iş akışını yayınlayamazsınız",
         "details-tab": "Detaylar",
         "store-tab": "Bilgi deposu",
-        "permissions-tab": "Izinler"
+        "permissions-tab": "Izinler",
+        "no-workflow": "İş Akışı Bulunamadı"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",

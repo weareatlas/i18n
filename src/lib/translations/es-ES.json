@@ -422,7 +422,8 @@
         "blank-gateway": "No puede publicar un flujo de trabajo que contenga expresiones de puerta de enlace vacías o un subproceso",
         "details-tab": "Detalles",
         "store-tab": "Almacén de datos",
-        "permissions-tab": "Permisos"
+        "permissions-tab": "Permisos",
+        "no-workflow": "No se encontraron flujos de trabajo"
     },
     "links": {
         "contact-us": "Contáctenos",

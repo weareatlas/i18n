@@ -422,7 +422,8 @@
         "blank-gateway": "You cannot publish a workflow which contains empty gateway expressions or a subprocess",
         "details-tab": "Details",
         "store-tab": "Data Store",
-        "permissions-tab": "Permissions"
+        "permissions-tab": "Permissions",
+        "no-workflow": "No Workflows Found"
     },
     "links": {
         "contact-us": "Contact us",
