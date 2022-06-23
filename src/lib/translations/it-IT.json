@@ -34,7 +34,9 @@
         "no-items": "Impossibile trovare elementi dell'archivio dati",
         "matching-key": "Non puoi avere due campi con lo stesso nome",
         "item-format": "Formato articolo",
-        "format-validation": "Il testo non segue il formato richiesto"
+        "format-validation": "Il testo non segue il formato richiesto",
+        "reserved-word": "Non puoi usare questa parola nel titolo",
+        "update": "Aggiornare"
     },
     "string-formats": {
         "date-time": "Appuntamento",
