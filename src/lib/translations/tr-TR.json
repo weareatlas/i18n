@@ -34,7 +34,9 @@
         "no-items": "Impossibile trovare elementi dell'archivio dati",
         "matching-key": "Non puoi avere due campi con lo stesso nome",
         "item-format": "Öğe Biçimi",
-        "format-validation": "Metin gerekli biçimi izlemiyor"
+        "format-validation": "Metin gerekli biçimi izlemiyor",
+        "reserved-word": "Bu kelimeyi başlıkta kullanamazsınız",
+        "update": "Güncelleme"
     },
     "string-formats": {
         "date-time": "Tarih Saat",

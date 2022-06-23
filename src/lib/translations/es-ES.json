@@ -34,7 +34,9 @@
         "no-items": "No se pueden encontrar elementos del almacén de datos",
         "matching-key": "No puede tener dos campos con el mismo nombre",
         "item-format": "Formato de artículo",
-        "format-validation": "El texto no sigue el formato requerido"
+        "format-validation": "El texto no sigue el formato requerido",
+        "reserved-word": "No puedes usar esta palabra en el título",
+        "update": "Actualizar"
     },
     "string-formats": {
         "date-time": "Fecha y hora",
