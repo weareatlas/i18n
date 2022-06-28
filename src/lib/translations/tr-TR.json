@@ -1,5 +1,6 @@
 {
     "data-store": {
+        "numbers-only": "Başlıkta sadece rakam kullanamazsınız",
         "title": "Isim",
         "header": "Bilgi deposu",
         "subtitle": "Veri Deposundaki işleminiz için tüm verileri yönetin. Süreçteki herhangi bir öğeden verileri geri çağırabilirsiniz - bu, verilerinizi tutarlı ve ihtiyaçlarınız doğrultusunda tutmanıza olanak tanır",

@@ -1,5 +1,6 @@
 {
     "data-store": {
+        "numbers-only": "Non puoi usare solo numeri nel titolo",
         "title": "Titolo",
         "header": "Archivio dati",
         "subtitle": "Gestisci tutti i dati per il tuo processo nel Data Store. Puoi richiamare i dati da qualsiasi elemento del processo: questo ti consente di mantenere i tuoi dati coerenti e in linea con le tue esigenze",
