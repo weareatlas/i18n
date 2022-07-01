@@ -1,5 +1,6 @@
 {
     "data-store": {
+        "delete": "Element kann nicht gelöscht werden",
         "numbers-only": "Sie können im Titel nicht nur Zahlen verwenden",
         "title": "Titel",
         "header": "Datenspeicher",
