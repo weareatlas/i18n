@@ -1,5 +1,6 @@
 {
     "data-store": {
+        "delete": "L'elemento non può essere eliminato",
         "numbers-only": "Non puoi usare solo numeri nel titolo",
         "title": "Titolo",
         "header": "Archivio dati",

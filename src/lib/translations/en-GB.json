@@ -1,5 +1,6 @@
 {
     "data-store": {
+        "delete": "Item cannot be deleted",
         "numbers-only": "You cannot use only numbers in the title",
         "title": "Title",
         "header": "Data Store",
@@ -37,7 +38,8 @@
         "item-format": "Item Format",
         "format-validation": "Text does not follow the required format",
         "reserved-word": "You cannot use this word in the title",
-        "update": "Update"
+        "update": "Update",
+        "delete": "Item cannot be deleted,"
     },
     "string-formats": {
         "date-time": "Date Time",

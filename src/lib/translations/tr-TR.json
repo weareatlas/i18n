@@ -1,5 +1,6 @@
 {
     "data-store": {
+        "delete": "Öğe silinemez",
         "numbers-only": "Başlıkta sadece rakam kullanamazsınız",
         "title": "Isim",
         "header": "Bilgi deposu",
