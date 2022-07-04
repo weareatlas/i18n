@@ -921,6 +921,11 @@
         "ascending": "Ascendente",
         "descending": "Discendente",
         "workflow-management": "Gestione del flusso di lavoro",
-        "resource-management": "Gestione delle risorse"
+        "resource-management": "Gestione delle risorse",
+        "company-details": "Dettagli della Compagnia",
+        "profile-details": "Dettagli del profilo",
+        "headquarters-country": "Sede Legale Paese",
+        "headquarters-city": "Sede Ufficio Città",
+        "city-location": "Posizione della città"
     }
 }

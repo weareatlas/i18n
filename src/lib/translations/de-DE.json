@@ -921,6 +921,11 @@
         "ascending": "Aufsteigend",
         "descending": "Absteigend",
         "workflow-management": "Workflow-Management",
-        "resource-management": "Resourcenmanagement"
+        "resource-management": "Resourcenmanagement",
+        "company-details": "Firmendetails",
+        "profile-details": "Profildetails",
+        "headquarters-country": "Land des Hauptsitzes",
+        "headquarters-city": "Hauptsitz Bürostadt",
+        "city-location": "Ort der Stadt"
     }
 }
