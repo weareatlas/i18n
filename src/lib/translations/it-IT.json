@@ -926,6 +926,8 @@
         "profile-details": "Dettagli del profilo",
         "headquarters-country": "Sede Legale Paese",
         "headquarters-city": "Sede Ufficio Città",
-        "city-location": "Posizione della città"
+        "city-location": "Posizione della città",
+        "key-industries": "Industrie chiave",
+        "featured-skills":  "Abilità in primo piano"
     }
 }
