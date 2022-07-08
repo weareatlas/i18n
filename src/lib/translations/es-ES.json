@@ -926,6 +926,8 @@
         "profile-details": "detalles del perfil",
         "headquarters-country": "Sede Oficina País",
         "headquarters-city": "Ciudad de la oficina central",
-        "city-location": "Ubicación de la ciudad"
+        "city-location": "Ubicación de la ciudad",
+        "key-industries": "Industrie chiave",
+        "featured-skills":  "Habilidades destacadas"
     }
 }

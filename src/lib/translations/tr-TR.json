@@ -926,6 +926,8 @@
         "profile-details": "profil detayları",
         "headquarters-country": "Merkez Ofis Ülke",
         "headquarters-city": "Merkez Ofis Şehir",
-        "city-location": "Şehir Konumu"
+        "city-location": "Şehir Konumu",
+        "key-industries": "Anahtar Endüstriler",
+        "featured-skills":  "Öne Çıkan Beceriler"
     }
 }

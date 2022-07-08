@@ -926,6 +926,8 @@
         "profile-details": "Profildetails",
         "headquarters-country": "Land des Hauptsitzes",
         "headquarters-city": "Hauptsitz Bürostadt",
-        "city-location": "Ort der Stadt"
+        "city-location": "Ort der Stadt",
+        "key-industries": "Schlüsselindustrien",
+        "featured-skills":  "Ausgewählte Fähigkeiten"
     }
 }

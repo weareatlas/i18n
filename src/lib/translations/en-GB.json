@@ -926,6 +926,8 @@
         "profile-details": "Profile Details",
         "headquarters-country": "Headquarter Office Country",
         "headquarters-city": "Headquarter Office City",
-        "city-location": "City Location"
+        "city-location": "City Location",
+        "key-industries": "Industrias clave",
+        "featured-skills":  "Featured Skills"
     }
 }
