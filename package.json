@@ -1,6 +1,6 @@
 {
     "name": "@weareatlas/i18n",
-    "version": "0.0.72",
+    "version": "0.0.73",
     "description": "A Node.js module that returns atlas i18n translations",
     "homepage": "https://weareatlas.com",
     "author": "Atlas - ATS Global (https://weareatlas.com)",
