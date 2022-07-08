@@ -659,7 +659,8 @@
         "user-task-data-store": "Verwenden Sie eine datenspeicherbasierte Benutzeraufgabe",
         "process-detail": "Verwenden Sie datenspeicherbasierte Prozessdetails",
         "optimise-view": "Atlas Optimise Aussicht",
-        "expression-builder": "Verwenden Sie den Data Store-basierten Expression Builder"
+        "expression-builder": "Verwenden Sie den Data Store-basierten Expression Builder",
+        "management": "Management"
     },
     "language": {
         "english": "Englisch (English)",
