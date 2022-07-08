@@ -659,7 +659,8 @@
         "user-task-data-store": "Usar tarea de usuario basada en almacén de datos",
         "process-detail": "Usar detalle de proceso basado en almacén de datos",
         "optimise-view": "Atlas Optimise vista",
-        "expression-builder": "Utilice el Generador de expresiones basado en el almacén de datos"
+        "expression-builder": "Utilice el Generador de expresiones basado en el almacén de datos",
+        "management": "administración"
     },
     "language": {
         "english": "Inglés (English)",

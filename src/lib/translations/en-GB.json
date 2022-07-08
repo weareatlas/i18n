@@ -659,7 +659,8 @@
         "user-task-data-store": "Use Data Store based User Task",
         "process-detail": "Use Data Store based Process Detail",
         "optimise-view": "Atlas Optimise view",
-        "expression-builder": "Use Data Store based Expression Builder"
+        "expression-builder": "Use Data Store based Expression Builder",
+        "management": "Management"
     },
     "language": {
         "english": "English",
@@ -927,7 +928,7 @@
         "headquarters-country": "Headquarter Office Country",
         "headquarters-city": "Headquarter Office City",
         "city-location": "City Location",
-        "key-industries": "Industrias clave",
+        "key-industries": "Key Industries",
         "featured-skills":  "Featured Skills"
     }
 }
