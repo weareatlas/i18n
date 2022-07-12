@@ -22,6 +22,8 @@
         "recall-data": "Richiama dati",
         "empty-title": "Benvenuto nel Data Store",
         "empty-description": "Qui vedrai tutti i tuoi elementi di dati salvati. \n\n Inizia subito a popolare il tuo Processo.",
+        "empty-object-title": "Aggiungi proprietà all'oggetto",
+        "empty-object-description": "Qui vedrai tutti i tuoi elementi di dati salvati.",
         "empty-button": "Aggiungi nuovo elemento dati",
         "management": "Gestione degli elementi di dati",
         "add-new-item": "Aggiungi nuovo elemento dati",
