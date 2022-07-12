@@ -22,6 +22,8 @@
         "recall-data": "Recall Data",
         "empty-title": "Welcome to the Data Store",
         "empty-description": "Here you will see all your Data Items saved. \n\n Get started now to populate your Process.",
+        "empty-object-title": "Add properties to object",
+        "empty-object-description": "Here you will see all your Data Items saved.",
         "empty-button": "Add New Data Item",
         "management": "Data Items Management",
         "add-new-item": "Add New Data Item",

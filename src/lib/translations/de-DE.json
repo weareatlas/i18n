@@ -22,6 +22,8 @@
         "recall-data": "Daten zurückrufen",
         "empty-title": "Willkommen im Datenspeicher",
         "empty-description": "Hier sehen Sie alle Ihre gespeicherten Datenelemente. \n\n Beginnen Sie jetzt damit, Ihren Prozess zu füllen.",
+        "empty-object-title": "Fügen Sie dem Objekt Eigenschaften hinzu",
+        "empty-object-description": "Hier sehen Sie alle Ihre gespeicherten Datenelemente.",
         "empty-button": "Neues Datenelement hinzufügen",
         "management": "Verwaltung von Datenelementen",
         "add-new-item": "Neues Datenelement hinzufügen",
