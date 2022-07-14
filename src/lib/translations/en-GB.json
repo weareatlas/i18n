@@ -880,6 +880,8 @@
         "import-bpmn": "Import BPMN Process",
         "new-tag": "Add New Tag",
         "input-text": "Input Text",
+        "hyperlink-display": "Hyperlink Display",
+        "file-upload-remote": "External File Upload",
         "external-call": "External API Call",
         "file-upload": "File Upload",
         "input-date": "Input Date Time",
