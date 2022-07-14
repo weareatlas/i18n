@@ -882,6 +882,8 @@
         "import-bpmn": "BPMN İşlemini İçe Aktarma",
         "new-tag": "Yeni Etiket Ekle",
         "input-text": "Giriş metni",
+        "hyperlink-display": "Köprü Ekranı",
+        "file-upload-remote": "Harici Dosya Yükleme",
         "external-call": "Harici API Çağrısı",
         "file-upload": "Dosya yükleme",
         "input-date": "Giriş Tarih Saat",

@@ -882,6 +882,8 @@
         "import-bpmn": "BPMN-Prozess importieren",
         "new-tag": "Neues Tag hinzufügen",
         "input-text": "Eingabetext",
+        "hyperlink-display": "Hyperlink Anzeige",
+        "file-upload-remote": "Externer Datei-Upload",
         "external-call": "Externer API-Aufruf",
         "file-upload": "Datei-Upload",
         "input-date": "Datum Uhrzeit eingeben",
