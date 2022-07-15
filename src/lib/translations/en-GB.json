@@ -30,7 +30,7 @@
         "included": "Included on this task",
         "write": "Write",
         "preview": "Preview",
-        "data-native-type": "Data Native Type",
+        "data-native-type": "Data Type",
         "string": "String",
         "number": "Number",
         "boolean": "Boolean",
