@@ -1,5 +1,7 @@
 {
     "data-store": {
+        "configure-items": "İfadeyi kullanmak için Veri Deposu öğelerini yapılandırın",
+        "expression-parsing-error": "Veri deposu ifadesi ayrıştırılırken hata oluştu, ifadede kullanılmadan önce tüm ilgili veri deposu öğeleri oluşturulmalıdır",
         "delete": "Öğe silinemez",
         "numbers-only": "Başlıkta sadece rakam kullanamazsınız",
         "title": "Isim",
