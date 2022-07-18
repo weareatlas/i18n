@@ -1,5 +1,7 @@
 {
     "data-store": {
+        "configure-items": "Konfigurieren Sie Datenspeicherelemente für die Verwendung von Ausdrücken",
+        "expression-parsing-error": "Beim Analysieren des Datenspeicherausdrucks ist ein Fehler aufgetreten. Alle relevanten Datenspeicherelemente müssen erstellt werden, bevor sie im Ausdruck verwendet werden können",
         "delete": "Element kann nicht gelöscht werden",
         "numbers-only": "Sie können im Titel nicht nur Zahlen verwenden",
         "title": "Titel",

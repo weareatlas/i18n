@@ -1,5 +1,7 @@
 {
     "data-store": {
+        "configure-items": "Configura gli elementi dell'archivio dati per utilizzare l'espressione",
+        "expression-parsing-error": "Si è verificato un errore durante l'analisi dell'espressione del datastore, è necessario creare tutti gli elementi del datastore rilevanti prima di utilizzarla nell'espressione",
         "delete": "L'elemento non può essere eliminato",
         "numbers-only": "Non puoi usare solo numeri nel titolo",
         "title": "Titolo",

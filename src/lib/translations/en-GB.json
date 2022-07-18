@@ -1,5 +1,7 @@
 {
     "data-store": {
+        "configure-items": "Configure Data Store items to use expression",
+        "expression-parsing-error": "Error occurred while parsing datastore expression, all the relevant datastore items must be created before using it in expression",
         "delete": "Item cannot be deleted",
         "numbers-only": "You cannot use only numbers in the title",
         "title": "Title",

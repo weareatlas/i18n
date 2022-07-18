@@ -1,5 +1,7 @@
 {
     "data-store": {
+        "configure-items": "Configurar elementos del almacén de datos para usar la expresión",
+        "expression-parsing-error": "Ocurrió un error al analizar la expresión del almacén de datos, todos los elementos relevantes del almacén de datos deben crearse antes de usarlos en la expresión",
         "delete": "No se puede eliminar el elemento",
         "numbers-only": "No puede usar solo números en el título",
         "title": "Título",
