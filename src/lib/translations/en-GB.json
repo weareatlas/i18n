@@ -935,6 +935,15 @@
         "headquarters-city": "Headquarter Office City",
         "city-location": "City Location",
         "key-industries": "Key Industries",
-        "featured-skills":  "Featured Skills"
+        "featured-skills":  "Featured Skills",
+        "location": "Location",
+        "floor-level": "Floor Level",
+        "building": "Building",
+        "address-line-one": "Address Line 1",
+        "address-line-two": "Address Line 2",
+        "city": "City",
+        "province": "Province",
+        "postal-code": "Postal Code",
+        "country": "Country"
     }
 }

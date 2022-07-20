@@ -935,6 +935,15 @@
         "headquarters-city": "Merkez Ofis Şehir",
         "city-location": "Şehir Konumu",
         "key-industries": "Anahtar Endüstriler",
-        "featured-skills":  "Öne Çıkan Beceriler"
+        "featured-skills":  "Öne Çıkan Beceriler",
+        "location": "Konum",
+        "floor-level": "Kat seviyesi",
+        "building": "Bina",
+        "address-line-one": "Adres satırı 1",
+        "address-line-two": "Adres satırı 2",
+        "city": "Şehir",
+        "province": "Bölge",
+        "postal-code": "Posta Kodu",
+        "country": "Ülke"
     }
 }
