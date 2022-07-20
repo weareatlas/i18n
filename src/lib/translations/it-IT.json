@@ -935,6 +935,15 @@
         "headquarters-city": "Sede Ufficio Città",
         "city-location": "Posizione della città",
         "key-industries": "Industrie chiave",
-        "featured-skills":  "Abilità in primo piano"
+        "featured-skills":  "Abilità in primo piano",
+        "location": "Posizione",
+        "floor-level": "Piano terra",
+        "building": "Costruzione",
+        "address-line-one": "Riga indirizzo 1",
+        "address-line-two": "Riga indirizzo 2",
+        "city": "Città",
+        "province": "Provincia",
+        "postal-code": "Codice Postale",
+        "country": "Paese"
     }
 }

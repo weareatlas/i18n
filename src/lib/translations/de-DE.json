@@ -935,6 +935,15 @@
         "headquarters-city": "Hauptsitz Bürostadt",
         "city-location": "Ort der Stadt",
         "key-industries": "Schlüsselindustrien",
-        "featured-skills":  "Ausgewählte Fähigkeiten"
+        "featured-skills":  "Ausgewählte Fähigkeiten",
+        "location": "Ort",
+        "floor-level": "Erdgeschoss",
+        "building": "Gebäude",
+        "address-line-one": "Anschrift Zeile 1",
+        "address-line-two": "Anschrift Zeile 2",
+        "city": "Stadt",
+        "province": "Provinz",
+        "postal-code": "Postleitzahl",
+        "country": "Land"
     }
 }

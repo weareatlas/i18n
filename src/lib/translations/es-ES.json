@@ -935,6 +935,15 @@
         "headquarters-city": "Ciudad de la oficina central",
         "city-location": "Ubicación de la ciudad",
         "key-industries": "Industrie chiave",
-        "featured-skills":  "Habilidades destacadas"
+        "featured-skills":  "Habilidades destacadas",
+        "location": "Ubicación",
+        "floor-level": "Nivel del suelo",
+        "building": "Edificio",
+        "address-line-one": "Dirección 1",
+        "address-line-two": "Dirección 2",
+        "city": "Ciudad",
+        "province": "Provincia",
+        "postal-code": "Código postal",
+        "country": "País"
     }
 }
