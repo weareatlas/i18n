@@ -897,6 +897,7 @@
         "section-management": "Bölüm Yönetimi",
         "add-section": "Yeni Bölüm Ekle",
         "display-text": "Metin olarak göster",
+        "display-link": "Bağlantı olarak göster",
         "invite-external-user": "Veri Deposu kullanıcısına görev atama",
         "invite-external-role": "Veri Deposu rolüne görev atama",
         "invite-external-user-tooltip": "Bir Veri Deposu kullanıcısına görev atayın, yalnızca dize ve biçim e-posta türündeki öğeler seçilebilir.",

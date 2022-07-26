@@ -897,6 +897,7 @@
         "section-management": "Sektionsleitung",
         "add-section": "Neuen Abschnitt hinzufügen",
         "display-text": "Als Text anzeigen",
+        "display-link": "Als link anzeigen",
         "invite-external-user": "Aufgabe einem Data Store-Benutzer zuweisen",
         "invite-external-role": "Aufgabe einer Datenspeicherrolle zuweisen",
         "invite-external-user-tooltip": "Weisen Sie einem Data Store-Benutzer eine Aufgabe zu, es können nur Elemente vom Typ Zeichenfolge und E-Mail-Format ausgewählt werden.",
