@@ -897,6 +897,7 @@
         "section-management": "Section Management",
         "add-section": "Add New Section",
         "display-text": "Display as text",
+        "display-link": "Display as link",
         "invite-external-user": "Assign task to a Data Store user",
         "invite-external-role": "Assign task to a Data Store role",
         "invite-external-user-tooltip": "Assign task to a Data Store user,only items of type string and format email can be selected.",

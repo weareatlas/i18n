@@ -897,6 +897,7 @@
         "section-management": "Gestión de secciones",
         "add-section": "Agregar nueva sección",
         "display-text": "Mostrar como texto",
+        "display-link": "Mostrar como enlace",
         "invite-external-user": "Asignar tarea a un usuario del almacén de datos",
         "invite-external-role": "Asignar tarea a un rol de almacén de datos",
         "invite-external-user-tooltip": "Asigne una tarea a un usuario del Almacén de datos, solo se pueden seleccionar elementos de tipo cadena y formato de correo electrónico.",
