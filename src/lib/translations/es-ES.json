@@ -591,7 +591,10 @@
         "add-favourite": "Agregar favorito",
         "save-continue": "Guardar y continuar más tarde",
         "save-continue-help": "Guarda tu progreso y sube datos a la nube,\nvuelve más tarde para completar tu tarea",
-        "entry-select": "Entrada - Seleccionar"
+        "entry-select": "Entrada - Seleccionar",
+        "replay-tour": "Tour de repetición",
+        "next-tour": "Próximo recorrido",
+        "finish": "Finalizar"
     },
     "action": {
         "priority-success": "Prioridad cambiada con éxito",

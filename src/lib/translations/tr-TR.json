@@ -591,7 +591,10 @@
         "add-favourite": "Favori Ekle",
         "save-continue": "Kaydet ve Daha Sonra Devam Et",
         "save-continue-help": "İlerlemenizi kaydedin ve verileri buluta yükleyin,\ngörevinizi tamamlamak için daha sonra tekrar gelin",
-        "entry-select": "Giriş - Seç"
+        "entry-select": "Giriş - Seç",
+        "replay-tour": "Turu Tekrar Oynat",
+        "next-tour": "Sonraki Tur",
+        "finish": "Bitiş"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",
