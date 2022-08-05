@@ -108,7 +108,9 @@
         "unlock-tutorial-help": "<after> eğitimin kilidini açmak için belirli <before> eğitimini tamamlamanız gerekiyor",
         "play-video": "Video oynatmak",
         "my-processes": "Süreçlerim",
-        "my-tasks": "Görevlerim"
+        "my-tasks": "Görevlerim",
+        "process-to-start": "Başlatılacak işlemler",
+        "global-process-to-start": "Başlamak için küresel süreçler"
     },
     "login": {
         "login": "Login",

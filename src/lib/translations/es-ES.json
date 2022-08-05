@@ -108,7 +108,9 @@
         "unlock-tutorial-help": "Debe completar un tutorial específico <before> para desbloquear el entrenamiento <after>",
         "play-video": "Reproduce el video",
         "my-processes": "mis procesos",
-        "my-tasks": "Mis tareas"
+        "my-tasks": "Mis tareas",
+        "process-to-start": "Procesos para iniciar",
+        "global-process-to-start": "Procesos globales para iniciar"
     },
     "login": {
         "login": "Iniciar sesión",

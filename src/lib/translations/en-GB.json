@@ -108,7 +108,9 @@
         "unlock-tutorial-help": "You need to complete specific  <before> tutorial to unlock <after> training",
         "play-video": "Play Video",
         "my-processes": "My Processes",
-        "my-tasks": "My Tasks"
+        "my-tasks": "My Tasks",
+        "process-to-start": "Processes to start",
+        "global-process-to-start": "Global processes to start"
     },
     "login": {
         "login": "Login",
