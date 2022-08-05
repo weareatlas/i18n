@@ -108,7 +108,9 @@
         "unlock-tutorial-help": "Sie müssen ein bestimmtes <before> Tutorial absolvieren, um das <after> Training freizuschalten",
         "play-video": "Video abspielen",
         "my-processes": "Meine Prozesse",
-        "my-tasks": "Meine Aufgaben"
+        "my-tasks": "Meine Aufgaben",
+        "process-to-start": "Prozesse zu starten",
+        "global-process-to-start": "Globale Prozesse zu starten"
     },
     "login": {
         "login": "Login",

@@ -108,7 +108,9 @@
         "unlock-tutorial-help": "Devi completare un tutorial specifico <before> per sbloccare la formazione <after>",
         "play-video": "Riproduci video",
         "my-processes": "I miei processi",
-        "my-tasks": "I miei compiti"
+        "my-tasks": "I miei compiti",
+        "process-to-start": "Processi da avviare",
+        "global-process-to-start": "Processi globali da avviare"
     },
     "login": {
         "login": "Accesso",
