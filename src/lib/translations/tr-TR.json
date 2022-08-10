@@ -433,7 +433,8 @@
         "details-tab": "Detaylar",
         "store-tab": "Bilgi deposu",
         "permissions-tab": "Izinler",
-        "no-workflow": "İş Akışı Bulunamadı"
+        "no-workflow": "İş Akışı Bulunamadı",
+        "alphanumeric-tasks": "Görev adınız yalnızca alfasayısal karakterler veya boşluklar içermelidir"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",

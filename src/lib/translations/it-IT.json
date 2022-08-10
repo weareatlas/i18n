@@ -433,7 +433,8 @@
         "details-tab": "Particolari",
         "store-tab": "Archivio dati",
         "permissions-tab": "Permessi",
-        "no-workflow": "Nessun flusso di lavoro trovato"
+        "no-workflow": "Nessun flusso di lavoro trovato",
+        "alphanumeric-tasks": "Il nome dell'attività deve includere solo caratteri alfanumerici o spazi"
     },
     "links": {
         "contact-us": "Contattaci",

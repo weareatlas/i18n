@@ -433,7 +433,8 @@
         "details-tab": "Einzelheiten",
         "store-tab": "Datenspeicher",
         "permissions-tab": "Berechtigungen",
-        "no-workflow": "Keine Arbeitsabläufe gefunden"
+        "no-workflow": "Keine Arbeitsabläufe gefunden",
+        "alphanumeric-tasks": "Ihr Aufgabenname darf nur alphanumerische Zeichen oder Leerzeichen enthalten"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
