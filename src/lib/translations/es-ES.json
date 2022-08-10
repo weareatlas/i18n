@@ -433,7 +433,8 @@
         "details-tab": "Detalles",
         "store-tab": "Almacén de datos",
         "permissions-tab": "Permisos",
-        "no-workflow": "No se encontraron flujos de trabajo"
+        "no-workflow": "No se encontraron flujos de trabajo",
+        "alphanumeric-tasks": "El nombre de su tarea solo debe incluir caracteres alfanuméricos o espacios"
     },
     "links": {
         "contact-us": "Contáctenos",

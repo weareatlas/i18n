@@ -433,7 +433,8 @@
         "details-tab": "Details",
         "store-tab": "Data Store",
         "permissions-tab": "Permissions",
-        "no-workflow": "No Workflows Found"
+        "no-workflow": "No Workflows Found",
+        "alphanumeric-tasks": "Your task name must only include alphanumeric characters or spaces"
     },
     "links": {
         "contact-us": "Contact us",
