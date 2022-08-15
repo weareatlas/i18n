@@ -42,7 +42,10 @@
         "item-format": "Öğe Biçimi",
         "format-validation": "Metin gerekli biçimi izlemiyor",
         "reserved-word": "Bu kelimeyi başlıkta kullanamazsınız",
-        "update": "Güncelleme"
+        "update": "Güncelleme",
+        "paste": "Yapıştırmak",
+        "paste-validator": "Bu görevde zaten kullanılan bir Veri Deposu öğesi içerdiğinden bu bölümü yapıştıramazsınız.",
+        "clipboard-description": "[processName] işlemi içinde [taskName] öğesinden kopyalandı"
     },
     "string-formats": {
         "date-time": "Tarih Saat",
