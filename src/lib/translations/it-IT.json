@@ -42,7 +42,10 @@
         "item-format": "Formato articolo",
         "format-validation": "Il testo non segue il formato richiesto",
         "reserved-word": "Non puoi usare questa parola nel titolo",
-        "update": "Aggiornare"
+        "update": "Aggiornare",
+        "paste": "Incolla",
+        "paste-validator": "Non è possibile incollare questa sezione poiché contiene un elemento Data Store già utilizzato in questa attività",
+        "clipboard-description": "Copiato da [taskName] all'interno del processo [processName]"
     },
     "string-formats": {
         "date-time": "Appuntamento",

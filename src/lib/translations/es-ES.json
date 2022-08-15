@@ -42,7 +42,10 @@
         "item-format": "Formato de artículo",
         "format-validation": "El texto no sigue el formato requerido",
         "reserved-word": "No puedes usar esta palabra en el título",
-        "update": "Actualizar"
+        "update": "Actualizar",
+        "paste": "Pegar",
+        "paste-validator": "No puede pegar esta sección porque contiene un elemento del Almacén de datos que ya se usa en esta tarea",
+        "clipboard-description": "Copiado de [taskName] dentro del proceso [processName]"
     },
     "string-formats": {
         "date-time": "Fecha y hora",
