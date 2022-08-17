@@ -316,6 +316,7 @@
         "completed-count": "Görev {{completedCount}} kere tamamlandı",
         "last-loaded": "Son Yenilenme",
         "apply-filter": "Filtre Uygula",
+        "apply-filters": "Filtreleri Uygula",
         "search-by-task": "Görev Adına Göre Ara",
         "search-by-process": "İşlem Adına Göre Ara",
         "search-by-tags": "Etiketlere göre ara",
@@ -927,7 +928,10 @@
         "resource-placeholder": "Hangi kaynağı arıyorsunuz?",
         "people": "İnsanlar",
         "companies": "şirketler",
-        "opportunities": "Fırsatlar"
+        "opportunities": "Fırsatlar",
+        "results": "Sonuçlar",
+        "grid-view": "Izgara Görünümü",
+        "list-view": "Liste görünümü"
     },
     "resource-management": {
         "open-profile": "Profili Aç",

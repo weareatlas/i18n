@@ -316,6 +316,7 @@
         "completed-count": "Tarea completada {{completeCount}} veces",
         "last-loaded": "Última actualización",
         "apply-filter": "Aplicar filtro",
+        "apply-filters": "Aplicar filtros",
         "search-by-task": "Buscar por nombre de tarea",
         "search-by-process": "Buscar por nombre de proceso",
         "search-by-tags": "Buscar Por Etiquetas",
@@ -927,7 +928,10 @@
         "resource-placeholder": "¿Qué recurso estás buscando?",
         "people": "Gente",
         "companies": "Compañías",
-        "opportunities": "Oportunidades"
+        "opportunities": "Oportunidades",
+        "results": "Resultados",
+        "grid-view": "Vista en cuadrícula",
+        "list-view": "Vista de la lista"
     },
     "resource-management": {
         "open-profile": "Abrir perfil",
