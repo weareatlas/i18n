@@ -316,6 +316,7 @@
         "completed-count": "Task completed {{completedCount}} times",
         "last-loaded": "Last refreshed",
         "apply-filter": "Apply Filter",
+        "apply-filters": "Apply Filters",
         "search-by-task": "Search by Task Name",
         "search-by-process": "Search by Process Name",
         "search-by-tags": "Search by Tags",
@@ -927,7 +928,10 @@
         "resource-placeholder": "Which resource are you looking for?",
         "people": "People",
         "companies": "Companies",
-        "opportunities": "Opportunities"
+        "opportunities": "Opportunities",
+        "results": "Results",
+        "grid-view": "Grid View",
+        "list-view": "List View"
     },
     "resource-management": {
         "open-profile": "Open Profile",

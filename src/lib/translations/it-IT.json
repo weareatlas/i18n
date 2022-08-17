@@ -316,6 +316,7 @@
         "completed-count": "Attività completata {x} volte",
         "last-loaded": "Ultimo aggiornamento",
         "apply-filter": "Applica il filtro",
+        "apply-filters": "Applica filtri",
         "search-by-task": "Cerca per nome attività",
         "search-by-process": "Cerca per nome processo",
         "search-by-tags": "Cerca per tag",
@@ -927,7 +928,10 @@
         "resource-placeholder": "Quale risorsa stai cercando?",
         "people": "Persone",
         "companies": "Aziende",
-        "opportunities": "Opportunità"
+        "opportunities": "Opportunità",
+        "results": "Risultati",
+        "grid-view": "Vista a griglia",
+        "list-view": "Visualizzazione elenco"
     },
     "resource-management": {
         "open-profile": "Apri il profilo",
