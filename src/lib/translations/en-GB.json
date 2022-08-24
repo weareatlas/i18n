@@ -674,7 +674,8 @@
         "process-detail": "Use Data Store based Process Detail",
         "optimise-view": "Atlas Optimise view",
         "expression-builder": "Use Data Store based Expression Builder",
-        "management": "Management"
+        "management": "Management",
+        "marketplace-view": "Marketplace View"
     },
     "language": {
         "english": "English",
@@ -958,6 +959,7 @@
         "city": "City",
         "province": "Province",
         "postal-code": "Postal Code",
-        "country": "Country"
+        "country": "Country",
+        "view-all": "View All"
     }
 }

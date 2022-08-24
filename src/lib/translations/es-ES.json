@@ -674,7 +674,8 @@
         "process-detail": "Usar detalle de proceso basado en almacén de datos",
         "optimise-view": "Atlas Optimise vista",
         "expression-builder": "Utilice el Generador de expresiones basado en el almacén de datos",
-        "management": "administración"
+        "management": "administración",
+        "marketplace-view": "Vista del mercado"
     },
     "language": {
         "english": "Inglés (English)",
@@ -958,6 +959,7 @@
         "city": "Ciudad",
         "province": "Provincia",
         "postal-code": "Código postal",
-        "country": "País"
+        "country": "País",
+        "view-all": "Ver todo"
     }
 }

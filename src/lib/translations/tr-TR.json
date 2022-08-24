@@ -674,7 +674,8 @@
         "process-detail": "Veri Deposu tabanlı İşlem Ayrıntısını kullanın",
         "optimise-view": "Atlas Optimise görüş",
         "expression-builder": "Veri Deposu tabanlı İfade Oluşturucu'yu kullanın",
-        "management": "Yönetmek"
+        "management": "Yönetmek",
+        "marketplace-view": "Pazar Görünümü"
     },
     "language": {
         "english": "İngilizce",
@@ -958,6 +959,7 @@
         "city": "Şehir",
         "province": "Bölge",
         "postal-code": "Posta Kodu",
-        "country": "Ülke"
+        "country": "Ülke",
+        "view-all": "Hepsini gör"
     }
 }

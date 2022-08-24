@@ -674,7 +674,8 @@
         "process-detail": "Utilizza i dettagli del processo basati su Data Store",
         "optimise-view": "Atlas Optimise Visualizza",
         "expression-builder": "Usa il Generatore di espressioni basato su Data Store",
-        "management": "Gestione"
+        "management": "Gestione",
+        "marketplace-view": "Vista mercato"
     },
     "language": {
         "english": "Inglese (English)",
@@ -958,6 +959,7 @@
         "city": "Città",
         "province": "Provincia",
         "postal-code": "Codice Postale",
-        "country": "Paese"
+        "country": "Paese",
+        "view-all": "Mostra tutto"
     }
 }
