@@ -675,7 +675,8 @@
         "optimise-view": "Atlas Optimise view",
         "expression-builder": "Use Data Store based Expression Builder",
         "management": "Management",
-        "marketplace-view": "Marketplace View"
+        "marketplace-view": "Marketplace View",
+        "atlas-dashboard": "Atlas Dashboard"
     },
     "language": {
         "english": "English",
