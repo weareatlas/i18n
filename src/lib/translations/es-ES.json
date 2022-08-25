@@ -675,7 +675,8 @@
         "optimise-view": "Atlas Optimise vista",
         "expression-builder": "Utilice el Generador de expresiones basado en el almacén de datos",
         "management": "administración",
-        "marketplace-view": "Vista del mercado"
+        "marketplace-view": "Vista del mercado",
+        "atlas-dashboard": "Atlas Tablero"
     },
     "language": {
         "english": "Inglés (English)",

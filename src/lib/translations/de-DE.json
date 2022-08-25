@@ -675,7 +675,8 @@
         "optimise-view": "Atlas Optimise Aussicht",
         "expression-builder": "Verwenden Sie den Data Store-basierten Expression Builder",
         "management": "Management",
-        "marketplace-view": "Marktplatz-Ansicht"
+        "marketplace-view": "Marktplatz-Ansicht",
+        "atlas-dashboard": "Atlas Armaturenbrett"
     },
     "language": {
         "english": "Englisch (English)",
