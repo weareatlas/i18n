@@ -438,7 +438,8 @@
         "store-tab": "Bilgi deposu",
         "permissions-tab": "Izinler",
         "no-workflow": "İş Akışı Bulunamadı",
-        "alphanumeric-tasks": "Görev adınız yalnızca alfasayısal karakterler veya boşluklar içermelidir"
+        "alphanumeric-tasks": "Görev adınız yalnızca alfasayısal karakterler veya boşluklar içermelidir",
+        "connector-names": "İş akışınız, alfasayısal olmayan bir bağlayıcı adı içeriyor"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",

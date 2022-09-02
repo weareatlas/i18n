@@ -438,7 +438,8 @@
         "store-tab": "Data Store",
         "permissions-tab": "Permissions",
         "no-workflow": "No Workflows Found",
-        "alphanumeric-tasks": "Your task name must only include alphanumeric characters or spaces"
+        "alphanumeric-tasks": "Your task name must only include alphanumeric characters or spaces",
+        "connector-names": "Your workflow contains a connector name which is not alphanumeric"
     },
     "links": {
         "contact-us": "Contact us",

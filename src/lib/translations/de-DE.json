@@ -438,7 +438,8 @@
         "store-tab": "Datenspeicher",
         "permissions-tab": "Berechtigungen",
         "no-workflow": "Keine Arbeitsabläufe gefunden",
-        "alphanumeric-tasks": "Ihr Aufgabenname darf nur alphanumerische Zeichen oder Leerzeichen enthalten"
+        "alphanumeric-tasks": "Ihr Aufgabenname darf nur alphanumerische Zeichen oder Leerzeichen enthalten",
+        "connector-names": "Ihr Workflow enthält einen Connector-Namen, der nicht alphanumerisch ist"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
