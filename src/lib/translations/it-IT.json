@@ -438,7 +438,8 @@
         "store-tab": "Archivio dati",
         "permissions-tab": "Permessi",
         "no-workflow": "Nessun flusso di lavoro trovato",
-        "alphanumeric-tasks": "Il nome dell'attività deve includere solo caratteri alfanumerici o spazi"
+        "alphanumeric-tasks": "Il nome dell'attività deve includere solo caratteri alfanumerici o spazi",
+        "connector-names": "Il flusso di lavoro contiene un nome connettore che non è alfanumerico"
     },
     "links": {
         "contact-us": "Contattaci",
