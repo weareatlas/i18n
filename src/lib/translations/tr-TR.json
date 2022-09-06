@@ -784,7 +784,9 @@
         "edit-message": "Gösterge tablonuz kaydedildi.",
         "atlas-boost": "Atlas Boost'a hoş geldiniz",
         "atlas-boost-desc": "Atlas Boost ile şirketiniz inanılmaz veri analitiğine erişebilir. Özel gereksinimlerinize uyan panolar oluşturulabilir ve veriler, olması gerektiği gibi işlenebilir.",
-        "learn-more": "Gösterge tabloları hakkında daha fazla bilgi edinmek için [bu bağlantıyı] takip edin"
+        "learn-more": "Gösterge tabloları hakkında daha fazla bilgi edinmek için [bu bağlantıyı] takip edin",
+        "config-error": "Pano yapılandırması ayrıştırılırken hata oluştu, geçerli bir JSON yapısına sahip olmalıdır",
+        "config-control": "Yapılandırma Kontrolü"
     },
     "checkout": {
         "solutions-architecture": "Çözüm Mimarisi",

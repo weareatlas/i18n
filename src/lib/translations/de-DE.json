@@ -784,7 +784,9 @@
         "edit-message": "Ihr Dashboard wurde gespeichert.",
         "atlas-boost": "Willkommen bei Atlas Boost",
         "atlas-boost-desc": "Mit Atlas Boost hat Ihr Unternehmen Zugang zu unglaublichen Datenanalysen. Es können Dashboards generiert werden, die Ihren spezifischen Anforderungen entsprechen, und Daten können so verarbeitet werden, wie Sie es benötigen.",
-        "learn-more": "Folgen Sie [diesem Link], um mehr über Dashboards zu erfahren"
+        "learn-more": "Folgen Sie [diesem Link], um mehr über Dashboards zu erfahren",
+        "config-error": "Fehler beim Analysieren der Dashboard-Konfiguration, sie sollte eine gültige JSON-Struktur haben",
+        "config-control": "Konfigurationssteuerung"
     },
     "checkout": {
         "solutions-architecture": "Lösungsarchitektur",
