@@ -784,7 +784,9 @@
         "edit-message": "Tu panel se ha guardado",
         "atlas-boost": "Bienvenido a Atlas Boost",
         "atlas-boost-desc": "Con Atlas Boost, su empresa tiene acceso a increíbles análisis de datos. Se pueden generar paneles que se ajusten a sus requisitos específicos y los datos se pueden manejar como usted necesita",
-        "learn-more": "Siga [este enlace] para obtener más información sobre los paneles de control"
+        "learn-more": "Siga [este enlace] para obtener más información sobre los paneles de control",
+        "config-error": "Error al analizar la configuración del tablero, debería tener una estructura JSON válida",
+        "config-control": "Control de configuración"
     },
     "checkout": {
         "solutions-architecture": "Arquitectura de soluciones",
