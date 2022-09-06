@@ -934,7 +934,19 @@
         "opportunities": "Fırsatlar",
         "results": "Sonuçlar",
         "grid-view": "Izgara Görünümü",
-        "list-view": "Liste görünümü"
+        "list-view": "Liste görünümü",
+        "main-filters": "Ana Filtreler",
+        "company": "Şirket",
+        "person": "Kişi",
+        "equipment": "Teçhizat",
+        "material": "Malzeme",
+        "tool": "Alet",
+        "location": "Konum",
+        "opportunity": "Fırsat",
+        "view-company-details": "Şirket Detaylarını Görüntüle",
+        "view-person": "Kişiyi Görüntüle",
+        "view-opportunity": "Fırsatı Görüntüle",
+        "view": "Görüntüle"
     },
     "resource-management": {
         "open-profile": "Profili Aç",

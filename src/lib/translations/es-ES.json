@@ -934,7 +934,19 @@
         "opportunities": "Oportunidades",
         "results": "Resultados",
         "grid-view": "Vista en cuadrícula",
-        "list-view": "Vista de la lista"
+        "list-view": "Vista de la lista",
+        "main-filters": "Main Filters",
+        "company": "Compañía",
+        "person": "Persona",
+        "equipment": "Equipo",
+        "material": "Material",
+        "tool": "Herramienta",
+        "location": "Ubicación",
+        "opportunity": "Oportunidad",
+        "view-company-details": "Ver detalles de la empresa",
+        "view-person": "Ver persona",
+        "view-opportunity": "Ver oportunidad",
+        "view": "vista"
     },
     "resource-management": {
         "open-profile": "Abrir perfil",
