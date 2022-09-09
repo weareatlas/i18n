@@ -438,7 +438,7 @@
         "store-tab": "Data Store",
         "permissions-tab": "Permissions",
         "no-workflow": "No Workflows Found",
-        "alphanumeric-tasks": "Your task name must only include alphanumeric characters or spaces",
+        "alphanumeric-tasks": "The name of this bpmn element contains an invalid character. Please rename this element to only contain alphanumeric characters, hyphens or round brackets",
         "connector-names": "Your workflow contains a connector name which is not alphanumeric"
     },
     "links": {
