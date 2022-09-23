@@ -677,7 +677,10 @@
         "expression-builder": "Usa il Generatore di espressioni basato su Data Store",
         "management": "Gestione",
         "marketplace-view": "Vista mercato",
-        "atlas-dashboard": "Atlas Pannello di controllo"
+        "atlas-dashboard": "Atlas Pannello di controllo",
+        "management-dashboard": "Cruscotto di gestione",
+        "resources-view": "Risorse",
+        "marketplace-opportunities": "Mercato e opportunità"
     },
     "language": {
         "english": "Inglese (English)",

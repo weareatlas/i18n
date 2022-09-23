@@ -677,7 +677,10 @@
         "expression-builder": "Veri Deposu tabanlı İfade Oluşturucu'yu kullanın",
         "management": "Yönetmek",
         "marketplace-view": "Pazar Görünümü",
-        "atlas-dashboard": "Atlas Panosu"
+        "atlas-dashboard": "Atlas Panosu",
+        "management-dashboard": "Yönetim Panosu",
+        "resources-view": "Kaynaklar",
+        "marketplace-opportunities": "Pazar Yeri ve Fırsatlar"
     },
     "language": {
         "english": "İngilizce",
