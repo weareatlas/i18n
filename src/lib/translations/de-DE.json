@@ -979,6 +979,12 @@
         "province": "Provinz",
         "postal-code": "Postleitzahl",
         "country": "Land",
-        "view-all": "Alle ansehen"
+        "view-all": "Alle ansehen",
+        "description": "Beschreibung",
+        "deadline": "Termin",
+        "contact-name": "Kontaktname",
+        "contact-email": "Kontakt-E-Mailadresse",
+        "company-name": "Name der Firma",
+        "document": "Dokumentieren"
     }
 }

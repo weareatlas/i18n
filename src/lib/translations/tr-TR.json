@@ -979,6 +979,12 @@
         "province": "Bölge",
         "postal-code": "Posta Kodu",
         "country": "Ülke",
-        "view-all": "Hepsini gör"
+        "view-all": "Hepsini gör",
+        "description": "Tanım",
+        "deadline": "Son tarih",
+        "contact-name": "Kişi Adı",
+        "contact-email": "İletişim E-Posta Adresi",
+        "company-name": "Firma Adı",
+        "document": "Belge"
     }
 }
