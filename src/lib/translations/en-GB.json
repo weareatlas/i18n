@@ -439,7 +439,8 @@
         "permissions-tab": "Permissions",
         "no-workflow": "No Workflows Found",
         "alphanumeric-tasks": "The name of this bpmn element contains an invalid character. Please rename this element to only contain alphanumeric characters, hyphens or round brackets",
-        "connector-names": "Your workflow contains a connector name which is not alphanumeric"
+        "connector-names": "Your workflow contains a connector name which is not alphanumeric",
+        "invalid-roles": "Your diagram contains a role that does not exist on this environment"
     },
     "links": {
         "contact-us": "Contact us",

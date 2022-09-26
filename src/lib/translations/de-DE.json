@@ -439,7 +439,8 @@
         "permissions-tab": "Berechtigungen",
         "no-workflow": "Keine Arbeitsabläufe gefunden",
         "alphanumeric-tasks": "Der Name dieses bpmn-Elements enthält ein ungültiges Zeichen. Bitte benennen Sie dieses Element so um, dass es nur alphanumerische Zeichen, Bindestriche oder runde Klammern enthält",
-        "connector-names": "Ihr Workflow enthält einen Connector-Namen, der nicht alphanumerisch ist"
+        "connector-names": "Ihr Workflow enthält einen Connector-Namen, der nicht alphanumerisch ist",
+        "invalid-roles": "Ihr Diagramm enthält eine Rolle, die in dieser Umgebung nicht vorhanden ist"
     },
     "links": {
         "contact-us": "Kontaktiere uns",

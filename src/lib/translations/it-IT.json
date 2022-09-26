@@ -439,7 +439,8 @@
         "permissions-tab": "Permessi",
         "no-workflow": "Nessun flusso di lavoro trovato",
         "alphanumeric-tasks": "Il nome di questo elemento bpmn contiene un carattere non valido. Rinomina questo elemento in modo che contenga solo caratteri alfanumerici, trattini o parentesi tonde",
-        "connector-names": "Il flusso di lavoro contiene un nome connettore che non è alfanumerico"
+        "connector-names": "Il flusso di lavoro contiene un nome connettore che non è alfanumerico",
+        "invalid-roles": "Il diagramma contiene un ruolo che non esiste in questo ambiente"
     },
     "links": {
         "contact-us": "Contattaci",
