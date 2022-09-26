@@ -439,7 +439,8 @@
         "permissions-tab": "Permisos",
         "no-workflow": "No se encontraron flujos de trabajo",
         "alphanumeric-tasks": "El nombre de este elemento bpmn contiene un carácter no válido. Cambie el nombre de este elemento para que solo contenga caracteres alfanuméricos, guiones o corchetes",
-        "connector-names": "Su flujo de trabajo contiene un nombre de conector que no es alfanumérico"
+        "connector-names": "Su flujo de trabajo contiene un nombre de conector que no es alfanumérico",
+        "invalid-roles": "Su diagrama contiene un rol que no existe en este entorno"
     },
     "links": {
         "contact-us": "Contáctenos",

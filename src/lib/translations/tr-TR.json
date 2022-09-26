@@ -439,7 +439,8 @@
         "permissions-tab": "Izinler",
         "no-workflow": "İş Akışı Bulunamadı",
         "alphanumeric-tasks": "Bu bpmn öğesinin adı geçersiz bir karakter içeriyor. Lütfen bu öğeyi yalnızca alfasayısal karakterler, kısa çizgiler veya yuvarlak parantezler içerecek şekilde yeniden adlandırın",
-        "connector-names": "İş akışınız, alfasayısal olmayan bir bağlayıcı adı içeriyor"
+        "connector-names": "İş akışınız, alfasayısal olmayan bir bağlayıcı adı içeriyor",
+        "invalid-roles": "Diyagramınız bu ortamda olmayan bir rol içeriyor"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",
