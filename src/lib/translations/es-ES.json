@@ -440,7 +440,8 @@
         "no-workflow": "No se encontraron flujos de trabajo",
         "alphanumeric-tasks": "El nombre de este elemento bpmn contiene un carácter no válido. Cambie el nombre de este elemento para que solo contenga caracteres alfanuméricos, guiones o corchetes",
         "connector-names": "Su flujo de trabajo contiene un nombre de conector que no es alfanumérico",
-        "invalid-roles": "Su diagrama contiene un rol que no existe en este entorno"
+        "invalid-roles": "Su diagrama contiene un rol que no existe en este entorno",
+        "invalid-diagram-roles": "Su diagrama contiene roles que no son válidos. Si desea actualizar este diagrama, confirme para eliminar todos los roles eliminados"
     },
     "links": {
         "contact-us": "Contáctenos",
@@ -603,7 +604,8 @@
         "entry-select": "Entrada - Seleccionar",
         "replay-tour": "Tour de repetición",
         "next-tour": "Próximo recorrido",
-        "finish": "Finalizar"
+        "finish": "Finalizar",
+        "delete-all": "Eliminar todos"
     },
     "action": {
         "priority-success": "Prioridad cambiada con éxito",

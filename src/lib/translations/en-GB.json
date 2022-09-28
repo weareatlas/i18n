@@ -440,7 +440,8 @@
         "no-workflow": "No Workflows Found",
         "alphanumeric-tasks": "The name of this bpmn element contains an invalid character. Please rename this element to only contain alphanumeric characters, hyphens or round brackets",
         "connector-names": "Your workflow contains a connector name which is not alphanumeric",
-        "invalid-roles": "Your diagram contains a role that does not exist on this environment"
+        "invalid-roles": "Your diagram contains a role that does not exist on this environment",
+        "invalid-diagram-roles": "Your diagram contains roles that are not valid. If you wish to update this diagram, please confirm to remove all deleted roles"
     },
     "links": {
         "contact-us": "Contact us",
@@ -603,7 +604,8 @@
         "entry-select": "Entry - Select",
         "replay-tour": "Replay Tour",
         "next-tour": "Next Tour",
-        "finish": "Finish"
+        "finish": "Finish",
+        "delete-all": "Delete All"
     },
     "action": {
         "priority-success": "Priority changed successfully.",

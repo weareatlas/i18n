@@ -440,7 +440,8 @@
         "no-workflow": "İş Akışı Bulunamadı",
         "alphanumeric-tasks": "Bu bpmn öğesinin adı geçersiz bir karakter içeriyor. Lütfen bu öğeyi yalnızca alfasayısal karakterler, kısa çizgiler veya yuvarlak parantezler içerecek şekilde yeniden adlandırın",
         "connector-names": "İş akışınız, alfasayısal olmayan bir bağlayıcı adı içeriyor",
-        "invalid-roles": "Diyagramınız bu ortamda olmayan bir rol içeriyor"
+        "invalid-roles": "Diyagramınız bu ortamda olmayan bir rol içeriyor",
+        "invalid-diagram-roles": "Diyagramınız geçerli olmayan roller içeriyor. Bu diyagramı güncellemek istiyorsanız, lütfen silinen tüm rolleri kaldırmayı onaylayın."
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",
@@ -603,7 +604,8 @@
         "entry-select": "Giriş - Seç",
         "replay-tour": "Turu Tekrar Oynat",
         "next-tour": "Sonraki Tur",
-        "finish": "Bitiş"
+        "finish": "Bitiş",
+        "delete-all": "Hepsini sil"
     },
     "action": {
         "priority-success": "Öncelik başarıyla değiştirildi.",
