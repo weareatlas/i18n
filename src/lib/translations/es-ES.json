@@ -443,8 +443,8 @@
         "invalid-roles": "Su diagrama contiene un rol que no existe en este entorno",
         "invalid-diagram-roles": "Su diagrama contiene roles que no son válidos. Si desea actualizar este diagrama, confirme para eliminar todos los roles eliminados",
         "invalid-role-tooltip": "El rol [invalidRole] ha sido eliminado",
-        "invalid-process-roles": "Roles de nivel de proceso no válidos: [processRoles]",
-        "invalid-task-roles": "Roles de nivel de tarea no válidos: [taskRoles]"
+        "invalid-process-roles": "Roles de nivel de proceso no válidos: {{processRoles}}",
+        "invalid-task-roles": "Roles de nivel de tarea no válidos: {{taskRoles}}"
     },
     "links": {
         "contact-us": "Contáctenos",

@@ -443,8 +443,8 @@
         "invalid-roles": "Diyagramınız bu ortamda olmayan bir rol içeriyor",
         "invalid-diagram-roles": "Diyagramınız geçerli olmayan roller içeriyor. Bu diyagramı güncellemek istiyorsanız, lütfen silinen tüm rolleri kaldırmayı onaylayın.",
         "invalid-role-tooltip": "Rol [invalidRole] silindi",
-        "invalid-process-roles": "Geçersiz süreç düzeyi rolleri: [processRoles]",
-        "invalid-task-roles": "Geçersiz görev düzeyi rolleri: [taskRoles]"
+        "invalid-process-roles": "Geçersiz süreç düzeyi rolleri: {{processRoles}}",
+        "invalid-task-roles": "Geçersiz görev düzeyi rolleri: {{taskRoles}}"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",

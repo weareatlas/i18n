@@ -443,8 +443,8 @@
         "invalid-roles": "Ihr Diagramm enthält eine Rolle, die in dieser Umgebung nicht vorhanden ist",
         "invalid-diagram-roles": "Ihr Diagramm enthält ungültige Rollen. Wenn Sie dieses Diagramm aktualisieren möchten, bestätigen Sie bitte, dass alle gelöschten Rollen entfernt werden",
         "invalid-role-tooltip": "Rolle [invalidRole] wurde gelöscht",
-        "invalid-process-roles": "Ungültige Rollen auf Prozessebene: [processRoles]",
-        "invalid-task-roles": "Ungültige Rollen auf Aufgabenebene: [taskRoles]"
+        "invalid-process-roles": "Ungültige Rollen auf Prozessebene: {{processRoles}}",
+        "invalid-task-roles": "Ungültige Rollen auf Aufgabenebene: {{taskRoles}}"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
