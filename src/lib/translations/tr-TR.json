@@ -441,7 +441,10 @@
         "alphanumeric-tasks": "Bu bpmn öğesinin adı geçersiz bir karakter içeriyor. Lütfen bu öğeyi yalnızca alfasayısal karakterler, kısa çizgiler veya yuvarlak parantezler içerecek şekilde yeniden adlandırın",
         "connector-names": "İş akışınız, alfasayısal olmayan bir bağlayıcı adı içeriyor",
         "invalid-roles": "Diyagramınız bu ortamda olmayan bir rol içeriyor",
-        "invalid-diagram-roles": "Diyagramınız geçerli olmayan roller içeriyor. Bu diyagramı güncellemek istiyorsanız, lütfen silinen tüm rolleri kaldırmayı onaylayın."
+        "invalid-diagram-roles": "Diyagramınız geçerli olmayan roller içeriyor. Bu diyagramı güncellemek istiyorsanız, lütfen silinen tüm rolleri kaldırmayı onaylayın.",
+        "invalid-role-tooltip": "Rol [invalidRole] silindi",
+        "invalid-process-roles": "Geçersiz süreç düzeyi rolleri: [processRoles]",
+        "invalid-task-roles": "Geçersiz görev düzeyi rolleri: [taskRoles]"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",
@@ -954,7 +957,8 @@
         "view-company-details": "Şirket Detaylarını Görüntüle",
         "view-person": "Kişiyi Görüntüle",
         "view-opportunity": "Fırsatı Görüntüle",
-        "view": "Görüntüle"
+        "view": "Görüntüle",
+        "applications-deadline": "Son Başvuru Tarihi"
     },
     "resource-management": {
         "open-profile": "Profili Aç",

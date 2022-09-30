@@ -441,7 +441,10 @@
         "alphanumeric-tasks": "Il nome di questo elemento bpmn contiene un carattere non valido. Rinomina questo elemento in modo che contenga solo caratteri alfanumerici, trattini o parentesi tonde",
         "connector-names": "Il flusso di lavoro contiene un nome connettore che non è alfanumerico",
         "invalid-roles": "Il diagramma contiene un ruolo che non esiste in questo ambiente",
-        "invalid-diagram-roles": "Il diagramma contiene ruoli non validi. Se desideri aggiornare questo diagramma, conferma di rimuovere tutti i ruoli eliminati"
+        "invalid-diagram-roles": "Il diagramma contiene ruoli non validi. Se desideri aggiornare questo diagramma, conferma di rimuovere tutti i ruoli eliminati",
+        "invalid-role-tooltip": "Il ruolo [invalidRole] è stato eliminato",
+        "invalid-process-roles": "Ruoli a livello di processo non validi: [processRoles]",
+        "invalid-task-roles": "Ruoli a livello di attività non validi: [taskRoles]"
     },
     "links": {
         "contact-us": "Contattaci",
@@ -954,7 +957,8 @@
         "view-company-details": "Visualizza i dettagli dell'azienda",
         "view-person": "Visualizza persona",
         "view-opportunity": "Visualizza opportunità",
-        "view": "Visualizzazione"
+        "view": "Visualizzazione",
+        "applications-deadline": "Scadenza domande"
     },
     "resource-management": {
         "open-profile": "Apri il profilo",

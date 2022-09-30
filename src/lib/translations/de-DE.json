@@ -441,7 +441,10 @@
         "alphanumeric-tasks": "Der Name dieses bpmn-Elements enthält ein ungültiges Zeichen. Bitte benennen Sie dieses Element so um, dass es nur alphanumerische Zeichen, Bindestriche oder runde Klammern enthält",
         "connector-names": "Ihr Workflow enthält einen Connector-Namen, der nicht alphanumerisch ist",
         "invalid-roles": "Ihr Diagramm enthält eine Rolle, die in dieser Umgebung nicht vorhanden ist",
-        "invalid-diagram-roles": "Ihr Diagramm enthält ungültige Rollen. Wenn Sie dieses Diagramm aktualisieren möchten, bestätigen Sie bitte, dass alle gelöschten Rollen entfernt werden"
+        "invalid-diagram-roles": "Ihr Diagramm enthält ungültige Rollen. Wenn Sie dieses Diagramm aktualisieren möchten, bestätigen Sie bitte, dass alle gelöschten Rollen entfernt werden",
+        "invalid-role-tooltip": "Rolle [invalidRole] wurde gelöscht",
+        "invalid-process-roles": "Ungültige Rollen auf Prozessebene: [processRoles]",
+        "invalid-task-roles": "Ungültige Rollen auf Aufgabenebene: [taskRoles]"
     },
     "links": {
         "contact-us": "Kontaktiere uns",
@@ -954,7 +957,8 @@
         "view-company-details": "Unternehmensdetails anzeigen",
         "view-person": "Person anzeigen",
         "view-opportunity": "Gelegenheit anzeigen",
-        "view": "Aussicht"
+        "view": "Aussicht",
+        "applications-deadline": "Bewerbungsschluss"
     },
     "resource-management": {
         "open-profile": "Profil öffnen",
