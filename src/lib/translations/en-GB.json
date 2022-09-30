@@ -441,7 +441,7 @@
         "alphanumeric-tasks": "The name of this bpmn element contains an invalid character. Please rename this element to only contain alphanumeric characters, hyphens or round brackets",
         "connector-names": "Your workflow contains a connector name which is not alphanumeric",
         "invalid-roles": "Your diagram contains a role that does not exist on this environment",
-        "invalid-diagram-roles": "Your diagram contains roles that are not valid. If you wish to update this diagram, please confirm to remove all deleted roles",
+        "invalid-diagram-roles": "Your process contains roles that are not valid. If you wish to update this process, please confirm to remove all deleted roles",
         "invalid-role-tooltip": "Role [invalidRole] has been deleted",
         "invalid-process-roles": "Invalid process level roles: [processRoles]",
         "invalid-task-roles": "Invalid task level roles: [taskRoles]"
