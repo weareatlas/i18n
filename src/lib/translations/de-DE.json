@@ -992,6 +992,7 @@
         "contact-name": "Kontaktname",
         "contact-email": "Kontakt-E-Mailadresse",
         "company-name": "Name der Firma",
-        "document": "Dokumentieren"
+        "document": "Dokumentieren",
+        "contact": "Kontakt"
     }
 }

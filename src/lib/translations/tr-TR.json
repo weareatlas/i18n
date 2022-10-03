@@ -992,6 +992,7 @@
         "contact-name": "Kişi Adı",
         "contact-email": "İletişim E-Posta Adresi",
         "company-name": "Firma Adı",
-        "document": "Belge"
+        "document": "Belge",
+        "contact": "İletişim"
     }
 }
