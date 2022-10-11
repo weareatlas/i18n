@@ -994,5 +994,16 @@
         "company-name": "Nome della ditta",
         "document": "Documento",
         "contact": "Contatto"
+    },
+    "process-banner": {
+        "created": "Processo creato",
+        "aborted": "Processo interrotto",
+        "active": "Processo attivo",
+        "completed": "Processo completato",
+        "cancelled": "Processo annullato",
+        "paused": "Processo in pausa",
+        "task-complete": "Compito completato",
+        "error": "Errore di processo",
+        "tooltip": "I tag di contesto associati a un processo"
     }
 }

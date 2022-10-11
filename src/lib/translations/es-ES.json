@@ -994,5 +994,16 @@
         "company-name": "nombre de empresa",
         "document": "Documento",
         "contact": "Contacto"
+    },
+    "process-banner": {
+        "created": "Proceso creado",
+        "aborted": "Proceso abortado",
+        "active": "Proceso activo",
+        "completed": "Proceso completado",
+        "cancelled": "Proceso cancelado",
+        "paused": "Proceso en pausa",
+        "task-complete": "Tarea terminada",
+        "error": "error de proceso",
+        "tooltip": "Las etiquetas de contexto asociadas a un proceso"
     }
 }
