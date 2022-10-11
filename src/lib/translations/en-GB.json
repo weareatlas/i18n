@@ -994,5 +994,16 @@
         "company-name": "Company Name",
         "document": "Document",
         "contact": "Contact"
+    },
+    "process-banner": {
+        "created": "Created Process",
+        "aborted": "Aborted Process",
+        "active": "Active Process",
+        "completed": "Completed Process",
+        "cancelled": "Cancelled Process",
+        "paused": "Process Paused",
+        "task-complete": "Task Completed",
+        "error": "Process Error",
+        "tooltip": "The context tags associated to a process"
     }
 }

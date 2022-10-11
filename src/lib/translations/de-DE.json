@@ -994,5 +994,16 @@
         "company-name": "Name der Firma",
         "document": "Dokumentieren",
         "contact": "Kontakt"
+    },
+    "process-banner": {
+        "created": "Erstellter Prozess",
+        "aborted": "Abgebrochener Prozess",
+        "active": "Aktiv Prozess",
+        "completed": "Abgeschlossen Prozess",
+        "cancelled": "Abgesagt Prozess",
+        "paused": "Prozess Angehalten",
+        "task-complete": "Aufgabe erledigt",
+        "error": "Prozess Fehler",
+        "tooltip": "Die einem Prozess zugeordneten Kontext-Tags"
     }
 }

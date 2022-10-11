@@ -994,5 +994,16 @@
         "company-name": "Firma Adı",
         "document": "Belge",
         "contact": "İletişim"
+    },
+    "process-banner": {
+        "created": "Oluşturulan Süreç",
+        "aborted": "Durdurulan İşlem",
+        "active": "Aktif Süreç",
+        "completed": "Tamamlanan Süreç",
+        "cancelled": "İptal Edilen İşlem",
+        "paused": "İşlem Duraklatıldı",
+        "task-complete": "Görev tamamlandı",
+        "error": "İşlem Hatası",
+        "tooltip": "Bir süreçle ilişkili bağlam etiketleri"
     }
 }
