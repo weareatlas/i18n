@@ -1004,6 +1004,6 @@
         "paused": "Process Paused",
         "task-complete": "Task Completed",
         "error": "Process Error",
-        "tooltip": "The context tags associated to a process"
+        "tooltip": "All Process Tags"
     }
 }

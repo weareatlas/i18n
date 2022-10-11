@@ -1004,6 +1004,6 @@
         "paused": "İşlem Duraklatıldı",
         "task-complete": "Görev tamamlandı",
         "error": "İşlem Hatası",
-        "tooltip": "Bir süreçle ilişkili bağlam etiketleri"
+        "tooltip": "Tüm Süreç Etiketleri"
     }
 }
