@@ -1004,6 +1004,6 @@
         "paused": "Prozess Angehalten",
         "task-complete": "Aufgabe erledigt",
         "error": "Prozess Fehler",
-        "tooltip": "Die einem Prozess zugeordneten Kontext-Tags"
+        "tooltip": "Alle Prozessvariablen"
     }
 }

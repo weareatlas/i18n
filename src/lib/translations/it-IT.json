@@ -1004,6 +1004,6 @@
         "paused": "Processo in pausa",
         "task-complete": "Compito completato",
         "error": "Errore di processo",
-        "tooltip": "I tag di contesto associati a un processo"
+        "tooltip": "Tutti i tag di processo"
     }
 }
