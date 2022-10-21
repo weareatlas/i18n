@@ -852,6 +852,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "invalid-datastore-key":"Geçersiz Veri Deposu anahtarı",        
         "default-path": "Varsayılan yol",
         "default-path-expression": "İfade varsayılan yola ayarlanamıyor",
         "store-key-in-use":"Veri Deposu Anahtarı zaten kullanılıyor",
