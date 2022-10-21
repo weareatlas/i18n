@@ -852,6 +852,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "invalid-datastore-key":"Invalid Datastore key",
         "default-path": "Default Path",
         "default-path-expression": "Expression cannot be set to default path",
         "store-key-in-use":"Data Store Key is already being used",

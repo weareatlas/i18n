@@ -852,6 +852,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
+        "invalid-datastore-key":"Chiave dell'archivio dati non valida",        
         "default-path": "Percorso predefinito",
         "default-path-expression": "Non è possibile impostare l'espressione sul percorso predefinito",
         "store-key-in-use":"La chiave dell'archivio dati è già in uso",
