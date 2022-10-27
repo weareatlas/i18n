@@ -172,7 +172,19 @@
         "reset-password": "Reset your password",
         "reset-atlas-password": "Reset your Atlas password",
         "reset": "Reset",
-        "reset-password-link": "Enter the email you used to sign up and we will send you a link to reset your password."
+        "reset-password-link": "Enter the email you used to sign up and we will send you a link to reset your password.",
+        "your-email-address": "Your Email Address",
+        "workspace-name": "Workspace Name",
+        "your-atlas-workspace": "Your Atlas Workspace",
+        "tell-us-more": "Tell us more about you",
+        "more-details": "Give us a few more details so we can set up your workspace.",
+        "no-special-characters": "Workspace must not contain special characters and must be unique",
+        "company-name": "Company Name",
+        "company-id": "Company Id",
+        "setting-up-trial": "We're setting up your free trial",
+        "ready-in-moments.": "You'll be ready to go in a few moments.",
+        "loading": "Loading...",
+        "next": "Next"
     },
     "message": {
         "input-actions": "Input Actions",

@@ -172,7 +172,19 @@
         "reset-password": "Setze dein Passwort zurück",
         "reset-atlas-password": "Setzen Sie Ihr Atlas-Passwort zurück",
         "reset": "Zurücksetzen",
-        "reset-password-link": "Geben Sie die E-Mail-Adresse ein, mit der Sie sich registriert haben, und wir senden Ihnen einen Link zum Zurücksetzen Ihres Passworts."
+        "reset-password-link": "Geben Sie die E-Mail-Adresse ein, mit der Sie sich registriert haben, und wir senden Ihnen einen Link zum Zurücksetzen Ihres Passworts.",
+        "your-email-address": "Deine Emailadresse",
+        "workspace-name": "Name des Arbeitsbereichs",
+        "your-atlas-workspace": "Ihr Atlas-Arbeitsbereich",
+        "tell-us-more": "Erzähl uns mehr über dich",
+        "more-details": "Gib uns noch ein paar Details, damit wir deinen Arbeitsplatz einrichten können",
+        "no-special-characters": "Arbeitsbereich darf keine Sonderzeichen enthalten und muss eindeutig sein",
+        "company-name": "Name der Firma",
+        "company-id": "Firmen-ID",
+        "setting-up-trial": "Wir richten Ihre kostenlose Testversion ein",
+        "ready-in-moments.": "In wenigen Augenblicken sind Sie startklar.",
+        "loading": "Wird geladen...",
+        "next": "Nächste"
     },
     "message": {
         "input-actions": "Eingabe Aktionen",

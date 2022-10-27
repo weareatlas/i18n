@@ -172,7 +172,19 @@
         "reset-password": "şifrenizi sıfırlayın",
         "reset-atlas-password": "Atlas şifrenizi sıfırlayın",
         "reset": "Sıfırla",
-        "reset-password-link": "Kaydolmak için kullandığınız e-postayı girin, size şifrenizi sıfırlamanız için bir bağlantı göndereceğiz."
+        "reset-password-link": "Kaydolmak için kullandığınız e-postayı girin, size şifrenizi sıfırlamanız için bir bağlantı göndereceğiz.",
+        "your-email-address": "E-posta Adresiniz",
+        "workspace-name": "Çalışma Alanı Adı",
+        "your-atlas-workspace": "Atlas Çalışma Alanınız",
+        "tell-us-more": "Bize kendinden biraz daha bahset",
+        "more-details": "Çalışma alanınızı kurabilmemiz için bize birkaç ayrıntı daha verin.",
+        "no-special-characters": "Çalışma alanı özel karakterler içermemeli ve benzersiz olmalıdır",
+        "company-name": "Firma Adı",
+        "company-id": "Şirket Kimliği",
+        "setting-up-trial": "Ücretsiz denemenizi kuruyoruz",
+        "ready-in-moments.": "Birkaç dakika içinde gitmeye hazır olacaksınız.",
+        "loading": "Yükleniyor...",
+        "next": "sonraki"
     },
     "message": {
         "input-actions": "Girdi Eylemleri",
