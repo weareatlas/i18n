@@ -779,6 +779,8 @@
         "ad-hoc": "Sottoprocesso ad hoc"
     },
     "dashboard": {
+        "missing-datset-configuration":"Configurazione Datset mancante",
+        "update-config-message":"Si prega di aggiornare la configurazione per visualizzare i dati",        
         "all-dashboards": "Tutti i dashboard",
         "reference": "Riferimento dashboard",
         "roles": "Ruoli con accesso alla dashboard",
