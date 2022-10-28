@@ -45,7 +45,8 @@
         "update": "Güncelleme",
         "paste": "Yapıştırmak",
         "paste-validator": "Bu görevde zaten kullanılan bir Veri Deposu öğesi içerdiğinden bu bölümü yapıştıramazsınız.",
-        "clipboard-description": "[processName] işlemi içinde [taskName] öğesinden kopyalandı"
+        "clipboard-description": "[processName] işlemi içinde [taskName] öğesinden kopyalandı",
+        "view-object": "Nesne özelliklerini görüntüle"
     },
     "string-formats": {
         "date-time": "Tarih Saat",

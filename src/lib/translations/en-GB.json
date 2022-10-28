@@ -45,7 +45,8 @@
         "update": "Update",
         "paste": "Paste",
         "paste-validator": "You cannot paste this section as it contains a Data Store item that is already used on this task",
-        "clipboard-description": "Copied from [taskName] within process [processName]"
+        "clipboard-description": "Copied from [taskName] within process [processName]",
+        "view-object": "View object properties"
     },
     "string-formats": {
         "date-time": "Date Time",
