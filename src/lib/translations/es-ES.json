@@ -779,6 +779,7 @@
         "ad-hoc": "Subproceso ad-hoc"
     },
     "dashboard": {
+        "missing-chart-configuration":"Configuración de gráfico faltante",        
         "missing-datset-configuration":"Falta la configuración de Datset",
         "update-config-message":"Actualice la configuración para visualizar los datos",        
         "all-dashboards": "Todos los paneles",

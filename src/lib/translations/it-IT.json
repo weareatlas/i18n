@@ -779,6 +779,7 @@
         "ad-hoc": "Sottoprocesso ad hoc"
     },
     "dashboard": {
+        "missing-chart-configuration":"Configurazione del grafico mancante",        
         "missing-datset-configuration":"Configurazione Datset mancante",
         "update-config-message":"Si prega di aggiornare la configurazione per visualizzare i dati",        
         "all-dashboards": "Tutti i dashboard",

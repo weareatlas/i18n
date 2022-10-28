@@ -779,6 +779,7 @@
         "ad-hoc": "Ad-hoc Unterprozess"
     },
     "dashboard": {
+        "missing-chart-configuration":"Fehlende Diagrammkonfiguration",        
         "missing-datset-configuration":"Fehlende Dataset-Konfiguration",
         "update-config-message":"Bitte aktualisieren Sie die Konfiguration, um Daten anzuzeigen",        
         "all-dashboards": "Alle Dashboards",

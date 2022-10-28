@@ -779,6 +779,7 @@
         "ad-hoc": "Geçici Alt İşlem"
     },
     "dashboard": {
+        "missing-chart-configuration":"Eksik Grafik yapılandırması",        
         "missing-datset-configuration":"Eksik Veri Kümesi yapılandırması",
         "update-config-message":"Lütfen verileri görselleştirmek için yapılandırmayı güncelleyin",        
         "all-dashboards": "Tüm Gösterge Tablolar",
