@@ -779,6 +779,7 @@
         "ad-hoc": "Ad-hoc Sub Process"
     },
     "dashboard": {
+        "missing-chart-configuration":"Missing Chart configuration",
         "missing-datset-configuration":"Missing Datset configuration",
         "update-config-message":"Please update config to visualize data",
         "all-dashboards": "All Dashboards",
