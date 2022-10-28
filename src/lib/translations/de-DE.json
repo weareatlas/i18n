@@ -45,7 +45,8 @@
         "update": "Aktualisieren",
         "paste": "Paste",
         "paste-validator": "Sie können diesen Abschnitt nicht einfügen, da er ein Datenspeicherelement enthält, das bereits für diese Aufgabe verwendet wird",
-        "clipboard-description": "Kopiert von [taskName] innerhalb des Prozesses [processName]"
+        "clipboard-description": "Kopiert von [taskName] innerhalb des Prozesses [processName]",
+        "view-object": "Objekteigenschaften anzeigen"
     },
     "string-formats": {
         "date-time": "Terminzeit",

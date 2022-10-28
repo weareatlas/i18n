@@ -45,7 +45,8 @@
         "update": "Actualizar",
         "paste": "Pegar",
         "paste-validator": "No puede pegar esta sección porque contiene un elemento del Almacén de datos que ya se usa en esta tarea",
-        "clipboard-description": "Copiado de [taskName] dentro del proceso [processName]"
+        "clipboard-description": "Copiado de [taskName] dentro del proceso [processName]",
+        "view-object": "Ver propiedades del objeto"
     },
     "string-formats": {
         "date-time": "Fecha y hora",

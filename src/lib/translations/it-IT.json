@@ -45,7 +45,8 @@
         "update": "Aggiornare",
         "paste": "Incolla",
         "paste-validator": "Non è possibile incollare questa sezione poiché contiene un elemento Data Store già utilizzato in questa attività",
-        "clipboard-description": "Copiato da [taskName] all'interno del processo [processName]"
+        "clipboard-description": "Copiato da [taskName] all'interno del processo [processName]",
+        "view-object": "Visualizza le proprietà dell'oggetto"
     },
     "string-formats": {
         "date-time": "Appuntamento",
