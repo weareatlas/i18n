@@ -975,7 +975,9 @@
         "view-person": "Person anzeigen",
         "view-opportunity": "Gelegenheit anzeigen",
         "view": "Aussicht",
-        "applications-deadline": "Bewerbungsschluss"
+        "applications-deadline": "Bewerbungsschluss",
+        "applicant": "Antragstellerin",
+        "skills": "Fähigkeiten"
     },
     "resource-management": {
         "open-profile": "Profil öffnen",
