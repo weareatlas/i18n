@@ -1010,7 +1010,10 @@
         "contact-email": "İletişim E-Posta Adresi",
         "company-name": "Firma Adı",
         "document": "Belge",
-        "contact": "İletişim"
+        "contact": "İletişim",
+        "goal": "Hedef",
+        "documents-attached": "Belgeler ekte",
+        "liaison": "Şirket İrtibat"
     },
     "process-banner": {
         "created": "Oluşturulan Süreç",
