@@ -1010,7 +1010,10 @@
         "contact-email": "Kontakt-E-Mailadresse",
         "company-name": "Name der Firma",
         "document": "Dokumentieren",
-        "contact": "Kontakt"
+        "contact": "Kontakt",
+        "goal": "Tor",
+        "documents-attached": "Angefügte Dokumente",
+        "liaison": "Firmenverbindung"
     },
     "process-banner": {
         "created": "Erstellter Prozess",

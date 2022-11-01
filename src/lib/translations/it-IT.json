@@ -1010,7 +1010,10 @@
         "contact-email": "Indirizzo e-mail di contatto",
         "company-name": "Nome della ditta",
         "document": "Documento",
-        "contact": "Contatto"
+        "contact": "Contatto",
+        "goal": "Obiettivo",
+        "documents-attached": "Documenti allegati",
+        "liaison": "Collegamento con l'azienda"
     },
     "process-banner": {
         "created": "Processo creato",
