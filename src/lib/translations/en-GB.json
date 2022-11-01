@@ -975,7 +975,9 @@
         "view-person": "View Person",
         "view-opportunity": "View Opportunity",
         "view": "View",
-        "applications-deadline": "Applications Deadline"
+        "applications-deadline": "Applications Deadline",
+        "applicant": "Applicant",
+        "skills": "Skills"
     },
     "resource-management": {
         "open-profile": "Open Profile",

@@ -975,7 +975,9 @@
         "view-person": "Kişiyi Görüntüle",
         "view-opportunity": "Fırsatı Görüntüle",
         "view": "Görüntüle",
-        "applications-deadline": "Son Başvuru Tarihi"
+        "applications-deadline": "Son Başvuru Tarihi",
+        "applicant": "Başvuru sahibi",
+        "skills": "Yetenekler"
     },
     "resource-management": {
         "open-profile": "Profili Aç",
