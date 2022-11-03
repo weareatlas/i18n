@@ -1015,7 +1015,9 @@
         "contact": "Contact",
         "goal": "Goal",
         "documents-attached": "Documents Attached",
-        "liaison": "Company Liaison"
+        "liaison": "Company Liaison",
+        "view-full-list": "View Full List",
+        "add-filters": "Add Filters"
     },
     "process-banner": {
         "created": "Created Process",

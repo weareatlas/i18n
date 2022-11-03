@@ -1015,7 +1015,9 @@
         "contact": "Contatto",
         "goal": "Obiettivo",
         "documents-attached": "Documenti allegati",
-        "liaison": "Collegamento con l'azienda"
+        "liaison": "Collegamento con l'azienda",
+        "view-full-list": "Visualizza elenco completo",
+        "add-filters": "Aggiungi filtri"
     },
     "process-banner": {
         "created": "Processo creato",
