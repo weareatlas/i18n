@@ -1015,7 +1015,9 @@
         "contact": "İletişim",
         "goal": "Hedef",
         "documents-attached": "Belgeler ekte",
-        "liaison": "Şirket İrtibat"
+        "liaison": "Şirket İrtibat",
+        "view-full-list": "Tam Listeyi Görüntüle",
+        "add-filters": "Filtre Ekle"
     },
     "process-banner": {
         "created": "Oluşturulan Süreç",

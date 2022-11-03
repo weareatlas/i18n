@@ -1015,7 +1015,9 @@
         "contact": "Kontakt",
         "goal": "Tor",
         "documents-attached": "Angefügte Dokumente",
-        "liaison": "Firmenverbindung"
+        "liaison": "Firmenverbindung",
+        "view-full-list": "Vollständige Liste anzeigen",
+        "add-filters": "Filter hinzufügen"
     },
     "process-banner": {
         "created": "Erstellter Prozess",
