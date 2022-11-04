@@ -779,6 +779,7 @@
         "ad-hoc": "Subproceso ad-hoc"
     },
     "dashboard": {
+        "parsing-error":"No se puede representar el gráfico, error al analizar la respuesta del servidor",        
         "missing-chart-configuration":"Configuración de gráfico faltante",        
         "missing-datset-configuration":"Falta la configuración de Datset",
         "update-config-message":"Actualice la configuración para visualizar los datos",        
