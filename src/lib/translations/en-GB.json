@@ -699,7 +699,8 @@
         "dashboards": "Dashboards",
         "management-dashboard": "Management Dashboard",
         "resources-view": "Resources",
-        "marketplace-opportunities": "Marketplace & Opportunities"
+        "marketplace-opportunities": "Marketplace & Opportunities",
+        "applications": "Opportunity Applications"
     },
     "language": {
         "english": "English",
@@ -978,7 +979,8 @@
         "view": "View",
         "applications-deadline": "Applications Deadline",
         "applicant": "Applicant",
-        "skills": "Skills"
+        "skills": "Skills",
+        "top-skills": "Top Skills"
     },
     "resource-management": {
         "open-profile": "Open Profile",
@@ -1018,7 +1020,9 @@
         "documents-attached": "Documents Attached",
         "liaison": "Company Liaison",
         "view-full-list": "View Full List",
-        "add-filters": "Add Filters"
+        "add-filters": "Add Filters",
+        "contact-selected": "Contact Selected",
+        "compare-applicants": "Compare Applicants"
     },
     "process-banner": {
         "created": "Created Process",

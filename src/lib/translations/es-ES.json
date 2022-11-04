@@ -699,7 +699,8 @@
         "dashboards": "Tableros",
         "management-dashboard": "Administración Tablero",
         "resources-view": "Recursos",
-        "marketplace-opportunities": "Mercado y Oportunidades"
+        "marketplace-opportunities": "Mercado y Oportunidades",
+        "applications": "Solicitudes de oportunidad"
     },
     "language": {
         "english": "Inglés (English)",
@@ -978,7 +979,8 @@
         "view": "vista",
         "applications-deadline": "Plazo de solicitudes",
         "applicant": "Solicitante",
-        "skills": "Habilidades"
+        "skills": "Habilidades",
+        "top-skills": "Habilidades principales"
     },
     "resource-management": {
         "open-profile": "Abrir perfil",
@@ -1018,7 +1020,9 @@
         "documents-attached": "Documentos adjuntos",
         "liaison": "Enlace de la empresa",
         "view-full-list": "Ver lista completa",
-        "add-filters": "Agregar filtros"
+        "add-filters": "Agregar filtros",
+        "contact-selected": "Contacto seleccionado",
+        "compare-applicants": "Comparar solicitantes"
     },
     "process-banner": {
         "created": "Proceso creado",
