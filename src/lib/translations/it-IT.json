@@ -779,6 +779,7 @@
         "ad-hoc": "Sottoprocesso ad hoc"
     },
     "dashboard": {
+        "parsing-error":"Impossibile eseguire il rendering del grafico, errore di analisi della risposta dal server",        
         "missing-chart-configuration":"Configurazione del grafico mancante",        
         "missing-datset-configuration":"Configurazione Datset mancante",
         "update-config-message":"Si prega di aggiornare la configurazione per visualizzare i dati",        
