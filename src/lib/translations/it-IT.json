@@ -699,7 +699,8 @@
         "dashboards": "Cruscotti",
         "management-dashboard": "Cruscotto di gestione",
         "resources-view": "Risorse",
-        "marketplace-opportunities": "Mercato e opportunità"
+        "marketplace-opportunities": "Mercato e opportunità",
+        "applications": "Applicazioni di opportunità"
     },
     "language": {
         "english": "Inglese (English)",
@@ -978,7 +979,8 @@
         "view": "Visualizzazione",
         "applications-deadline": "Scadenza domande",
         "applicant": "Richiedente",
-        "skills": "Abilità"
+        "skills": "Abilità",
+        "top-skills": "Competenze superiori"
     },
     "resource-management": {
         "open-profile": "Apri il profilo",
@@ -1018,7 +1020,9 @@
         "documents-attached": "Documenti allegati",
         "liaison": "Collegamento con l'azienda",
         "view-full-list": "Visualizza elenco completo",
-        "add-filters": "Aggiungi filtri"
+        "add-filters": "Aggiungi filtri",
+        "contact-selected": "Contatto selezionato",
+        "compare-applicants": "Confronta i candidati"
     },
     "process-banner": {
         "created": "Processo creato",

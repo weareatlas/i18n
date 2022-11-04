@@ -699,7 +699,8 @@
         "dashboards": "Dashboards",
         "management-dashboard": "Management-Armaturenbrett",
         "resources-view": "Ressourcen",
-        "marketplace-opportunities": "Marktplatz & Möglichkeiten"
+        "marketplace-opportunities": "Marktplatz & Möglichkeiten",
+        "applications": "Anwendungen"
     },
     "language": {
         "english": "Englisch (English)",
@@ -978,7 +979,8 @@
         "view": "Aussicht",
         "applications-deadline": "Bewerbungsschluss",
         "applicant": "Antragstellerin",
-        "skills": "Fähigkeiten"
+        "skills": "Fähigkeiten",
+        "top-skills": "Top-Fähigkeiten"
     },
     "resource-management": {
         "open-profile": "Profil öffnen",
@@ -1018,7 +1020,9 @@
         "documents-attached": "Angefügte Dokumente",
         "liaison": "Firmenverbindung",
         "view-full-list": "Vollständige Liste anzeigen",
-        "add-filters": "Filter hinzufügen"
+        "add-filters": "Filter hinzufügen",
+        "contact-selected": "Kontakt ausgewählt",
+        "compare-applicants": "Bewerber vergleichen"
     },
     "process-banner": {
         "created": "Erstellter Prozess",

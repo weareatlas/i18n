@@ -699,7 +699,8 @@
         "dashboards": "Panolar",
         "management-dashboard": "Yönetim Panosu",
         "resources-view": "Kaynaklar",
-        "marketplace-opportunities": "Pazar Yeri ve Fırsatlar"
+        "marketplace-opportunities": "Pazar Yeri ve Fırsatlar",
+        "applications": "Fırsat Uygulamaları"
     },
     "language": {
         "english": "İngilizce",
@@ -978,7 +979,8 @@
         "view": "Görüntüle",
         "applications-deadline": "Son Başvuru Tarihi",
         "applicant": "Başvuru sahibi",
-        "skills": "Yetenekler"
+        "skills": "Yetenekler",
+        "top-skills": "En İyi Beceriler"
     },
     "resource-management": {
         "open-profile": "Profili Aç",
@@ -1018,7 +1020,9 @@
         "documents-attached": "Belgeler ekte",
         "liaison": "Şirket İrtibat",
         "view-full-list": "Tam Listeyi Görüntüle",
-        "add-filters": "Filtre Ekle"
+        "add-filters": "Filtre Ekle",
+        "contact-selected": "Kişi Seçildi",
+        "compare-applicants": "Başvuru Sahiplerini Karşılaştırın"
     },
     "process-banner": {
         "created": "Oluşturulan Süreç",
