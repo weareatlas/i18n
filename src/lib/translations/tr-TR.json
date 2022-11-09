@@ -1022,7 +1022,12 @@
         "view-full-list": "Tam Listeyi Görüntüle",
         "add-filters": "Filtre Ekle",
         "contact-selected": "Kişi Seçildi",
-        "compare-applicants": "Başvuru Sahiplerini Karşılaştırın"
+        "compare-applicants": "Başvuru Sahiplerini Karşılaştırın",
+        "application-details": "Başvuru Detayları",
+        "daily-rate": "Günlük oran",
+        "availability": "kullanılabilirlik",
+        "profile-overview": "Profile genel bakış",
+        "reviews": "İncelemeler"
     },
     "process-banner": {
         "created": "Oluşturulan Süreç",

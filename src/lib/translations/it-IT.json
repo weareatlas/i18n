@@ -1022,7 +1022,12 @@
         "view-full-list": "Visualizza elenco completo",
         "add-filters": "Aggiungi filtri",
         "contact-selected": "Contatto selezionato",
-        "compare-applicants": "Confronta i candidati"
+        "compare-applicants": "Confronta i candidati",
+        "application-details": "Dettagli dell'applicazione",
+        "daily-rate": "Tariffa giornaliera",
+        "availability": "Disponibilità",
+        "profile-overview": "Panoramica del profilo",
+        "reviews": "Recensioni"
     },
     "process-banner": {
         "created": "Processo creato",
