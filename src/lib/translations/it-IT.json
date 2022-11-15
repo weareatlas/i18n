@@ -1029,6 +1029,27 @@
         "profile-overview": "Panoramica del profilo",
         "reviews": "Recensioni"
     },
+    "opportunity-management": {
+        "submission": "Sottomissione",
+        "company": "Azienda",
+        "solver": "Risolutore",
+        "person": "Persona",
+        "application": "Applicazione",
+        "submission-type": "Tipo di presentazione",
+        "solver-name": "Nome del Risolutore",
+        "solver-email": "Email di contatto del risolutore",
+        "bidding-document": "Documento di gara",
+        "key-skills": "Competenze chiave",
+        "company-details": "Dettagli della Compagnia",
+        "liaison": "Collegamento",
+        "head-country": "Paese della sede centrale",
+        "head-city": "Sede Ufficio Città",
+        "profile-type": "Tipo di profilo",
+        "company-role": "Ruolo aziendale",
+        "city-location": "Posizione della città",
+        "contact-solver": "Contatta Risolutore",
+        "contact-company": "Contatta l'azienda"
+    },
     "process-banner": {
         "created": "Processo creato",
         "aborted": "Processo interrotto",
