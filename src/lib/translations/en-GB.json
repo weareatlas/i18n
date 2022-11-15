@@ -1029,6 +1029,27 @@
         "profile-overview": "Profile Overview",
         "reviews": "Reviews"
     },
+    "opportunity-management": {
+        "submission": "Submission",
+        "company": "Company",
+        "solver": "Solver",
+        "person": "Person",
+        "application": "Application",
+        "submission-type": "Submission Type",
+        "solver-name": "Solver Name",
+        "solver-email": "Solver Contact Email",
+        "bidding-document": "Bidding Document",
+        "key-skills": "Key Skills",
+        "company-details": "Company Details",
+        "liaison": "Liaison",
+        "head-country": "Headquarter Office Country",
+        "head-city": "Headquarter Office City",
+        "profile-type": "Profile Type",
+        "company-role": "Company Role",
+        "city-location": "City Location",
+        "contact-solver": "Contact Solver",
+        "contact-company": "Contact Company"
+    },
     "process-banner": {
         "created": "Created Process",
         "aborted": "Aborted Process",

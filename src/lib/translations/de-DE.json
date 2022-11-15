@@ -1029,6 +1029,27 @@
         "profile-overview": "Profilübersicht",
         "reviews": "Bewertungen"
     },
+    "opportunity-management": {
+        "submission": "Vorlage",
+        "company": "Gesellschaft",
+        "solver": "Löser",
+        "person": "Person",
+        "application": "Anwendung",
+        "submission-type": "Einreichungstyp",
+        "solver-name": "Solver-Name",
+        "solver-email": "Solver-Kontakt-E-Mail",
+        "bidding-document": "Angebotsdokument",
+        "key-skills": "Schlüsselfertigkeiten",
+        "company-details": "Firmendetails",
+        "liaison": "Liaison",
+        "head-country": "Land des Hauptsitzes",
+        "head-city": "Hauptsitz Bürostadt",
+        "profile-type": "Profiltyp",
+        "company-role": "Unternehmensrolle",
+        "city-location": "Ort der Stadt",
+        "contact-solver": "Solver kontaktieren",
+        "contact-company": "Unternehmen kontaktieren"
+    },
     "process-banner": {
         "created": "Erstellter Prozess",
         "aborted": "Abgebrochener Prozess",
