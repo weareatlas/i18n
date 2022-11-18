@@ -1048,7 +1048,15 @@
         "company-role": "Rol de la empresa",
         "city-location": "Ubicación de la ciudad",
         "contact-solver": "Solucionador de contacto",
-        "contact-company": "Empresa de contacto"
+        "contact-company": "Empresa de contacto",
+        "search-by-company-name": "Buscar por nombre de empresa",
+        "search-by-name": "Buscar por nombre",
+        "search-by-solver-name": "Buscar por nombre del solucionador",
+        "applications": "Aplicaciones",
+        "applications-deadline": "Plazo de solicitudes",
+        "applicant-name": "Nombre del solicitante",
+        "company-name": "nombre de empresa",
+        "filter-by": "Filtrado por:"
     },
     "process-banner": {
         "created": "Proceso creado",

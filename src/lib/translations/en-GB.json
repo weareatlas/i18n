@@ -1048,7 +1048,15 @@
         "company-role": "Company Role",
         "city-location": "City Location",
         "contact-solver": "Contact Solver",
-        "contact-company": "Contact Company"
+        "contact-company": "Contact Company",
+        "search-by-company-name": "Search by Company Name",
+        "search-by-name": "Search by name",
+        "search-by-solver-name": "Search by solver name",
+        "applications": "Applications",
+        "applications-deadline": "Applications Deadline",
+        "applicant-name": "Applicant Name",
+        "company-name": "Company Name",
+        "filter-by": "Filter by:"
     },
     "process-banner": {
         "created": "Created Process",
