@@ -1048,7 +1048,15 @@
         "company-role": "Şirket Rolü",
         "city-location": "Şehir Konumu",
         "contact-solver": "İletişim Çözücü",
-        "contact-company": "Şirketle İletişime Geçin"
+        "contact-company": "Şirketle İletişime Geçin",
+        "search-by-company-name": "Şirket Adına Göre Ara",
+        "search-by-name": "Ada göre ara",
+        "search-by-solver-name": "Çözücü adına göre ara",
+        "applications": "Uygulamalar",
+        "applications-deadline": "Son başvuru tarihi",
+        "applicant-name": "Başvuranın ismi",
+        "company-name": "Firma Adı",
+        "filter-by": "Tarafından filtre:"
     },
     "process-banner": {
         "created": "Oluşturulan Süreç",
