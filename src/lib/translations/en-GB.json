@@ -700,7 +700,8 @@
         "management-dashboard": "Management Dashboard",
         "resources-view": "Resources",
         "marketplace-opportunities": "Marketplace & Opportunities",
-        "applications": "Opportunity Applications"
+        "applications": "Opportunity Applications",
+        "task-side-panel": "Task Side Panel"
     },
     "language": {
         "english": "English",

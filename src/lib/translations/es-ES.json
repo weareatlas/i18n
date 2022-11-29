@@ -700,7 +700,8 @@
         "management-dashboard": "Administración Tablero",
         "resources-view": "Recursos",
         "marketplace-opportunities": "Mercado y Oportunidades",
-        "applications": "Solicitudes de oportunidad"
+        "applications": "Solicitudes de oportunidad",
+        "task-side-panel": "Panel lateral de tareas"
     },
     "language": {
         "english": "Inglés (English)",
