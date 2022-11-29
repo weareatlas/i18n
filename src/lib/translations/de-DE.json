@@ -700,7 +700,8 @@
         "management-dashboard": "Management-Armaturenbrett",
         "resources-view": "Ressourcen",
         "marketplace-opportunities": "Marktplatz & Möglichkeiten",
-        "applications": "Anwendungen"
+        "applications": "Anwendungen",
+        "task-side-panel": "Task-Seitenbereich"
     },
     "language": {
         "english": "Englisch (English)",
