@@ -673,6 +673,7 @@
         "dashboard": "Dashboard",
         "users": "Utenti",
         "roles": "Ruoli",
+        "global-roles": "Ruoli Globali",
         "users-search": "Ricerca utenti",
         "payment": "Pagamento",
         "key-builder": "Key builder",
