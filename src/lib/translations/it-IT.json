@@ -1029,7 +1029,10 @@
         "daily-rate": "Tariffa giornaliera",
         "availability": "Disponibilità",
         "profile-overview": "Panoramica del profilo",
-        "reviews": "Recensioni"
+        "reviews": "Recensioni",
+        "retrieve-error": "Si è verificato un errore durante il recupero di questo [type]",
+        "null-items-primary": "In questo [type] mancano i seguenti elementi",
+        "null-items-secondary": "Modifica il tuo [type] di conseguenza"
     },
     "opportunity-management": {
         "submission": "Sottomissione",
