@@ -872,7 +872,7 @@
         "archive-content": "Lorem ipsum placeholder"
     },
     "field-editors": {
-        "invalid-datastore-key":"Ungültiger Datenspeicherschlüssel",        
+        "invalid-datastore-key":"Datenspeicherelement kann nicht gefunden werden",        
         "default-path": "Standardpfad",
         "default-path-expression": "Ausdruck kann nicht auf Standardpfad gesetzt werden",
         "store-key-in-use":"Data Store Key wird bereits verwendet",
