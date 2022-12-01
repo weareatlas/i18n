@@ -1029,7 +1029,10 @@
         "daily-rate": "Tagesrate",
         "availability": "Verfügbarkeit",
         "profile-overview": "Profilübersicht",
-        "reviews": "Bewertungen"
+        "reviews": "Bewertungen",
+        "retrieve-error": "Beim Abrufen dieses [type] ist ein Fehler aufgetreten",
+        "null-items-primary": "Diesem [type] fehlen die folgenden Gegenstände",
+        "null-items-secondary": "Bitte bearbeiten Sie Ihren [type] entsprechend"
     },
     "opportunity-management": {
         "submission": "Vorlage",

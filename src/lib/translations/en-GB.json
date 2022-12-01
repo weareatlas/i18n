@@ -1029,7 +1029,10 @@
         "daily-rate": "Daily Rate",
         "availability": "Availability",
         "profile-overview": "Profile Overview",
-        "reviews": "Reviews"
+        "reviews": "Reviews",
+        "retrieve-error": "There has been an error when retrieving this [type]",
+        "null-items-primary": "This [type] is missing the following items",
+        "null-items-secondary": "Please edit your [type] accordingly"
     },
     "opportunity-management": {
         "submission": "Submission",

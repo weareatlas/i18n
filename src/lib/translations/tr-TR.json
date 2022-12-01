@@ -1029,7 +1029,10 @@
         "daily-rate": "Günlük oran",
         "availability": "kullanılabilirlik",
         "profile-overview": "Profile genel bakış",
-        "reviews": "İncelemeler"
+        "reviews": "İncelemeler",
+        "retrieve-error": "Bu [type] alınırken bir hata oluştu",
+        "null-items-primary": "Bu [type]'de aşağıdaki öğeler eksik",
+        "null-items-secondary": "Lütfen [type] uygun şekilde düzenleyin"
     },
     "opportunity-management": {
         "submission": "Gönderme",

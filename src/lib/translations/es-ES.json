@@ -1029,7 +1029,10 @@
         "daily-rate": "Tarifa diaria",
         "availability": "Disponibilidad",
         "profile-overview": "Información general del perfil",
-        "reviews": "Reseñas"
+        "reviews": "Reseñas",
+        "retrieve-error": "Ha habido un error al recuperar este [type]",
+        "null-items-primary": "A este [type] le faltan los siguientes elementos",
+        "null-items-secondary": "Edite su [type] en consecuencia"
     },
     "opportunity-management": {
         "submission": "Envío",
