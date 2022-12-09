@@ -702,7 +702,8 @@
         "resources-view": "Risorse",
         "marketplace-opportunities": "Mercato e opportunità",
         "applications": "Applicazioni di opportunità",
-        "task-side-panel": "Pannello laterale attività"
+        "task-side-panel": "Pannello laterale attività",
+        "resource-entity-triggers": "Trigger di entità risorsa, opportunità e mercato"
     },
     "language": {
         "english": "Inglese (English)",
@@ -982,7 +983,8 @@
         "applications-deadline": "Scadenza domande",
         "applicant": "Richiedente",
         "skills": "Abilità",
-        "top-skills": "Competenze superiori"
+        "top-skills": "Competenze superiori",
+        "apply-to-opportunity": "Applica all'opportunità"
     },
     "resource-management": {
         "open-profile": "Apri il profilo",
@@ -1032,7 +1034,9 @@
         "reviews": "Recensioni",
         "retrieve-error": "Si è verificato un errore durante il recupero di questo [type]",
         "null-items-primary": "In questo [type] mancano i seguenti elementi",
-        "null-items-secondary": "Modifica il tuo [type] di conseguenza"
+        "null-items-secondary": "Modifica il tuo [type] di conseguenza",
+        "edit-resource": "Modifica risorsa",
+        "add-new": "Aggiungere nuova"
     },
     "opportunity-management": {
         "submission": "Sottomissione",
@@ -1062,7 +1066,8 @@
         "applications-deadline": "Scadenza delle domande",
         "applicant-name": "Nome del richiedente",
         "company-name": "Nome della ditta",
-        "filter-by": "Filtra per:"
+        "filter-by": "Filtra per:",
+        "edit-opportunity": "Modifica opportunità"
     },
     "process-banner": {
         "created": "Processo creato",
