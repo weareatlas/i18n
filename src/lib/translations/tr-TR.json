@@ -702,7 +702,8 @@
         "resources-view": "Kaynaklar",
         "marketplace-opportunities": "Pazar Yeri ve Fırsatlar",
         "applications": "Fırsat Uygulamaları",
-        "task-side-panel": "Görev Yan Paneli"
+        "task-side-panel": "Görev Yan Paneli",
+        "resource-entity-triggers": "Kaynak, Fırsat ve Pazar varlık tetikleyicileri"
     },
     "language": {
         "english": "İngilizce",
@@ -982,7 +983,8 @@
         "applications-deadline": "Son Başvuru Tarihi",
         "applicant": "Başvuru sahibi",
         "skills": "Yetenekler",
-        "top-skills": "En İyi Beceriler"
+        "top-skills": "En İyi Beceriler",
+        "apply-to-opportunity": "Fırsata Uygula"
     },
     "resource-management": {
         "open-profile": "Profili Aç",
@@ -1032,7 +1034,9 @@
         "reviews": "İncelemeler",
         "retrieve-error": "Bu [type] alınırken bir hata oluştu",
         "null-items-primary": "Bu [type]'de aşağıdaki öğeler eksik",
-        "null-items-secondary": "Lütfen [type] uygun şekilde düzenleyin"
+        "null-items-secondary": "Lütfen [type] uygun şekilde düzenleyin",
+        "edit-resource": "Kaynağı Düzenle",
+        "add-new": "Yeni ekle"
     },
     "opportunity-management": {
         "submission": "Gönderme",
@@ -1062,7 +1066,8 @@
         "applications-deadline": "Son başvuru tarihi",
         "applicant-name": "Başvuranın ismi",
         "company-name": "Firma Adı",
-        "filter-by": "Tarafından filtre:"
+        "filter-by": "Tarafından filtre:",
+        "edit-opportunity": "Fırsatı Düzenle"
     },
     "process-banner": {
         "created": "Oluşturulan Süreç",

@@ -702,7 +702,8 @@
         "resources-view": "Ressourcen",
         "marketplace-opportunities": "Marktplatz & Möglichkeiten",
         "applications": "Anwendungen",
-        "task-side-panel": "Task-Seitenbereich"
+        "task-side-panel": "Task-Seitenbereich",
+        "resource-entity-triggers": "Ressourcen-, Opportunity- und Marketplace-Entitätsauslöser"
     },
     "language": {
         "english": "Englisch (English)",
@@ -982,7 +983,8 @@
         "applications-deadline": "Bewerbungsschluss",
         "applicant": "Antragstellerin",
         "skills": "Fähigkeiten",
-        "top-skills": "Top-Fähigkeiten"
+        "top-skills": "Top-Fähigkeiten",
+        "apply-to-opportunity": "Bewerben Sie sich für die Gelegenheit"
     },
     "resource-management": {
         "open-profile": "Profil öffnen",
@@ -1032,7 +1034,9 @@
         "reviews": "Bewertungen",
         "retrieve-error": "Beim Abrufen dieses [type] ist ein Fehler aufgetreten",
         "null-items-primary": "Diesem [type] fehlen die folgenden Gegenstände",
-        "null-items-secondary": "Bitte bearbeiten Sie Ihren [type] entsprechend"
+        "null-items-secondary": "Bitte bearbeiten Sie Ihren [type] entsprechend",
+        "edit-resource": "Ressource bearbeiten",
+        "add-new": "Neue hinzufügen"
     },
     "opportunity-management": {
         "submission": "Vorlage",
@@ -1062,7 +1066,8 @@
         "applications-deadline": "Bewerbungsschluss",
         "applicant-name": "Name des Bewerbers",
         "company-name": "Name der Firma",
-        "filter-by": "Filtern nach:"
+        "filter-by": "Filtern nach:",
+        "edit-opportunity": "Gelegenheit bearbeiten"
     },
     "process-banner": {
         "created": "Erstellter Prozess",

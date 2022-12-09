@@ -702,7 +702,8 @@
         "resources-view": "Resources",
         "marketplace-opportunities": "Marketplace & Opportunities",
         "applications": "Opportunity Applications",
-        "task-side-panel": "Task Side Panel"
+        "task-side-panel": "Task Side Panel",
+        "resource-entity-triggers": "Resource, Opportunity & Marketplace entity triggers"
     },
     "language": {
         "english": "English",
@@ -982,7 +983,8 @@
         "applications-deadline": "Applications Deadline",
         "applicant": "Applicant",
         "skills": "Skills",
-        "top-skills": "Top Skills"
+        "top-skills": "Top Skills",
+        "apply-to-opportunity": "Apply To Opportunity"
     },
     "resource-management": {
         "open-profile": "Open Profile",
@@ -1032,7 +1034,9 @@
         "reviews": "Reviews",
         "retrieve-error": "There has been an error when retrieving this [type]",
         "null-items-primary": "This [type] is missing the following items",
-        "null-items-secondary": "Please edit your [type] accordingly"
+        "null-items-secondary": "Please edit your [type] accordingly",
+        "edit-resource": "Edit Resource",
+        "add-new": "Add New"
     },
     "opportunity-management": {
         "submission": "Submission",
@@ -1062,7 +1066,8 @@
         "applications-deadline": "Applications Deadline",
         "applicant-name": "Applicant Name",
         "company-name": "Company Name",
-        "filter-by": "Filter by:"
+        "filter-by": "Filter by:",
+        "edit-opportunity": "Edit Opportunity"
     },
     "process-banner": {
         "created": "Created Process",

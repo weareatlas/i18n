@@ -702,7 +702,8 @@
         "resources-view": "Recursos",
         "marketplace-opportunities": "Mercado y Oportunidades",
         "applications": "Solicitudes de oportunidad",
-        "task-side-panel": "Panel lateral de tareas"
+        "task-side-panel": "Panel lateral de tareas",
+        "resource-entity-triggers": "Disparadores de entidades de recursos, oportunidades y Marketplace"
     },
     "language": {
         "english": "Inglés (English)",
@@ -982,7 +983,8 @@
         "applications-deadline": "Plazo de solicitudes",
         "applicant": "Solicitante",
         "skills": "Habilidades",
-        "top-skills": "Habilidades principales"
+        "top-skills": "Habilidades principales",
+        "apply-to-opportunity": "Aplicar a la oportunidad"
     },
     "resource-management": {
         "open-profile": "Abrir perfil",
@@ -1032,7 +1034,9 @@
         "reviews": "Reseñas",
         "retrieve-error": "Ha habido un error al recuperar este [type]",
         "null-items-primary": "A este [type] le faltan los siguientes elementos",
-        "null-items-secondary": "Edite su [type] en consecuencia"
+        "null-items-secondary": "Edite su [type] en consecuencia",
+        "edit-resource": "Editar recurso",
+        "add-new": "Agregar nuevo"
     },
     "opportunity-management": {
         "submission": "Envío",
@@ -1062,7 +1066,8 @@
         "applications-deadline": "Plazo de solicitudes",
         "applicant-name": "Nombre del solicitante",
         "company-name": "nombre de empresa",
-        "filter-by": "Filtrado por:"
+        "filter-by": "Filtrado por:",
+        "edit-opportunity": "Editar oportunidad"
     },
     "process-banner": {
         "created": "Proceso creado",
