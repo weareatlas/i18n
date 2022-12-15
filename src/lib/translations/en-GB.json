@@ -672,7 +672,7 @@
         "catalog": "Catalog",
         "dashboard": "Dashboard",
         "users": "Users",
-        "roles": "Roles",        
+        "roles": "Roles",
         "global-roles": "Global Roles",
         "users-search": "Users Search",
         "payment": "Payment",
@@ -997,6 +997,11 @@
         "workflow-management": "Workflow",
         "resource-management": "Resource",
         "company-details": "Company Details",
+        "equipment-details": "Equipment Details",
+        "location-details": "Location Details",
+        "material-details": "Material Details",
+        "person-details": "Person Details",
+        "tool-details": "Tool Details",
         "profile-details": "Profile Details",
         "headquarters-country": "Headquarter Office Country",
         "headquarters-city": "Headquarter Office City",
@@ -1036,7 +1041,8 @@
         "null-items-primary": "This [type] is missing the following items",
         "null-items-secondary": "Please edit your [type] accordingly",
         "edit-resource": "Edit Resource",
-        "add-new": "Add New"
+        "add-new": "Add New",
+        "tags": "Tags"
     },
     "opportunity-management": {
         "submission": "Submission",

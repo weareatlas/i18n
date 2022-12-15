@@ -997,6 +997,11 @@
         "workflow-management": "Arbeitsablauf",
         "resource-management": "Ressource",
         "company-details": "Firmendetails",
+        "equipment-details": "Ausstattungsdetails",
+        "location-details": "Standortdetails",
+        "material-details": "Materialdetails",
+        "person-details": "Personendetails",
+        "tool-details": "Werkzeugdetails",
         "profile-details": "Profildetails",
         "headquarters-country": "Land des Hauptsitzes",
         "headquarters-city": "Hauptsitz Bürostadt",
@@ -1036,7 +1041,8 @@
         "null-items-primary": "Diesem [type] fehlen die folgenden Gegenstände",
         "null-items-secondary": "Bitte bearbeiten Sie Ihren [type] entsprechend",
         "edit-resource": "Ressource bearbeiten",
-        "add-new": "Neue hinzufügen"
+        "add-new": "Neue hinzufügen",
+        "tags": "Stichworte"
     },
     "opportunity-management": {
         "submission": "Vorlage",
