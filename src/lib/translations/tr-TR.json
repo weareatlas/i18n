@@ -997,6 +997,11 @@
         "workflow-management": "İş akışı",
         "resource-management": "Kaynak",
         "company-details": "Şirket Detayları",
+        "equipment-details": "Ekipman Detayları",
+        "location-details": "Konum Ayrıntıları",
+        "material-details": "Malzeme Detayları",
+        "person-details": "Kişi Ayrıntıları",
+        "tool-details": "Araç Ayrıntıları",
         "profile-details": "profil detayları",
         "headquarters-country": "Merkez Ofis Ülke",
         "headquarters-city": "Merkez Ofis Şehir",
@@ -1036,7 +1041,8 @@
         "null-items-primary": "Bu [type]'de aşağıdaki öğeler eksik",
         "null-items-secondary": "Lütfen [type] uygun şekilde düzenleyin",
         "edit-resource": "Kaynağı Düzenle",
-        "add-new": "Yeni ekle"
+        "add-new": "Yeni ekle",
+        "tags": "Etiketler"
     },
     "opportunity-management": {
         "submission": "Gönderme",

@@ -997,6 +997,11 @@
         "workflow-management": "Flujo de trabajo",
         "resource-management": "Recurso",
         "company-details": "Detalles de la compañía",
+        "equipment-details": "Detalles del equipo",
+        "location-details": "Detalles de ubicación",
+        "material-details": "Detalles de materiales",
+        "person-details": "Detalles de la persona",
+        "tool-details": "Detalles de la herramienta",
         "profile-details": "detalles del perfil",
         "headquarters-country": "Sede Oficina País",
         "headquarters-city": "Ciudad de la oficina central",
@@ -1036,7 +1041,8 @@
         "null-items-primary": "A este [type] le faltan los siguientes elementos",
         "null-items-secondary": "Edite su [type] en consecuencia",
         "edit-resource": "Editar recurso",
-        "add-new": "Agregar nuevo"
+        "add-new": "Agregar nuevo",
+        "tags": "Etiquetas"
     },
     "opportunity-management": {
         "submission": "Envío",
