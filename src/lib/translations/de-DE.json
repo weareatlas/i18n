@@ -950,6 +950,7 @@
         "invite-external-role-tooltip": "Aufgabe einer Datenspeicherrolle zuweisen, es können nur Elemente vom Typ Zeichenfolge und Formattext ausgewählt werden."
     },
     "marketplace": {
+        "introduction": "Menschen verbinden, um Fertigungsprobleme zu lösen \n Menschen sind der eigentliche Schlüssel zur digitalen Transformation. Seien Sie einer dieser Menschen.",
         "no-resource": "Wir haben überall gesucht, aber... \n Wir haben nicht gefunden, wonach Sie suchen :-(",
         "selected-filters": "Ausgewählte Filter",
         "try": "Du kannst es versuchen",

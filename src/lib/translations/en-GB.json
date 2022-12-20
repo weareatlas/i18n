@@ -950,6 +950,7 @@
         "invite-external-role-tooltip": "Assign task to a Data Store role,only items of type string and format text can be selected."
     },
     "marketplace": {
+        "introduction": "Connecting people to solve manufacturing problems \n People are the real key to digital transformation. Be one of those people.",
         "no-resource": "We have searched all over but... \n we haven't found what you are looking for :-(",
         "selected-filters": "Selected filters",
         "try": "You can try",

@@ -950,6 +950,7 @@
         "invite-external-role-tooltip": "Asigne una tarea a un rol de Almacén de datos, solo se pueden seleccionar elementos de tipo cadena y formato de texto."
     },
     "marketplace": {
+        "introduction": "Conectando personas para resolver problemas de fabricación \n Las personas son la verdadera clave de la transformación digital. Sea una de esas personas.",
         "no-resource": "Hemos buscado por todos lados pero... \n no hemos encontrado lo que buscas :-(",
         "selected-filters": "Filtros seleccionados",
         "try": "Puedes probar",

@@ -950,6 +950,7 @@
         "invite-external-role-tooltip": "Assegna attività a un ruolo Data Store, è possibile selezionare solo elementi di tipo stringa e testo in formato."
     },
     "marketplace": {
+        "introduction": "Connettere le persone per risolvere i problemi di produzione \n Le persone sono la vera chiave della trasformazione digitale. Sii una di quelle persone.",
         "no-resource": "Abbiamo cercato dappertutto ma... \n non abbiamo trovato quello che stai cercando :-(",
         "selected-filters": "Filtri selezionati",
         "try": "Puoi provare",
