@@ -457,7 +457,8 @@
         "invalid-diagram-roles": "Ihr Prozess enthält ungültige Rollen. Wenn Sie diesen Prozess aktualisieren möchten, bestätigen Sie bitte, dass alle gelöschten Rollen entfernt werden",
         "invalid-role-tooltip": "Rolle [invalidRole] wurde gelöscht",
         "invalid-process-roles": "Ungültige Rollen auf Prozessebene: [processRoles]",
-        "invalid-task-roles": "Ungültige Rollen auf Aufgabenebene: [taskRoles]"
+        "invalid-task-roles": "Ungültige Rollen auf Aufgabenebene: [taskRoles]",
+        "explore-features": "Entdecken Sie Funktionen"
     },
     "links": {
         "contact-us": "Kontaktiere uns",

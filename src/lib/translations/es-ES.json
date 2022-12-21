@@ -457,7 +457,8 @@
         "invalid-diagram-roles": "Su proceso contiene roles que no son válidos. Si desea actualizar este proceso, confirme para eliminar todas las funciones eliminadas",
         "invalid-role-tooltip": "El rol [invalidRole] ha sido eliminado",
         "invalid-process-roles": "Roles de nivel de proceso no válidos: [processRoles]",
-        "invalid-task-roles": "Roles de nivel de tarea no válidos: [taskRoles]"
+        "invalid-task-roles": "Roles de nivel de tarea no válidos: [taskRoles]",
+        "explore-features": "Explorar características"
     },
     "links": {
         "contact-us": "Contáctenos",
