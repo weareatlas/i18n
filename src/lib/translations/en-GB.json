@@ -1077,9 +1077,7 @@
         "applicant-name": "Applicant Name",
         "company-name": "Company Name",
         "filter-by": "Filter by:",
-        "edit-opportunity": "Edit Opportunity",
-        "my-submissions": "My Submissions",
-        "my-opportunities": "My Opportunities"
+        "edit-opportunity": "Edit Opportunity"
     },
     "process-banner": {
         "created": "Created Process",
