@@ -986,7 +986,9 @@
         "applicant": "Applicant",
         "skills": "Skills",
         "top-skills": "Top Skills",
-        "apply-to-opportunity": "Apply To Opportunity"
+        "apply-to-opportunity": "Apply To Opportunity",
+        "my-submissions": "My Submissions",
+        "my-opportunities": "My Opportunities"
     },
     "resource-management": {
         "open-profile": "Open Profile",

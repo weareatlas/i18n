@@ -986,7 +986,9 @@
         "applicant": "Richiedente",
         "skills": "Abilità",
         "top-skills": "Competenze superiori",
-        "apply-to-opportunity": "Applica all'opportunità"
+        "apply-to-opportunity": "Applica all'opportunità",
+        "my-submissions": "I miei contributi",
+        "my-opportunities": "Le mie opportunità"
     },
     "resource-management": {
         "open-profile": "Apri il profilo",

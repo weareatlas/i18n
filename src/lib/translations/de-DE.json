@@ -986,7 +986,9 @@
         "applicant": "Antragstellerin",
         "skills": "Fähigkeiten",
         "top-skills": "Top-Fähigkeiten",
-        "apply-to-opportunity": "Bewerben Sie sich für die Gelegenheit"
+        "apply-to-opportunity": "Bewerben Sie sich für die Gelegenheit",
+        "my-submissions": "Meine Bewerbungen",
+        "my-opportunities": "Meine Chancen"
     },
     "resource-management": {
         "open-profile": "Profil öffnen",
