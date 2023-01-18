@@ -986,7 +986,9 @@
         "applicant": "Solicitante",
         "skills": "Habilidades",
         "top-skills": "Habilidades principales",
-        "apply-to-opportunity": "Aplicar a la oportunidad"
+        "apply-to-opportunity": "Aplicar a la oportunidad",
+        "my-submissions": "Mis envíos",
+        "my-opportunities": "Mis oportunidades"
     },
     "resource-management": {
         "open-profile": "Abrir perfil",

@@ -986,7 +986,9 @@
         "applicant": "Başvuru sahibi",
         "skills": "Yetenekler",
         "top-skills": "En İyi Beceriler",
-        "apply-to-opportunity": "Fırsata Uygula"
+        "apply-to-opportunity": "Fırsata Uygula",
+        "my-submissions": "Gönderimlerim",
+        "my-opportunities": "Fırsatlarım"
     },
     "resource-management": {
         "open-profile": "Profili Aç",

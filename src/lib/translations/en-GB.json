@@ -986,7 +986,9 @@
         "applicant": "Applicant",
         "skills": "Skills",
         "top-skills": "Top Skills",
-        "apply-to-opportunity": "Apply To Opportunity"
+        "apply-to-opportunity": "Apply To Opportunity",
+        "my-submissions": "My Submissions",
+        "my-opportunities": "My Opportunities"
     },
     "resource-management": {
         "open-profile": "Open Profile",
@@ -1075,7 +1077,9 @@
         "applicant-name": "Applicant Name",
         "company-name": "Company Name",
         "filter-by": "Filter by:",
-        "edit-opportunity": "Edit Opportunity"
+        "edit-opportunity": "Edit Opportunity",
+        "my-submissions": "My Submissions",
+        "my-opportunities": "My Opportunities"
     },
     "process-banner": {
         "created": "Created Process",
