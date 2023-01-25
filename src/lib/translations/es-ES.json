@@ -683,6 +683,7 @@
         "register": "Registrarse",
         "learning": "Aprendiendo",
         "template-id": "ID de plantilla",
+        "version-group-id": "ID de grupo de versión",
         "favourites-bar": "Barra de favoritos",
         "notify-on-ready": "Notificar en listo",
         "user-workflow": "Flujo de trabajo del usuario",

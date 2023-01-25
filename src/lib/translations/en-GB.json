@@ -683,6 +683,7 @@
         "register": "Register",
         "learning": "Learning",
         "template-id": "Template Id",
+        "version-group-id": "Version group Id",
         "favourites-bar": "Favourites bar",
         "notify-on-ready": "Notify on Ready",
         "user-workflow": "User Workflow",
