@@ -458,7 +458,8 @@
         "invalid-role-tooltip": "Rolle [invalidRole] wurde gelöscht",
         "invalid-process-roles": "Ungültige Rollen auf Prozessebene: [processRoles]",
         "invalid-task-roles": "Ungültige Rollen auf Aufgabenebene: [taskRoles]",
-        "explore-features": "Entdecken Sie Funktionen"
+        "explore-features": "Entdecken Sie Funktionen",
+        "view-in-full": "Aufgabe im Vollbild anzeigen"
     },
     "links": {
         "contact-us": "Kontaktiere uns",

@@ -458,7 +458,8 @@
         "invalid-role-tooltip": "Rol [invalidRole] silindi",
         "invalid-process-roles": "Geçersiz süreç düzeyi rolleri: [processRoles]",
         "invalid-task-roles": "Geçersiz görev düzeyi rolleri: [taskRoles]",
-        "explore-features": "Özellikleri Keşfedin"
+        "explore-features": "Özellikleri Keşfedin",
+        "view-in-full": "Görevi tam ekranda görüntüle"
     },
     "links": {
         "contact-us": "Bizimle İrtibata Geçin",
