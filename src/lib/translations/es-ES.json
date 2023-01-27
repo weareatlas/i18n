@@ -458,7 +458,8 @@
         "invalid-role-tooltip": "El rol [invalidRole] ha sido eliminado",
         "invalid-process-roles": "Roles de nivel de proceso no válidos: [processRoles]",
         "invalid-task-roles": "Roles de nivel de tarea no válidos: [taskRoles]",
-        "explore-features": "Explorar características"
+        "explore-features": "Explorar características",
+        "view-in-full": "Ver tarea en pantalla completa"
     },
     "links": {
         "contact-us": "Contáctenos",

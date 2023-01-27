@@ -458,7 +458,8 @@
         "invalid-role-tooltip": "Role [invalidRole] has been deleted",
         "invalid-process-roles": "Invalid process level roles: [processRoles]",
         "invalid-task-roles": "Invalid task level roles: [taskRoles]",
-        "explore-features": "Explore Features"
+        "explore-features": "Explore Features",
+        "view-in-full": "View task in full screen"
     },
     "links": {
         "contact-us": "Contact us",
