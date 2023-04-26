@@ -706,7 +706,8 @@
         "marketplace-opportunities": "Mercato e opportunità",
         "applications": "Presentazioni di opportunità",
         "task-side-panel": "Pannello laterale attività",
-        "resource-entity-triggers": "Trigger di entità risorsa, opportunità e mercato"
+        "resource-entity-triggers": "Trigger di entità risorsa, opportunità e mercato",
+        "viewport": "Finestra"
     },
     "language": {
         "english": "Inglese (English)",
@@ -1093,5 +1094,31 @@
         "task-complete": "Compito completato",
         "error": "Errore di processo",
         "tooltip": "Tutti i tag di processo"
+    },
+    "permissions": {
+        "role-permissions": "Permessi di ruolo",
+        "dashboards": "Cruscotti",
+        "global-dashboards": "Cruscotti globali",
+        "dashboard-roles": "Ruoli del cruscotto",
+        "navigation": "Navigazione",
+        "home": "Home",
+        "run": "Esegui",
+        "management-dashboard": "Cruscotto di gestione",
+        "marketplace": "Mercato",
+        "learning": "Apprendimento",
+        "opportunities": "Opportunità",
+        "global-opportunities": "Opportunità globali",
+        "submissions": "Invii",
+        "global-submissions": "Invii globali",
+        "resources": "Risorse",
+        "global-resources": "Risorse globali",
+        "roles": "Ruoli",
+        "global-roles": "Ruoli globali",
+        "users": "Utenti",
+        "invite": "Invita",
+        "process": "Processo",
+        "process-tasks": "Attività di processo",
+        "process-templates": "Modelli di processo",
+        "global-processes": "Processi globali"
     }
 }

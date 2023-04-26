@@ -706,7 +706,8 @@
         "marketplace-opportunities": "Marketplace & Opportunities",
         "applications": "Opportunity Submissions",
         "task-side-panel": "Task Side Panel",
-        "resource-entity-triggers": "Resource, Opportunity & Marketplace entity triggers"
+        "resource-entity-triggers": "Resource, Opportunity & Marketplace entity triggers",
+        "viewport": "Viewport"
     },
     "language": {
         "english": "English",
@@ -1093,5 +1094,31 @@
         "task-complete": "Task Completed",
         "error": "Process Error",
         "tooltip": "All Process Tags"
+    },
+    "permissions": {
+        "role-permissions": "Role Permissions",
+        "dashboards": "Dashboards",
+        "global-dashboards": "Global Dashboards",
+        "dashboard-roles": "Dashboard Roles",
+        "navigation": "Navigation",
+        "home": "Home",
+        "run": "Run",
+        "management-dashboard": "Management Dashboard",
+        "marketplace": "Marketplace",
+        "learning": "Learning",
+        "opportunities": "Opportunities",
+        "global-opportunities": "Global Opportunities",
+        "submissions": "Submissions",
+        "global-submissions": "Global Submissions",
+        "resources": "Resources",
+        "global-resources": "Global Resources",
+        "roles": "Roles",
+        "global-roles": "Global Roles",
+        "users": "Users",
+        "invite": "Invite",
+        "process": "Process",
+        "process-tasks": "Process Tasks",
+        "process-templates": "Process Templates",
+        "global-processes": "Global Processes"
     }
 }

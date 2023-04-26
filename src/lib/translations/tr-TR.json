@@ -706,7 +706,8 @@
         "marketplace-opportunities": "Pazar Yeri ve Fırsatlar",
         "applications": "Fırsat Gönderimleri",
         "task-side-panel": "Görev Yan Paneli",
-        "resource-entity-triggers": "Kaynak, Fırsat ve Pazar varlık tetikleyicileri"
+        "resource-entity-triggers": "Kaynak, Fırsat ve Pazar varlık tetikleyicileri",
+        "viewport": "görünüm alanı"
     },
     "language": {
         "english": "İngilizce",
@@ -1093,5 +1094,31 @@
         "task-complete": "Görev tamamlandı",
         "error": "İşlem Hatası",
         "tooltip": "Tüm Süreç Etiketleri"
+    },
+    "permissions":  {
+        "role-permissions": "Rol İzinleri",
+        "dashboards": "Gösterge Panoları",
+        "global-dashboards": "Genel Gösterge Panoları",
+        "dashboard-roles": "Gösterge Paneli Roller",
+        "navigation": "Gezinme",
+        "home": "Ana Sayfa",
+        "run": "Çalıştır",
+        "management-dashboard": "Yönetim Gösterge Paneli",
+        "marketplace": "Pazar Yeri",
+        "learning": "Öğrenme",
+        "opportunities": "Fırsatlar",
+        "global-opportunities": "Genel Fırsatlar",
+        "submissions": "Sunumlar",
+        "global-submissions": "Genel Sunumlar",
+        "resources": "Kaynaklar",
+        "global-resources": "Genel Kaynaklar",
+        "roles": "Roller",
+        "global-roles": "Genel Roller",
+        "users": "Kullanıcılar",
+        "invite": "Davet et",
+        "process": "Süreç",
+        "process-tasks": "Süreç Görevleri",
+        "process-templates": "Süreç Şablonları",
+        "global-processes": "Genel Süreçler"
     }
 }

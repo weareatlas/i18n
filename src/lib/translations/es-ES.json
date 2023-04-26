@@ -706,7 +706,8 @@
         "marketplace-opportunities": "Mercado y Oportunidades",
         "applications": "Presentaciones de oportunidades",
         "task-side-panel": "Panel lateral de tareas",
-        "resource-entity-triggers": "Disparadores de entidades de recursos, oportunidades y Marketplace"
+        "resource-entity-triggers": "Disparadores de entidades de recursos, oportunidades y Marketplace",
+        "viewport": "Vista"
     },
     "language": {
         "english": "Inglés (English)",
@@ -1093,5 +1094,31 @@
         "task-complete": "Tarea terminada",
         "error": "error de proceso",
         "tooltip": "Todas las etiquetas de proceso"
+    },
+    "permissions":  {
+        "role-permissions": "Permisos de rol",
+        "dashboards": "Paneles de control",
+        "global-dashboards": "Paneles de control globales",
+        "dashboard-roles": "Roles de panel de control",
+        "navigation": "Navegación",
+        "home": "Inicio",
+        "run": "Ejecutar",
+        "management-dashboard": "Panel de control de gestión",
+        "marketplace": "Mercado",
+        "learning": "Aprendizaje",
+        "opportunities": "Oportunidades",
+        "global-opportunities": "Oportunidades globales",
+        "submissions": "Envíos",
+        "global-submissions": "Envíos globales",
+        "resources": "Recursos",
+        "global-resources": "Recursos globales",
+        "roles": "Roles",
+        "global-roles": "Roles globales",
+        "users": "Usuarios",
+        "invite": "Invitar",
+        "process": "Proceso",
+        "process-tasks": "Tareas de proceso",
+        "process-templates": "Plantillas de proceso",
+        "global-processes": "Procesos globales"
     }
 }
