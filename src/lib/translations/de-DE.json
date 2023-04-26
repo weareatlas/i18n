@@ -706,7 +706,8 @@
         "marketplace-opportunities": "Marktplatz & Möglichkeiten",
         "applications": "Gelegenheitsbeiträge",
         "task-side-panel": "Task-Seitenbereich",
-        "resource-entity-triggers": "Ressourcen-, Opportunity- und Marketplace-Entitätsauslöser"
+        "resource-entity-triggers": "Ressourcen-, Opportunity- und Marketplace-Entitätsauslöser",
+        "viewport": "Ansichtsfenster"
     },
     "language": {
         "english": "Englisch (English)",
@@ -1093,5 +1094,31 @@
         "task-complete": "Aufgabe erledigt",
         "error": "Prozess Fehler",
         "tooltip": "Alle Prozessvariablen"
+    },
+    "permissions": {
+        "role-permissions": "Rollenberechtigungen",
+        "dashboards": "Dashboards",
+        "global-dashboards": "Globale Dashboards",
+        "dashboard-roles": "Dashboard-Rollen",
+        "navigation": "Navigation",
+        "home": "Startseite",
+        "run": "Starten",
+        "management-dashboard": "Management-Dashboard",
+        "marketplace": "Marktplatz",
+        "learning": "Lernen",
+        "opportunities": "Möglichkeiten",
+        "global-opportunities": "Globale Möglichkeiten",
+        "submissions": "Einreichungen",
+        "global-submissions": "Globale Einreichungen",
+        "resources": "Ressourcen",
+        "global-resources": "Globale Ressourcen",
+        "roles": "Rollen",
+        "global-roles": "Globale Rollen",
+        "users": "Benutzer",
+        "invite": "Einladen",
+        "process": "Prozess",
+        "process-tasks": "Prozessaufgaben",
+        "process-templates": "Prozessvorlagen",
+        "global-processes": "Globale Prozesse"
     }
 }
