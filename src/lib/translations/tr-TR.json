@@ -1119,6 +1119,10 @@
         "process": "Süreç",
         "process-tasks": "Süreç Görevleri",
         "process-templates": "Süreç Şablonları",
-        "global-processes": "Genel Süreçler"
+        "global-processes": "Genel Süreçler",
+        "create": "Oluşturmak",
+        "read": "Okumak",
+        "update": "Güncellemek",
+        "delete": "Silmek"
     }
 }
