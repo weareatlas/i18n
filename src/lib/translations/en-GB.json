@@ -1119,6 +1119,10 @@
         "process": "Process",
         "process-tasks": "Process Tasks",
         "process-templates": "Process Templates",
-        "global-processes": "Global Processes"
+        "global-processes": "Global Processes",
+        "create": "Create",
+        "read": "Read",
+        "update": "Update",
+        "delete": "Delete"
     }
 }

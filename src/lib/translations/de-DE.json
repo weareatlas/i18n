@@ -1119,6 +1119,10 @@
         "process": "Prozess",
         "process-tasks": "Prozessaufgaben",
         "process-templates": "Prozessvorlagen",
-        "global-processes": "Globale Prozesse"
+        "global-processes": "Globale Prozesse",
+        "create": "Erstellen",
+        "read": "Lesen",
+        "update": "Aktualisieren",
+        "delete": "Löschen"
     }
 }
