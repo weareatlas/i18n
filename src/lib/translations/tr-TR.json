@@ -1123,6 +1123,8 @@
         "create": "Oluşturmak",
         "read": "Okumak",
         "update": "Güncellemek",
-        "delete": "Silmek"
+        "delete": "Silmek",
+        "edit": "Düzenle",
+        "processes": "Süreçler"
     }
 }

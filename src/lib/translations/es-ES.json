@@ -1123,6 +1123,8 @@
         "create": "Crear",
         "read": "Leer",
         "update": "Actualizar",
-        "delete": "Eliminar"
+        "delete": "Eliminar",
+        "edit": "Editar",
+        "processes": "Procesos"
     }
 }
